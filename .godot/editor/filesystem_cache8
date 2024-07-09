@@ -1,0 +1,1898 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1720558267
+icon.svg::CompressedTexture2D::8359346869859610217::1720557509::1720557514::1::::<><>::
+Scenes.tscn::PackedScene::5033756153762371106::1720558172::0::1::::<><>::
+::res://Aekashics Librarium - 3 Frame Frontview $Big_Monster Sprites/::1720557423
+Terms of use.txt::TextFile::-1::1720557423::0::1::::<><>::
+::res://Aekashics Librarium - 3 Frame Frontview $Big_Monster Sprites/Aekashics Librarium Idle Frontview Sprites/::1720557627
+!$Ancient_Priestess.png::CompressedTexture2D::6845193016124474699::1720557423::1720558420::1::::<><>::
+!$AphroditePR.png::CompressedTexture2D::8093221381173444380::1720557423::1720558420::1::::<><>::
+!$DarkQueenShaccad.png::CompressedTexture2D::9071143299456008593::1720557423::1720558420::1::::<><>::
+!$Dynamo.png::CompressedTexture2D::4742427692821193325::1720557423::1720558420::1::::<><>::
+!$Goken.png::CompressedTexture2D::7354175511788659645::1720557423::1720558420::1::::<><>::
+!$Grunt.png::CompressedTexture2D::5655801231469932658::1720557423::1720558420::1::::<><>::
+!$HuangLong.png::CompressedTexture2D::5466199562558288703::1720557423::1720558420::1::::<><>::
+!$Leviathan.png::CompressedTexture2D::2485222023359808890::1720557423::1720558420::1::::<><>::
+!$LKnightMichael.png::CompressedTexture2D::2377205020751393712::1720557423::1720558420::1::::<><>::
+!$ShaccadYogg.png::CompressedTexture2D::6422834726435723489::1720557423::1720558420::1::::<><>::
+!$Skoll.png::CompressedTexture2D::4566555949370872572::1720557423::1720558420::1::::<><>::
+!$Skor.png::CompressedTexture2D::366001077068316998::1720557423::1720558420::1::::<><>::
+!$UrmicaR.png::CompressedTexture2D::7263722800351726677::1720557423::1720558420::1::::<><>::
+!$VoidGargoyleIo.png::CompressedTexture2D::3477443764941397252::1720557423::1720558420::1::::<><>::
+!$ZodiacCancer.png::CompressedTexture2D::7367047740819170012::1720557423::1720558420::1::::<><>::
+$!MknightGoldnharl.png::CompressedTexture2D::5390866104582762991::1720557423::1720558420::1::::<><>::
+$!SkullKnightXoer.png::CompressedTexture2D::2349957341121928088::1720557423::1720558420::1::::<><>::
+$!Ygg.png::CompressedTexture2D::2868113895178287296::1720557423::1720558420::1::::<><>::
+$AntQueen.png::CompressedTexture2D::1106108365893933654::1720557423::1720558420::1::::<><>::
+$BigMonster3.png::CompressedTexture2D::1515916764880735286::1720557423::1720558420::1::::<><>::
+$BigMonster4.png::CompressedTexture2D::9038234818264498192::1720557423::1720558419::1::::<><>::
+$BigMonster5.png::CompressedTexture2D::5065907912405418690::1720557423::1720558419::1::::<><>::
+$BigMonster6.png::CompressedTexture2D::7583840934462457393::1720557423::1720558419::1::::<><>::
+$BigMonster7.png::CompressedTexture2D::8603186287551231146::1720557423::1720558419::1::::<><>::
+$BigMonster8.png::CompressedTexture2D::6480397039703266260::1720557423::1720558419::1::::<><>::
+$BigMonster9.png::CompressedTexture2D::3517413197138904088::1720557423::1720558419::1::::<><>::
+$BigMonster10.png::CompressedTexture2D::8955088944480504674::1720557423::1720558419::1::::<><>::
+$BigMonster11.png::CompressedTexture2D::2317017515047140911::1720557423::1720558419::1::::<><>::
+$BigMonster12.png::CompressedTexture2D::8501546719183381658::1720557423::1720558419::1::::<><>::
+$BigMonster13.png::CompressedTexture2D::7670942938319350943::1720557423::1720558424::1::::<><>::
+$Big_Monster14.png::CompressedTexture2D::3157845909001833878::1720557423::1720558424::1::::<><>::
+$Big_Monster15.png::CompressedTexture2D::3907950860565303874::1720557423::1720558424::1::::<><>::
+$Big_Monster16.png::CompressedTexture2D::3987260916193521156::1720557423::1720558424::1::::<><>::
+$Big_Monster17.png::CompressedTexture2D::6235505712124766970::1720557423::1720558424::1::::<><>::
+$Big_Monster18.png::CompressedTexture2D::3181288834751758750::1720557423::1720558424::1::::<><>::
+$Big_Monster19.png::CompressedTexture2D::6336346676408322463::1720557423::1720558424::1::::<><>::
+$Big_Monster20.png::CompressedTexture2D::4228675125843854462::1720557423::1720558424::1::::<><>::
+$Big_Monster21.png::CompressedTexture2D::3433764006994545278::1720557423::1720558424::1::::<><>::
+$Big_Monster22.png::CompressedTexture2D::4656874773630527324::1720557423::1720558424::1::::<><>::
+$Demeres.png::CompressedTexture2D::5757600995764340181::1720557423::1720558424::1::::<><>::
+$LegendaryKnightRemmentPR.png::CompressedTexture2D::3301574713705093209::1720557423::1720558424::1::::<><>::
+KingsA.png::CompressedTexture2D::1858914391363852616::1720557423::1720558424::1::::<><>::
+::res://Aekashics Librarium - Dragonbones Animated Battlers/::1720557432
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/::1720557433
+How to use.txt::TextFile::-1::1720557432::0::1::::<><>::
+Terms of use.txt::TextFile::-1::1720557433::0::1::::<><>::
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/::1720558363
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/Aekashics-Librarium-Dragon-Huanglong/::1720558363
+!$HuangLong.png::CompressedTexture2D::438284934453933593::1720558363::1720558423::1::::<><>::
+How to use.txt::TextFile::-1::1720558363::0::1::::<><>::
+Terms of use.txt::TextFile::-1::1720558363::0::1::::<><>::
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/Aekashics-Librarium-Dragon-Huanglong/dragonbones_assets/::1720558363
+HuangLong_settings.txt::TextFile::-1::1720558363::0::1::::<><>::
+HuangLong_ske.json::JSON::-1::1720558363::0::1::::<><>::
+HuangLong_tex.json::JSON::-1::1720558363::0::1::::<><>::
+HuangLong_tex.png::CompressedTexture2D::4735148764003068598::1720558363::1720558424::1::::<><>::
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/Aekashics-Librarium-Dragon-Huanglong/Static/::1720558363
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/Aekashics-Librarium-Dragon-Huanglong/Static/Front/::1720558363
+Boss Dragon Huanglong.png::CompressedTexture2D::8941795884478988154::1720558363::1720558424::1::::<><>::
+::res://Aekashics Librarium - Dragonbones Animated Battlers/Aekashics Librarium - Dragonbones Animated Battlers/Dragonbones Battlers/Aekashics-Librarium-Dragon-Huanglong/Static/Side/::1720558363
+Boss Dragon Huanglong.png::CompressedTexture2D::4393990992038966713::1720558363::1720558423::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/::1720557406
+Terms of use.txt::TextFile::-1::1720557406::0::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/::1720557408
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Anubis/::1720557632
+Anubis.png::CompressedTexture2D::2794784588479735141::1720557407::1720558429::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Bat/::1720557626
+Bat1_1.png::CompressedTexture2D::6620840120803440367::1720557407::1720558424::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Carnivorous Plant Cathy/::1720557624
+carnivorousplant.png::CompressedTexture2D::1434767546977832074::1720557407::1720558423::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Clockwork Dragon Gearex/::1720557627
+Gearex.png::CompressedTexture2D::3092906594983516982::1720557407::1720558426::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Critter Unibun/::1720557625
+Unibun1_1.png::CompressedTexture2D::2695626550201388863::1720557407::1720558423::1::::<><>::
+Unibun.png::CompressedTexture2D::964121984830712921::1720557407::1720558422::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Demon Butler Clorfos/::1720557627
+Clorfos3.png::CompressedTexture2D::4128863138652663081::1720557407::1720558424::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Dragon Demios/::1720557629
+Demios.png::CompressedTexture2D::1586475075500967091::1720557407::1720558425::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Golem Ort/::1720557628
+Golem1_1.png::CompressedTexture2D::3379357175349856923::1720557407::1720558426::1::::<><>::
+Golem1_2.png::CompressedTexture2D::1323922566654337493::1720557407::1720558426::1::::<><>::
+Golem.png::CompressedTexture2D::8626516790280164839::1720557407::1720558425::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Great Owl/::1720557627
+Great Owl.png::CompressedTexture2D::774702810843745103::1720557407::1720558427::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Jupiter/::1720557626
+Jupiter.png::CompressedTexture2D::4164995097884392859::1720557407::1720558422::1::::<><>::
+Terms of use - Tag settings.txt::TextFile::-1::1720557407::0::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Kraken Oceanos/::1720557627
+OceanosL.png::CompressedTexture2D::6284387774113115299::1720557408::1720558422::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Lamia Diana/::1720557622
+Diana1_1.png::CompressedTexture2D::8503337274831931268::1720557408::1720558417::1::::<><>::
+Diana1_2.png::CompressedTexture2D::446439934968594995::1720557408::1720558417::1::::<><>::
+Diana1_3.png::CompressedTexture2D::7653873488354147209::1720557408::1720558417::1::::<><>::
+Diana.png::CompressedTexture2D::7042874613810770868::1720557408::1720558417::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Leaf Leafen/::1720557619
+Leafen1_1.png::CompressedTexture2D::6320240821455750161::1720557408::1720558417::1::::<><>::
+Leafen1_2.png::CompressedTexture2D::8842497246306908755::1720557408::1720558417::1::::<><>::
+Leafen.png::CompressedTexture2D::3274882462083604893::1720557408::1720558417::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Mimic MiMic/::1720557623
+Mimic.png::CompressedTexture2D::7755024114387762281::1720557408::1720558423::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Minotaur Beef/::1720557620
+Beef.png::CompressedTexture2D::4131944433280345493::1720557408::1720558417::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Phoenix/::1720557621
+Phoenix.png::CompressedTexture2D::7299808548911928373::1720557408::1720558418::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Quetzalcoatl/::1720557623
+Quetzalcoatl.png::CompressedTexture2D::2696223878102473148::1720557408::1720558422::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Rat Ritz/::1720557618
+Ritz.png::CompressedTexture2D::3158108603110435380::1720557408::1720558416::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Skeleton Alstreim/::1720557619
+Alstreim2.png::CompressedTexture2D::7450895596439970229::1720557408::1720558417::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Slime/::1720557617
+Slime1_1.png::CompressedTexture2D::1702083347378541126::1720557408::1720558415::1::::<><>::
+Slime1_2.png::CompressedTexture2D::8486832449155720340::1720557408::1720558415::1::::<><>::
+Slime1_3.png::CompressedTexture2D::6453833171447733337::1720557408::1720558415::1::::<><>::
+Slime1_4.png::CompressedTexture2D::2172691665962954680::1720557408::1720558415::1::::<><>::
+Slime1_5.png::CompressedTexture2D::7714280962305992611::1720557408::1720558415::1::::<><>::
+Slime1_6.png::CompressedTexture2D::1458918578231874766::1720557408::1720558415::1::::<><>::
+Slime1_7.png::CompressedTexture2D::2650299136608094216::1720557408::1720558415::1::::<><>::
+Slime1_8.png::CompressedTexture2D::1464629950246972734::1720557408::1720558415::1::::<><>::
+Slime1_9.png::CompressedTexture2D::24197055942931487::1720557408::1720558415::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Snake Cobrens/::1720557617
+Cobrens1_1.png::CompressedTexture2D::7485998035628392760::1720557408::1720558415::1::::<><>::
+Cobrens1_2.png::CompressedTexture2D::7787814309891988790::1720557408::1720558415::1::::<><>::
+Cobrens1_3.png::CompressedTexture2D::4834105131042077880::1720557408::1720558415::1::::<><>::
+Cobrens.png::CompressedTexture2D::7674998295231164138::1720557408::1720558415::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Succubbus Vi/::1720557618
+Vi1_1.png::CompressedTexture2D::7059323131825590423::1720557408::1720558420::1::::<><>::
+Vi1_2.png::CompressedTexture2D::4118979252422188132::1720557408::1720558420::1::::<><>::
+Vi.png::CompressedTexture2D::5899142980749682931::1720557408::1720558420::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Tiamat/::1720557622
+Tiamat.png::CompressedTexture2D::7841788861041813655::1720557408::1720558423::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Ventoss/::1720557623
+VEntos.png::CompressedTexture2D::329365392227335263::1720557408::1720558421::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Werewolf Regulus/::1720557621
+Regulus.png::CompressedTexture2D::878700252555728117::1720557408::1720558419::1::::<><>::
+::res://Aekashics Librarium MV Format Animated Battlers/RPG Maker MV format Animated Sideview Battlers/Wisp Wispia/::1720557620
+Wispia.png::CompressedTexture2D::897060660702724023::1720557409::1720558418::1::::<><>::
+::res://Aekashics Librarium Static Battlers/::1720557407
+Terms of use.txt::TextFile::-1::1720557392::0::1::::<><>::
+::res://Aekashics Librarium Static Battlers/Frontview Batch Battlers/::1720557633
+AncientAutomaton.png::CompressedTexture2D::1326932555164981619::1720557392::1720558418::1::::<><>::
+Arcane Crystal Magic Circle.png::CompressedTexture2D::5252118748435985343::1720557392::1720558418::1::::<><>::
+Arcane Crystal.png::CompressedTexture2D::9098293075390634862::1720557392::1720558418::1::::<><>::
+Arcane Golem.png::CompressedTexture2D::9102372666140975964::1720557392::1720558418::1::::<><>::
+Arcane Orb Fire.png::CompressedTexture2D::661539823963610487::1720557392::1720558418::1::::<><>::
+Arcane Orb Frost.png::CompressedTexture2D::1667500675668638711::1720557392::1720558417::1::::<><>::
+Arcane Orb Thunder.png::CompressedTexture2D::1536315048875161298::1720557392::1720558417::1::::<><>::
+Arcane Orb Wind.png::CompressedTexture2D::7254969318256087412::1720557392::1720558417::1::::<><>::
+Aspiring Knight Gladius.png::CompressedTexture2D::83002529819053411::1720557392::1720558417::1::::<><>::
+Aspiring Knight Palazo.png::CompressedTexture2D::5952568610876598758::1720557392::1720558417::1::::<><>::
+Aspiring Knight Valterra.png::CompressedTexture2D::1172202096463775029::1720557392::1720558417::1::::<><>::
+Assasin Garland.png::CompressedTexture2D::6748259334830663539::1720557392::1720558417::1::::<><>::
+Assembling Automatons Automaton A.png::CompressedTexture2D::9199468872715160209::1720557392::1720558417::1::::<><>::
+Assembling Automatons Automaton B.png::CompressedTexture2D::7074385299145964179::1720557392::1720558417::1::::<><>::
+Assembling Automatons Automaton C.png::CompressedTexture2D::2124689411394223453::1720557392::1720558417::1::::<><>::
+Assembling Automatons Automaton D.png::CompressedTexture2D::599032481366914465::1720557392::1720558417::1::::<><>::
+Blood Manipulation Feral.png::CompressedTexture2D::5496249385120841185::1720557392::1720558417::1::::<><>::
+Blood Manipulation Mage.png::CompressedTexture2D::4132366496594198979::1720557392::1720558417::1::::<><>::
+Blood Manipulation Slime.png::CompressedTexture2D::1932805845826104122::1720557392::1720558417::1::::<><>::
+Boss Abomination Aqua.png::CompressedTexture2D::5983151371814645718::1720557392::1720558417::1::::<><>::
+Boss Abomination Red.png::CompressedTexture2D::7289240167307757281::1720557392::1720558417::1::::<><>::
+Boss Alfadriel.png::CompressedTexture2D::7851917458779202569::1720557392::1720558417::1::::<><>::
+Boss Ancient Automaton.png::CompressedTexture2D::2413213783972470346::1720557392::1720558426::1::::<><>::
+Boss Ancient Priestess.png::CompressedTexture2D::19258492021968144::1720557392::1720558426::1::::<><>::
+Boss Astral Lich.png::CompressedTexture2D::4866356008461293493::1720557392::1720558426::1::::<><>::
+Boss Big Fish.png::CompressedTexture2D::784566311740125395::1720557392::1720558426::1::::<><>::
+Boss Black Ant Queen.png::CompressedTexture2D::653132152398957390::1720557392::1720558426::1::::<><>::
+Boss Blood Feral.png::CompressedTexture2D::3550186220283139089::1720557392::1720558426::1::::<><>::
+Boss Bonemask Shadow Creature.png::CompressedTexture2D::7358837287750641500::1720557392::1720558426::1::::<><>::
+Boss Continental Turtle Rukkha.png::CompressedTexture2D::7300455981150413517::1720557392::1720558426::1::::<><>::
+Boss Crab King Karkinos.png::CompressedTexture2D::4708154049133858819::1720557392::1720558426::1::::<><>::
+Boss Daidarabotchi.png::CompressedTexture2D::6411405594330958421::1720557392::1720558426::1::::<><>::
+Boss Dark Queen Shaccad Yoggoth.png::CompressedTexture2D::7587334899062848403::1720557392::1720558426::1::::<><>::
+Boss Darklord Excelsios.png::CompressedTexture2D::8417350846896234277::1720557392::1720558426::1::::<><>::
+Boss Darkness Titan Ilnoct.png::CompressedTexture2D::802715211635955049::1720557392::1720558426::1::::<><>::
+Boss Doppelganger Slime.png::CompressedTexture2D::2630505106671543738::1720557392::1720558426::1::::<><>::
+Boss Dragon Emperor.png::CompressedTexture2D::7119821292494381086::1720557392::1720558426::1::::<><>::
+Boss Dragon Huanglong.png::CompressedTexture2D::8572305366766434423::1720557392::1720558426::1::::<><>::
+Boss Dryad Queen Rafflesia.png::CompressedTexture2D::7838984038123705815::1720557392::1720558426::1::::<><>::
+Boss Dryad Yggdrasil.png::CompressedTexture2D::5185484579597992214::1720557392::1720558426::1::::<><>::
+Boss Earth Dragon.png::CompressedTexture2D::5802920150725191679::1720557392::1720558426::1::::<><>::
+Boss Eldritch God Shaccad'Yoggoth.png::CompressedTexture2D::108978298544945850::1720557392::1720558426::1::::<><>::
+Boss Eldritch Slime Overmind.png::CompressedTexture2D::9100344685422575633::1720557392::1720558426::1::::<><>::
+Boss Feral Kitsune.png::CompressedTexture2D::2084985874572105098::1720557392::1720558426::1::::<><>::
+Boss Flynn The Original Slime.png::CompressedTexture2D::468886030453947806::1720557392::1720558426::1::::<><>::
+Boss God Jupiter.png::CompressedTexture2D::1546699964372619415::1720557392::1720558426::1::::<><>::
+Boss God Novus.png::CompressedTexture2D::4753789134607053504::1720557392::1720558426::1::::<><>::
+Boss God Warrior Dagon.png::CompressedTexture2D::3416011362546674935::1720557392::1720558426::1::::<><>::
+Boss God Warrior Isis.png::CompressedTexture2D::864174398135805473::1720557392::1720558426::1::::<><>::
+Boss God Warrior Osiris.png::CompressedTexture2D::3149747174952436427::1720557392::1720558426::1::::<><>::
+Boss God Warrior Poseidon.png::CompressedTexture2D::2492159777077783408::1720557392::1720558426::1::::<><>::
+Boss God Warrior Skoll.png::CompressedTexture2D::1524933998626449423::1720557393::1720558427::1::::<><>::
+Boss Goddess Aphrodite.png::CompressedTexture2D::7551912746743362214::1720557393::1720558427::1::::<><>::
+Boss Goddess Innova.png::CompressedTexture2D::3608264861973898638::1720557393::1720558427::1::::<><>::
+Boss Grand Sorceress Duessa.png::CompressedTexture2D::509577973156720701::1720557393::1720558427::1::::<><>::
+Boss Hades.png::CompressedTexture2D::3703537698210772884::1720557393::1720558427::1::::<><>::
+Boss Hellhound Garm.png::CompressedTexture2D::4177474835723337293::1720557393::1720558427::1::::<><>::
+Boss Ice Titan Demeres.png::CompressedTexture2D::7373080975630864495::1720557393::1720558427::1::::<><>::
+Boss Insect Queen.png::CompressedTexture2D::7905269374500386670::1720557393::1720558427::1::::<><>::
+Boss Jubokko.png::CompressedTexture2D::4460196297773235630::1720557393::1720558427::1::::<><>::
+Boss Khronos.png::CompressedTexture2D::2706179789118529413::1720557393::1720558427::1::::<><>::
+Boss Legendary Knight Remment.png::CompressedTexture2D::1123530989334587401::1720557393::1720558427::1::::<><>::
+Boss Lich King.png::CompressedTexture2D::7520500854084838177::1720557393::1720558427::1::::<><>::
+Boss Life Titan Aphylia.png::CompressedTexture2D::6854292358977202659::1720557393::1720558427::1::::<><>::
+Boss Light Titan Alfadriel.png::CompressedTexture2D::5133303948688398592::1720557393::1720558427::1::::<><>::
+Boss Living Hoard Midas.png::CompressedTexture2D::2305761182225930164::1720557393::1720558426::1::::<><>::
+Boss Mecha Rattlesnake.png::CompressedTexture2D::535202481840597001::1720557393::1720558426::1::::<><>::
+Boss Mecha-Dragon Ladon.png::CompressedTexture2D::6187096272370560036::1720557393::1720558426::1::::<><>::
+Boss Mecha-Scorpion.png::CompressedTexture2D::5490520760598732609::1720557393::1720558426::1::::<><>::
+Boss Mythical Knight Goldnharl.png::CompressedTexture2D::1073296208327693852::1720557393::1720558426::1::::<><>::
+Boss Nature Titan Tellia.png::CompressedTexture2D::7741667143021926175::1720557393::1720558427::1::::<><>::
+Boss Nuckelavee.png::CompressedTexture2D::7782731224223202226::1720557393::1720558426::1::::<><>::
+Boss Orc Chief Grunt.png::CompressedTexture2D::633078143093622762::1720557393::1720558426::1::::<><>::
+Boss Parrot King.png::CompressedTexture2D::5490734119754406001::1720557393::1720558426::1::::<><>::
+Boss Radulac The Voidvod.png::CompressedTexture2D::4354682317686713489::1720557393::1720558426::1::::<><>::
+Boss Reaper Nihilo.png::CompressedTexture2D::8913032776145749122::1720557393::1720558426::1::::<><>::
+Boss Runic Stone Golem Goliath.png::CompressedTexture2D::2765680173067858543::1720557393::1720558426::1::::<><>::
+Boss Sea Calamity Urmica.png::CompressedTexture2D::5062986637218190934::1720557393::1720558426::1::::<><>::
+Boss Sea Dragon Leviathan.png::CompressedTexture2D::203429493644360226::1720557393::1720558426::1::::<><>::
+Boss Sea Mermaid Warrior Undeen.png::CompressedTexture2D::4048672246304974924::1720557393::1720558426::1::::<><>::
+Boss Skull Knight Xoer.png::CompressedTexture2D::8222567253397724148::1720557393::1720558425::1::::<><>::
+Boss Slime Golem.png::CompressedTexture2D::6162567806692120430::1720557393::1720558425::1::::<><>::
+Boss Son Of Valhalla.png::CompressedTexture2D::5699033469607564995::1720557393::1720558425::1::::<><>::
+Boss Spirit Fighter.png::CompressedTexture2D::1431441051489381918::1720557393::1720558425::1::::<><>::
+Boss Sun Goddess.png::CompressedTexture2D::6884346719509471413::1720557393::1720558425::1::::<><>::
+Boss Tantalus.png::CompressedTexture2D::5816587932236187020::1720557393::1720558425::1::::<><>::
+Boss Thanatos.png::CompressedTexture2D::1597143358659091713::1720557393::1720558425::1::::<><>::
+Boss The Fallen.png::CompressedTexture2D::5434074206277114097::1720557393::1720558425::1::::<><>::
+Boss The Horde.png::CompressedTexture2D::4903901661290916997::1720557393::1720558425::1::::<><>::
+Boss The Originator.png::CompressedTexture2D::8140471363806511804::1720557393::1720558425::1::::<><>::
+Boss Thunder Titan Dynamo.png::CompressedTexture2D::5849712899813249463::1720557393::1720558425::1::::<><>::
+Boss Tiamat Unleashed.png::CompressedTexture2D::7087735554854317723::1720557393::1720558425::1::::<><>::
+Boss Tiamat.png::CompressedTexture2D::7730531761639971831::1720557393::1720558425::1::::<><>::
+Boss Twin Gods.png::CompressedTexture2D::4903039427616642229::1720557393::1720558425::1::::<><>::
+Boss Void Gargoyle Sabre.png::CompressedTexture2D::5912485207482109812::1720557393::1720558424::1::::<><>::
+Boss Wind Titan Ventoss.png::CompressedTexture2D::7756029508443259424::1720557393::1720558425::1::::<><>::
+Boss Zeograth.png::CompressedTexture2D::2681156260673346566::1720557393::1720558424::1::::<><>::
+Boss Zodiac Cancer.png::CompressedTexture2D::5201657394593306441::1720557393::1720558424::1::::<><>::
+Breakfast Nightmares Bacon Beast.png::CompressedTexture2D::5909076913291023285::1720557393::1720558424::1::::<><>::
+Breakfast Nightmares Bread Loaf.png::CompressedTexture2D::1231280657217295751::1720557393::1720558424::1::::<><>::
+Breakfast Nightmares Egg Slime.png::CompressedTexture2D::79572101310722150::1720557393::1720558424::1::::<><>::
+Cave Dweller Blind Dragon.png::CompressedTexture2D::5053140501435380482::1720557394::1720558424::1::::<><>::
+Cave Dweller Rock Mimic.png::CompressedTexture2D::7782848322420681570::1720557394::1720558424::1::::<><>::
+Cave Dweller Worm.png::CompressedTexture2D::7012264106361132617::1720557394::1720558424::1::::<><>::
+Celestial Beatrix.png::CompressedTexture2D::2293958305965552996::1720557394::1720558424::1::::<><>::
+Cerberus Ptolemaios.png::CompressedTexture2D::8571034789795874816::1720557394::1720558424::1::::<><>::
+Clockwork Abomination.png::CompressedTexture2D::5610327448447409443::1720557394::1720558424::1::::<><>::
+Clockwork Aerial.png::CompressedTexture2D::6573960442832809691::1720557394::1720558424::1::::<><>::
+Clockwork Dragon Juggernaut.png::CompressedTexture2D::1435405082106679218::1720557394::1720558426::1::::<><>::
+Clockwork Dragon.png::CompressedTexture2D::1441052971659155162::1720557394::1720558426::1::::<><>::
+Clockwork Gigas.png::CompressedTexture2D::7540061948580503753::1720557394::1720558426::1::::<><>::
+Clockwork Iron Maiden.png::CompressedTexture2D::5984077871005184091::1720557394::1720558425::1::::<><>::
+Clockwork Juggernaut.png::CompressedTexture2D::3320075190037416194::1720557394::1720558425::1::::<><>::
+Clockwork King.png::CompressedTexture2D::6217981693167953279::1720557394::1720558426::1::::<><>::
+Clockwork Knight B.png::CompressedTexture2D::8263821838444436325::1720557394::1720558425::1::::<><>::
+Clockwork Knight C.png::CompressedTexture2D::854559381627257283::1720557394::1720558425::1::::<><>::
+Clockwork Knight D.png::CompressedTexture2D::1202632143524392463::1720557394::1720558425::1::::<><>::
+Clockwork Mini A.png::CompressedTexture2D::3406107096052460603::1720557394::1720558425::1::::<><>::
+Clockwork Mini B.png::CompressedTexture2D::2466895632135155803::1720557394::1720558425::1::::<><>::
+Clockwork Mini C.png::CompressedTexture2D::7221504650628507747::1720557394::1720558425::1::::<><>::
+Clockwork Prototype.png::CompressedTexture2D::8211319710729034551::1720557394::1720558425::1::::<><>::
+Clockwork Queen.png::CompressedTexture2D::8985902150355912378::1720557394::1720558425::1::::<><>::
+Clockwork Reaper.png::CompressedTexture2D::6966055968218959064::1720557394::1720558425::1::::<><>::
+Clockwork Skull.png::CompressedTexture2D::4538135615403364868::1720557394::1720558425::1::::<><>::
+Clockwork Slime.png::CompressedTexture2D::6973507285511193427::1720557394::1720558425::1::::<><>::
+Clockwork Spider Mini.png::CompressedTexture2D::8632873639203828694::1720557394::1720558425::1::::<><>::
+Clockwork Spider.png::CompressedTexture2D::7840385654124662951::1720557394::1720558425::1::::<><>::
+Colossal Bat.png::CompressedTexture2D::1193427974168325449::1720557394::1720558425::1::::<><>::
+Colossal Dark Crow.png::CompressedTexture2D::1722827788167042585::1720557394::1720558425::1::::<><>::
+Colossal Hydra 1.png::CompressedTexture2D::3006072702506340651::1720557394::1720558425::1::::<><>::
+Colossal Hydra 2.png::CompressedTexture2D::8574277351784264500::1720557394::1720558425::1::::<><>::
+Colossal Hydra 3.png::CompressedTexture2D::7811329823423043561::1720557394::1720558425::1::::<><>::
+Colossal Scorpion.png::CompressedTexture2D::843481862923673696::1720557394::1720558425::1::::<><>::
+Colossal Snake Black.png::CompressedTexture2D::4093101686747960925::1720557394::1720558425::1::::<><>::
+Colossal Snake Red.png::CompressedTexture2D::6177074808226974935::1720557394::1720558425::1::::<><>::
+Colossal Snake.png::CompressedTexture2D::8242177636340914333::1720557394::1720558425::1::::<><>::
+Colossal T-Rex Black.png::CompressedTexture2D::8941888949957616729::1720557394::1720558425::1::::<><>::
+Colossal T-Rex Orange.png::CompressedTexture2D::1671204687216372062::1720557394::1720558413::1::::<><>::
+Colossal T-Rex Red.png::CompressedTexture2D::1478841114209706905::1720557394::1720558413::1::::<><>::
+Corrupted Fire Wolf.png::CompressedTexture2D::3797948440199903331::1720557394::1720558413::1::::<><>::
+Corrupted Ice Mantis B.png::CompressedTexture2D::2010352089575430146::1720557394::1720558413::1::::<><>::
+Corrupted Ice Mantis.png::CompressedTexture2D::6413052047823025257::1720557394::1720558413::1::::<><>::
+Corrupted Stone Bear.png::CompressedTexture2D::6118905989328695060::1720557394::1720558413::1::::<><>::
+Corrupted Void Fire Wolf.png::CompressedTexture2D::650461856260302654::1720557394::1720558413::1::::<><>::
+Crocodile Warriors Mage.png::CompressedTexture2D::2105621926901342243::1720557394::1720558413::1::::<><>::
+Crocodile Warriors Paladin.png::CompressedTexture2D::1844931802117135108::1720557394::1720558413::1::::<><>::
+Crocodile Warriors Rogue.png::CompressedTexture2D::8362232059050196586::1720557394::1720558413::1::::<><>::
+Crystal Golem.png::CompressedTexture2D::6970155619153564837::1720557394::1720558413::1::::<><>::
+Cyber Blader.png::CompressedTexture2D::4213101060677065565::1720557394::1720558413::1::::<><>::
+Cyber Hawk.png::CompressedTexture2D::1578785046535537430::1720557394::1720558413::1::::<><>::
+Cyber Ogre.png::CompressedTexture2D::6832671430890693763::1720557394::1720558413::1::::<><>::
+Cyber Pegasus.png::CompressedTexture2D::9188442845454162219::1720557394::1720558413::1::::<><>::
+Cyber Slime.png::CompressedTexture2D::1261459080490756381::1720557394::1720558413::1::::<><>::
+Cybermancer.png::CompressedTexture2D::8007735552159267968::1720557394::1720558413::1::::<><>::
+Dark Elves Axe Warrior.png::CompressedTexture2D::4521696944558543972::1720557395::1720558413::1::::<><>::
+Dark Elves Crystal Mage.png::CompressedTexture2D::3167269470455559368::1720557395::1720558413::1::::<><>::
+Dark Elves Healer Priestess.png::CompressedTexture2D::4031111278558960107::1720557395::1720558413::1::::<><>::
+Darkness Angel Reaper.png::CompressedTexture2D::7081384397006961517::1720557395::1720558413::1::::<><>::
+Darkness Angel.png::CompressedTexture2D::2950490259426567193::1720557395::1720558413::1::::<><>::
+Darkness Banshee.png::CompressedTexture2D::6749099809763936391::1720557395::1720558413::1::::<><>::
+Darkness Behemoth.png::CompressedTexture2D::7230026854488138074::1720557395::1720558413::1::::<><>::
+Darkness Blade Colossus.png::CompressedTexture2D::8965276820765363175::1720557395::1720558413::1::::<><>::
+Darkness Blade Reaper.png::CompressedTexture2D::1648351678444628387::1720557395::1720558413::1::::<><>::
+Darkness Cultist Mage.png::CompressedTexture2D::3449200807196397678::1720557395::1720558413::1::::<><>::
+Darkness Devilimp.png::CompressedTexture2D::6424907682868000480::1720557395::1720558413::1::::<><>::
+Darkness Drakenvamp.png::CompressedTexture2D::4992758152270923602::1720557395::1720558413::1::::<><>::
+Darkness Dullahan.png::CompressedTexture2D::7121384559620195153::1720557395::1720558414::1::::<><>::
+Darkness Flame.png::CompressedTexture2D::4914199467362882750::1720557395::1720558414::1::::<><>::
+Darkness Gargoyle Atrox.png::CompressedTexture2D::6660202838426988328::1720557395::1720558414::1::::<><>::
+Darkness Hound Inferni.png::CompressedTexture2D::5619859413395123966::1720557395::1720558414::1::::<><>::
+Darkness Imp.png::CompressedTexture2D::5380521041421963445::1720557395::1720558414::1::::<><>::
+Darkness Knight Magellan.png::CompressedTexture2D::4205648371856875836::1720557395::1720558414::1::::<><>::
+Darkness Lord Knight.png::CompressedTexture2D::1958255422072518180::1720557395::1720558414::1::::<><>::
+Darkness Oculus.png::CompressedTexture2D::3478590346868910555::1720557395::1720558414::1::::<><>::
+Darkness Ogre.png::CompressedTexture2D::4139069096112092632::1720557395::1720558414::1::::<><>::
+Darkness Reaper.png::CompressedTexture2D::5383522665996115750::1720557395::1720558414::1::::<><>::
+Darkness Seeker.png::CompressedTexture2D::6875657478488247128::1720557395::1720558414::1::::<><>::
+Darkness Slime GhastMallow.png::CompressedTexture2D::5937644280442052804::1720557395::1720558414::1::::<><>::
+Darkness Slime.png::CompressedTexture2D::5644762286136815931::1720557395::1720558413::1::::<><>::
+Darkness Succubus Lariatt.png::CompressedTexture2D::4477715355105545580::1720557395::1720558414::1::::<><>::
+Darkness Succubus.png::CompressedTexture2D::8936247385822438421::1720557395::1720558414::1::::<><>::
+Darkness Wisp.png::CompressedTexture2D::9048328624447780547::1720557395::1720558413::1::::<><>::
+Desert Cactus Triple.png::CompressedTexture2D::756784928737289315::1720557395::1720558414::1::::<><>::
+Desert Feral Cactus.png::CompressedTexture2D::4799206798742942883::1720557395::1720558413::1::::<><>::
+Desert Parasand.png::CompressedTexture2D::6235320164512892031::1720557395::1720558413::1::::<><>::
+Desert Rock Bunny.png::CompressedTexture2D::1915221626930801843::1720557395::1720558413::1::::<><>::
+Desert Rock Lizard.png::CompressedTexture2D::2736786334197999851::1720557395::1720558413::1::::<><>::
+Desert Sand Snake.png::CompressedTexture2D::6547540643643324985::1720557395::1720558413::1::::<><>::
+Desert Sand Tentacle.png::CompressedTexture2D::5800610372530980535::1720557395::1720558413::1::::<><>::
+Dragon Black.png::CompressedTexture2D::3182923560940498442::1720557395::1720558414::1::::<><>::
+Dragon Dark King.png::CompressedTexture2D::2329200739730953906::1720557395::1720558414::1::::<><>::
+Dragon Egg A.png::CompressedTexture2D::2721673373363387079::1720557395::1720558413::1::::<><>::
+Dragon Egg B.png::CompressedTexture2D::8423587793377806612::1720557395::1720558413::1::::<><>::
+Dragon Egg C.png::CompressedTexture2D::4390130609045370901::1720557395::1720558413::1::::<><>::
+Dragon Egg D.png::CompressedTexture2D::6753723342981099855::1720557395::1720558413::1::::<><>::
+Dragon Egg E.png::CompressedTexture2D::4507343485044366067::1720557395::1720558413::1::::<><>::
+Dragon Emperor Zalaras.png::CompressedTexture2D::1300236000819163484::1720557395::1720558413::1::::<><>::
+Dragon Green.png::CompressedTexture2D::1492501283274756617::1720557395::1720558413::1::::<><>::
+Dragon King Blue.png::CompressedTexture2D::7264180695498927527::1720557395::1720558413::1::::<><>::
+Dragon King Brown.png::CompressedTexture2D::9052009556053915374::1720557395::1720558413::1::::<><>::
+Dragon King Green.png::CompressedTexture2D::691117943602207732::1720557395::1720558413::1::::<><>::
+Dragon King Red.png::CompressedTexture2D::7787095191074371140::1720557395::1720558413::1::::<><>::
+Dragon Lord A.png::CompressedTexture2D::6724304827786361952::1720557395::1720558413::1::::<><>::
+Dragon Lord B.png::CompressedTexture2D::6479048418785161719::1720557395::1720558413::1::::<><>::
+Dragon Oriental Dragon.png::CompressedTexture2D::4501423619182433564::1720557395::1720558413::1::::<><>::
+Dragon Red.png::CompressedTexture2D::3668304083290094641::1720557395::1720558413::1::::<><>::
+Dragon Triple Head Darkness.png::CompressedTexture2D::671520176430596385::1720557395::1720558413::1::::<><>::
+Dragon Triple Head Venom.png::CompressedTexture2D::3211817855793506783::1720557395::1720558413::1::::<><>::
+Dragon White King.png::CompressedTexture2D::6993526170822574630::1720557395::1720558413::1::::<><>::
+Dragon Wyrm.png::CompressedTexture2D::6453284017543102752::1720557396::1720558413::1::::<><>::
+Dragon Wyvern Blue.png::CompressedTexture2D::9214686963539239307::1720557396::1720558413::1::::<><>::
+Dragon Wyvern Brown.png::CompressedTexture2D::4115566229351036113::1720557396::1720558413::1::::<><>::
+Dragon Wyvern Green.png::CompressedTexture2D::422280251050451935::1720557396::1720558413::1::::<><>::
+Dragon Wyvern Red.png::CompressedTexture2D::3163683316988730896::1720557396::1720558413::1::::<><>::
+Dragons Hydra.png::CompressedTexture2D::3752821172517433891::1720557396::1720558413::1::::<><>::
+Dragons Scarlet Wyrm.png::CompressedTexture2D::7622046414818239911::1720557396::1720558413::1::::<><>::
+Dragons Sea Dragon.png::CompressedTexture2D::7048115281061344742::1720557396::1720558413::1::::<><>::
+Dryads Archer.png::CompressedTexture2D::7444729145150568069::1720557396::1720558413::1::::<><>::
+Dryads Mage.png::CompressedTexture2D::41199269244087176::1720557396::1720558413::1::::<><>::
+Dryads Warrior.png::CompressedTexture2D::7874355386496498235::1720557396::1720558413::1::::<><>::
+Dwarf Axe Warrior.png::CompressedTexture2D::2008115721184364332::1720557396::1720558413::1::::<><>::
+Dwarf Dragon Slayer.png::CompressedTexture2D::4035352864011376648::1720557396::1720558413::1::::<><>::
+Dwarf Drill Knight.png::CompressedTexture2D::7975365584277374309::1720557396::1720558412::1::::<><>::
+Earth Bull.png::CompressedTexture2D::4143669913943958619::1720557396::1720558413::1::::<><>::
+Earth Bush Wisp.png::CompressedTexture2D::2857003412537141642::1720557396::1720558413::1::::<><>::
+Earth Gemstone Golem.png::CompressedTexture2D::9180966397900068488::1720557396::1720558413::1::::<><>::
+Earth Leaf Imp.png::CompressedTexture2D::950063832119853219::1720557396::1720558413::1::::<><>::
+Earth Lion.png::CompressedTexture2D::695035438142512954::1720557396::1720558413::1::::<><>::
+Earth Mandrake.png::CompressedTexture2D::9391294450786902::1720557396::1720558413::1::::<><>::
+Earth Rock Golem.png::CompressedTexture2D::4940496974159939532::1720557396::1720558413::1::::<><>::
+Earth Snake.png::CompressedTexture2D::5434820894215979016::1720557396::1720558413::1::::<><>::
+Earth Spawn.png::CompressedTexture2D::6697154224741086075::1720557396::1720558413::1::::<><>::
+Earth Turtle.png::CompressedTexture2D::8422049497644620756::1720557396::1720558413::1::::<><>::
+Earth Wisp.png::CompressedTexture2D::1923903415234211389::1720557396::1720558413::1::::<><>::
+Egypt Archer.png::CompressedTexture2D::8472432942917657971::1720557396::1720558413::1::::<><>::
+Egypt Axe.png::CompressedTexture2D::8201821402352708504::1720557396::1720558413::1::::<><>::
+Egypt Chariot.png::CompressedTexture2D::7240953693490337989::1720557396::1720558413::1::::<><>::
+Egypt Cobra.png::CompressedTexture2D::4550257862506025981::1720557396::1720558413::1::::<><>::
+Egypt Crocodile.png::CompressedTexture2D::4224080882952250172::1720557396::1720558413::1::::<><>::
+Egypt Hieracosphinx.png::CompressedTexture2D::7010745914722751198::1720557396::1720558413::1::::<><>::
+Egypt Knight.png::CompressedTexture2D::3183697424290594478::1720557396::1720558413::1::::<><>::
+Egypt Mage.png::CompressedTexture2D::8288281278524602708::1720557396::1720558413::1::::<><>::
+Egypt Mummy A.png::CompressedTexture2D::6288534172074637638::1720557396::1720558413::1::::<><>::
+Egypt Mummy B.png::CompressedTexture2D::6971787382170327228::1720557396::1720558413::1::::<><>::
+Egypt Mummy C.png::CompressedTexture2D::8276456081880959466::1720557396::1720558413::1::::<><>::
+Egypt Sphinx Big.png::CompressedTexture2D::1458021115426775095::1720557396::1720558413::1::::<><>::
+Egypt Sphinx Small.png::CompressedTexture2D::4264968614892761325::1720557396::1720558413::1::::<><>::
+Eldritch Abomination Gazer.png::CompressedTexture2D::8429469155298079387::1720557396::1720558413::1::::<><>::
+Eldritch Abomination Hound.png::CompressedTexture2D::2551649183473316659::1720557396::1720558413::1::::<><>::
+Eldritch Abomination Tyrant.png::CompressedTexture2D::2841739843942074898::1720557396::1720558413::1::::<><>::
+Eldritch Abominations Abyss Denizen.png::CompressedTexture2D::6804667873198594318::1720557396::1720558413::1::::<><>::
+Eldritch Abominations Scout.png::CompressedTexture2D::7642457374452463416::1720557396::1720558413::1::::<><>::
+Eldritch Abominations Ultimate.png::CompressedTexture2D::1077700936863260507::1720557396::1720558414::1::::<><>::
+Eldritch Fire Slimei.png::CompressedTexture2D::7592589628563277437::1720557396::1720558414::1::::<><>::
+Eldritch Fire Slimeii.png::CompressedTexture2D::4321683130176785581::1720557396::1720558414::1::::<><>::
+Eldritch Fire Slimeiii.png::CompressedTexture2D::1893735281178026792::1720557396::1720558414::1::::<><>::
+Eldritch Gazer Merem.png::CompressedTexture2D::1957530141765263957::1720557396::1720558414::1::::<><>::
+Eldritch Gazer Velz.png::CompressedTexture2D::1878894698167314661::1720557396::1720558414::1::::<><>::
+Eldritch God ShacadYoggoth.png::CompressedTexture2D::7663054932529564895::1720557396::1720558414::1::::<><>::
+Eldritch Ice Slimei.png::CompressedTexture2D::1463120483833780086::1720557396::1720558414::1::::<><>::
+Eldritch Ice Slimeii.png::CompressedTexture2D::5375666331357711275::1720557396::1720558414::1::::<><>::
+Eldritch Ice Slimeiii.png::CompressedTexture2D::5679991357739141::1720557396::1720558414::1::::<><>::
+Eldritch Slime A.png::CompressedTexture2D::8857484264892303501::1720557396::1720558414::1::::<><>::
+Eldritch Slime B.png::CompressedTexture2D::56113749222940360::1720557397::1720558414::1::::<><>::
+Eldritch Slime Cerulean.png::CompressedTexture2D::248302010407778574::1720557397::1720558414::1::::<><>::
+Eldritch Slime Spawn A.png::CompressedTexture2D::8217483812112476121::1720557397::1720558414::1::::<><>::
+Eldritch Slime Spawn B.png::CompressedTexture2D::2443265105949139775::1720557397::1720558414::1::::<><>::
+Eldritch Slime Spawn C.png::CompressedTexture2D::3806257091344704143::1720557397::1720558414::1::::<><>::
+Eldritch Slime Spawn D.png::CompressedTexture2D::1690390851752044698::1720557397::1720558414::1::::<><>::
+Eldritch Slime Spawn E.png::CompressedTexture2D::5434324619139829644::1720557397::1720558414::1::::<><>::
+Eldritch Slime Vermillion.png::CompressedTexture2D::8844463462545693181::1720557397::1720558414::1::::<><>::
+Eldritch Slime Viridian.png::CompressedTexture2D::4444475216202514715::1720557397::1720558414::1::::<><>::
+Elemental Earth Spirit Tellia.png::CompressedTexture2D::4944303903996975485::1720557397::1720558414::1::::<><>::
+Elemental Gemstone Earth.png::CompressedTexture2D::4699018805102789548::1720557397::1720558414::1::::<><>::
+Elemental Gemstone Fire.png::CompressedTexture2D::3613676064611179074::1720557397::1720558414::1::::<><>::
+Elemental Gemstone Thunder.png::CompressedTexture2D::1923050486905713657::1720557397::1720558414::1::::<><>::
+Elemental Gemstone Water.png::CompressedTexture2D::7092116762716151478::1720557397::1720558414::1::::<><>::
+Elemental Gemstone Wind.png::CompressedTexture2D::398893492574925999::1720557397::1720558414::1::::<><>::
+Elemental Goddess Forest Flora.png::CompressedTexture2D::2914589405733353350::1720557397::1720558414::1::::<><>::
+Elemental Goddess Ice Yukia.png::CompressedTexture2D::6694742252257049736::1720557397::1720558414::1::::<><>::
+Elemental Goddess Wind Airi.png::CompressedTexture2D::366023900897092819::1720557397::1720558414::1::::<><>::
+Elemental Ice Spirit Helida.png::CompressedTexture2D::8145378152012760569::1720557397::1720558414::1::::<><>::
+Elemental Spirit Fire Blazia.png::CompressedTexture2D::9186323587923148229::1720557397::1720558414::1::::<><>::
+Elemental Titan Aphylia.png::CompressedTexture2D::7447680313372634122::1720557397::1720558415::1::::<><>::
+Elemental Titan Aquos.png::CompressedTexture2D::8547927734350876954::1720557397::1720558415::1::::<><>::
+Elemental Titan Ignis.png::CompressedTexture2D::6795595804391295560::1720557397::1720558415::1::::<><>::
+Elemental Titan Tellia.png::CompressedTexture2D::2166289921378606482::1720557397::1720558415::1::::<><>::
+Elemental Titan Terran.png::CompressedTexture2D::4280543593566383912::1720557397::1720558415::1::::<><>::
+Elemental Titan Ventoss.png::CompressedTexture2D::676035455577014627::1720557397::1720558415::1::::<><>::
+Elemental Wind Spirit Tempestia.png::CompressedTexture2D::2660050023950035371::1720557397::1720558414::1::::<><>::
+Elf_Archer.png::CompressedTexture2D::3724394492407913186::1720557397::1720558414::1::::<><>::
+Elf_Assasin.png::CompressedTexture2D::3244502451347439405::1720557397::1720558414::1::::<><>::
+Elf_Knight_Crossbow.png::CompressedTexture2D::2646251466703605762::1720557397::1720558414::1::::<><>::
+Elf_Knight_Dual.png::CompressedTexture2D::4539033691953643713::1720557397::1720558414::1::::<><>::
+Elf_Knight_Mage.png::CompressedTexture2D::8378832766874645497::1720557397::1720558414::1::::<><>::
+Elf_Knight_Spear.png::CompressedTexture2D::4521699980873601171::1720557397::1720558414::1::::<><>::
+Elf_Knight_Sword.png::CompressedTexture2D::5251814598552314909::1720557397::1720558414::1::::<><>::
+Elves Nature Linker.png::CompressedTexture2D::2300041299821291805::1720557397::1720558414::1::::<><>::
+Elves Rogue Elf.png::CompressedTexture2D::4354437544356193140::1720557397::1720558414::1::::<><>::
+Elves Spellcaster.png::CompressedTexture2D::232404486293905540::1720557397::1720558414::1::::<><>::
+Fallen Dragon Knight.png::CompressedTexture2D::3439789535065213424::1720557397::1720558414::1::::<><>::
+Fallen Great Sword.png::CompressedTexture2D::1665459203700772128::1720557397::1720558414::1::::<><>::
+Fallen Winged Sword.png::CompressedTexture2D::7362086662289611539::1720557397::1720558414::1::::<><>::
+Fire Bull.png::CompressedTexture2D::1701781077518453330::1720557397::1720558414::1::::<><>::
+Fire Dragonspawn.png::CompressedTexture2D::8321492673726674898::1720557397::1720558414::1::::<><>::
+Fire Elemental  Imp.png::CompressedTexture2D::2211136483376952871::1720557397::1720558414::1::::<><>::
+Fire Elemental Angel.png::CompressedTexture2D::4393604038627710911::1720557397::1720558414::1::::<><>::
+Fire Elemental Bat.png::CompressedTexture2D::6417734285397311215::1720557397::1720558414::1::::<><>::
+Fire Kindred Flame.png::CompressedTexture2D::1390784516580738064::1720557397::1720558414::1::::<><>::
+Fire Lava Spawn.png::CompressedTexture2D::4837890110329151530::1720557397::1720558414::1::::<><>::
+Fire Lava Worm.png::CompressedTexture2D::257170598067883562::1720557397::1720558414::1::::<><>::
+Fire Lion.png::CompressedTexture2D::2480812452730545391::1720557397::1720558414::1::::<><>::
+Fire Minivolcano.png::CompressedTexture2D::1104367551723044774::1720557397::1720558414::1::::<><>::
+Fire Ogre.png::CompressedTexture2D::3541429746668205807::1720557397::1720558414::1::::<><>::
+Fire Pumice Rock.png::CompressedTexture2D::8295535132419573352::1720557397::1720558414::1::::<><>::
+Fire Pumice Sheep.png::CompressedTexture2D::4011666259733627282::1720557397::1720558414::1::::<><>::
+Fire Sabretooth.png::CompressedTexture2D::2446739686881944723::1720557398::1720558414::1::::<><>::
+Fire Salamander.png::CompressedTexture2D::6127302459505645647::1720557398::1720558414::1::::<><>::
+Fire Snake.png::CompressedTexture2D::7840556393744619104::1720557398::1720558414::1::::<><>::
+FIre Toad.png::CompressedTexture2D::908700215391345481::1720557398::1720558414::1::::<><>::
+Fire Turtle.png::CompressedTexture2D::9146711520416939195::1720557398::1720558414::1::::<><>::
+Fire Volcanic Golem.png::CompressedTexture2D::2455513350314184270::1720557398::1720558414::1::::<><>::
+Fire Volcanic Maiden.png::CompressedTexture2D::2318134941013174697::1720557398::1720558414::1::::<><>::
+Fire Vulture.png::CompressedTexture2D::702593875715590535::1720557398::1720558414::1::::<><>::
+Fire Wisp.png::CompressedTexture2D::7427322982089262804::1720557398::1720558414::1::::<><>::
+Flame Knight.png::CompressedTexture2D::5831992046896293970::1720557398::1720558414::1::::<><>::
+Forest Blue Flower.png::CompressedTexture2D::7639313600075908120::1720557398::1720558414::1::::<><>::
+Forest Catermoth.png::CompressedTexture2D::7190378104382443502::1720557398::1720558414::1::::<><>::
+Forest Darkluff.png::CompressedTexture2D::3799689680372234857::1720557398::1720558414::1::::<><>::
+Forest Deer.png::CompressedTexture2D::2959780277344557730::1720557398::1720558414::1::::<><>::
+Forest Fairy Dragon Xinbal.png::CompressedTexture2D::1369069563384843665::1720557398::1720558414::1::::<><>::
+Forest Fairy Filia.png::CompressedTexture2D::4538918395393484067::1720557398::1720558414::1::::<><>::
+Forest Fangrot.png::CompressedTexture2D::9162323159068350827::1720557398::1720558414::1::::<><>::
+Forest Golem.png::CompressedTexture2D::9192964861305767905::1720557398::1720558414::1::::<><>::
+Forest Grasshopper.png::CompressedTexture2D::6456810603584544873::1720557398::1720558414::1::::<><>::
+Forest Green Spider.png::CompressedTexture2D::8338937639962179576::1720557398::1720558414::1::::<><>::
+Forest Imperial Widow.png::CompressedTexture2D::7110598838198303342::1720557398::1720558414::1::::<><>::
+Forest Kawabun.png::CompressedTexture2D::129658924264585135::1720557398::1720558414::1::::<><>::
+Forest Mobun.png::CompressedTexture2D::963328755544928009::1720557398::1720558414::1::::<><>::
+Forest Mothy.png::CompressedTexture2D::6635991385685053127::1720557398::1720558414::1::::<><>::
+Forest Noxluff.png::CompressedTexture2D::9085894308161396524::1720557398::1720558414::1::::<><>::
+Forest Ogre Orkgre.png::CompressedTexture2D::145329386507702676::1720557398::1720558414::1::::<><>::
+Forest Panda.png::CompressedTexture2D::8014095450948897301::1720557398::1720558414::1::::<><>::
+Forest Pink Flower.png::CompressedTexture2D::7479774459065138584::1720557398::1720558414::1::::<><>::
+Forest Red Flower.png::CompressedTexture2D::8486470938009759417::1720557398::1720558414::1::::<><>::
+Forest Red Spider.png::CompressedTexture2D::6954486871263539258::1720557398::1720558414::1::::<><>::
+Forest Shroom.png::CompressedTexture2D::232335228447732499::1720557398::1720558414::1::::<><>::
+Forest Shroomy.png::CompressedTexture2D::1524566466507890921::1720557398::1720558414::1::::<><>::
+Forest Spider.png::CompressedTexture2D::2094116414581031675::1720557398::1720558414::1::::<><>::
+Forest Spora.png::CompressedTexture2D::6197160794974276418::1720557398::1720558414::1::::<><>::
+Forest Sprout.png::CompressedTexture2D::2434339073559476814::1720557398::1720558414::1::::<><>::
+Forest Tree.png::CompressedTexture2D::5710579442046448228::1720557398::1720558414::1::::<><>::
+Forest Uzu.png::CompressedTexture2D::3841040258218278370::1720557398::1720558414::1::::<><>::
+Forest White Flower.png::CompressedTexture2D::1421793926064952406::1720557398::1720558414::1::::<><>::
+Gargoyle Grifos.png::CompressedTexture2D::6264538759097306324::1720557398::1720558414::1::::<><>::
+Garuda Garunix.png::CompressedTexture2D::2639428825410518397::1720557398::1720558414::1::::<><>::
+Gazers Eyewing.png::CompressedTexture2D::7715523863366485930::1720557398::1720558414::1::::<><>::
+Gazers Skull.png::CompressedTexture2D::3659404106240236812::1720557398::1720558414::1::::<><>::
+Gazers Tenteye.png::CompressedTexture2D::1532130792234278422::1720557398::1720558414::1::::<><>::
+Ghost Ghostus.png::CompressedTexture2D::2876645608577287388::1720557398::1720558414::1::::<><>::
+Ghost Knight Destrand.png::CompressedTexture2D::2739600297069918250::1720557398::1720558414::1::::<><>::
+Ghost Knight Galpha.png::CompressedTexture2D::7982001920902925534::1720557398::1720558414::1::::<><>::
+Ghost Knight Goliath.png::CompressedTexture2D::4382224729400054145::1720557398::1720558414::1::::<><>::
+Ghost Puppet Pailo.png::CompressedTexture2D::949477514167054797::1720557398::1720558414::1::::<><>::
+Ghost Revelator.png::CompressedTexture2D::8161092636505742800::1720557398::1720558414::1::::<><>::
+Goblin Archer.png::CompressedTexture2D::5600742894088545503::1720557398::1720558414::1::::<><>::
+Goblin Elite.png::CompressedTexture2D::8622075821205956689::1720557398::1720558414::1::::<><>::
+Goblin Grunt.png::CompressedTexture2D::775220984004839596::1720557398::1720558429::1::::<><>::
+Goblin Mage.png::CompressedTexture2D::388885518626138724::1720557398::1720558429::1::::<><>::
+Goblin Raider.png::CompressedTexture2D::3396557086117617567::1720557398::1720558429::1::::<><>::
+God Novus.png::CompressedTexture2D::3971094643528202280::1720557398::1720558429::1::::<><>::
+Goddess Innova.png::CompressedTexture2D::6766273520208401382::1720557398::1720558429::1::::<><>::
+Gunblin Gibson.png::CompressedTexture2D::8690197209691112011::1720557398::1720558429::1::::<><>::
+Gunblin Jackson.png::CompressedTexture2D::865159090885969913::1720557398::1720558429::1::::<><>::
+Gunblin Schecter.png::CompressedTexture2D::7993095502258093591::1720557399::1720558429::1::::<><>::
+Halloween Bat.png::CompressedTexture2D::3528139457258913979::1720557399::1720558429::1::::<><>::
+Halloween Black Cat.png::CompressedTexture2D::6466116831122772124::1720557399::1720558429::1::::<><>::
+Halloween Dagger skeleton.png::CompressedTexture2D::1702160255178329013::1720557399::1720558429::1::::<><>::
+Halloween Lick O Wisp.png::CompressedTexture2D::487428799180491237::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin Chariot Minion A.png::CompressedTexture2D::7704845125145564270::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin Chariot Minion B.png::CompressedTexture2D::6767415254590730722::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin Chariot No Minion.png::CompressedTexture2D::9013472916576334638::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin Chariot.png::CompressedTexture2D::294259282036541041::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin Gentleman.png::CompressedTexture2D::211153268496079064::1720557399::1720558429::1::::<><>::
+Halloween Pumpkin.png::CompressedTexture2D::8756138045793822266::1720557399::1720558429::1::::<><>::
+Halloween Skeleton.png::CompressedTexture2D::170149354703361706::1720557399::1720558429::1::::<><>::
+Halloween Spirit Mumpkin.png::CompressedTexture2D::1572544487918341641::1720557399::1720558429::1::::<><>::
+Halloween Stein Monster.png::CompressedTexture2D::2334906753816151321::1720557399::1720558429::1::::<><>::
+Halloween Stein's Monster MK2.png::CompressedTexture2D::7545335687483268819::1720557399::1720558429::1::::<><>::
+Halloween Vampire.png::CompressedTexture2D::7085854650831132993::1720557399::1720558429::1::::<><>::
+Halloween Witch Baba.png::CompressedTexture2D::1945488970049931050::1720557399::1720558429::1::::<><>::
+Halloween Witch.png::CompressedTexture2D::4970185377921522530::1720557399::1720558429::1::::<><>::
+Ice Avian.png::CompressedTexture2D::3270896958414899009::1720557399::1720558429::1::::<><>::
+Ice Bull.png::CompressedTexture2D::7001443586426343323::1720557399::1720558429::1::::<><>::
+Ice Cave Bat.png::CompressedTexture2D::193711273337598426::1720557399::1720558429::1::::<><>::
+Ice Glacier SPawn.png::CompressedTexture2D::6672265701249512470::1720557399::1720558429::1::::<><>::
+Ice Golem.png::CompressedTexture2D::1859465125898068585::1720557399::1720558429::1::::<><>::
+Ice Kindred Glacier.png::CompressedTexture2D::6797730644372271969::1720557399::1720558429::1::::<><>::
+Ice Lion.png::CompressedTexture2D::3980421781445084734::1720557399::1720558429::1::::<><>::
+Ice Ogre.png::CompressedTexture2D::6236843657475818919::1720557399::1720558429::1::::<><>::
+Ice Snake.png::CompressedTexture2D::8951966060417507005::1720557399::1720558429::1::::<><>::
+Ice Snobros.png::CompressedTexture2D::1795587414580459458::1720557399::1720558429::1::::<><>::
+Ice Snowball.png::CompressedTexture2D::979520653339396493::1720557399::1720558429::1::::<><>::
+Ice Snowman.png::CompressedTexture2D::2210687313240651989::1720557399::1720558429::1::::<><>::
+Ice Spike.png::CompressedTexture2D::1380434349650060989::1720557399::1720558429::1::::<><>::
+Ice Turtle.png::CompressedTexture2D::6847644208703405529::1720557399::1720558429::1::::<><>::
+Ice Whisp.png::CompressedTexture2D::8929740194306608780::1720557399::1720558429::1::::<><>::
+Ice Yeti Whisp.png::CompressedTexture2D::3855776143505998090::1720557399::1720558429::1::::<><>::
+Ice Yeti.png::CompressedTexture2D::6892994322278042029::1720557399::1720558429::1::::<><>::
+Insect Red Ant Knight.png::CompressedTexture2D::6918715177367803514::1720557399::1720558429::1::::<><>::
+Insects Ant Lion.png::CompressedTexture2D::8837561117289156912::1720557399::1720558429::1::::<><>::
+Insects Bee.png::CompressedTexture2D::751868755923271443::1720557399::1720558429::1::::<><>::
+Insects Black Ant Archer.png::CompressedTexture2D::2747353579693311928::1720557399::1720558429::1::::<><>::
+Insects Black Ant Berserker.png::CompressedTexture2D::787630250113652722::1720557399::1720558429::1::::<><>::
+Insects Black Ant Knight.png::CompressedTexture2D::415527241848689337::1720557399::1720558429::1::::<><>::
+Insects Black Ant Mage.png::CompressedTexture2D::4832642258427192165::1720557399::1720558429::1::::<><>::
+Insects Black Ant Protector.png::CompressedTexture2D::4119306743390022581::1720557399::1720558429::1::::<><>::
+Insects Caterpillar A.png::CompressedTexture2D::5212975694773381048::1720557399::1720558429::1::::<><>::
+Insects Caterpillar B.png::CompressedTexture2D::6854156748382980258::1720557399::1720558429::1::::<><>::
+Insects Dragon.png::CompressedTexture2D::7493861612987839302::1720557399::1720558429::1::::<><>::
+Insects Dragonfly B.png::CompressedTexture2D::3004160551631237338::1720557399::1720558429::1::::<><>::
+Insects Dragonfly.png::CompressedTexture2D::8286346862526030244::1720557399::1720558429::1::::<><>::
+Insects eyehopper.png::CompressedTexture2D::5780453586637513290::1720557399::1720558429::1::::<><>::
+Insects Fire Ant.png::CompressedTexture2D::2257395835741273209::1720557399::1720558429::1::::<><>::
+Insects Giant Bug Centipede.png::CompressedTexture2D::2828725148533566734::1720557399::1720558429::1::::<><>::
+Insects Giant Bug Death Worm A.png::CompressedTexture2D::4865525607017270023::1720557399::1720558429::1::::<><>::
+Insects Giant Bug Death Worm B.png::CompressedTexture2D::8031411777632125151::1720557399::1720558429::1::::<><>::
+Insects Giant Bug Hercules.png::CompressedTexture2D::2743778484171662353::1720557399::1720558429::1::::<><>::
+Insects Hell Mantis.png::CompressedTexture2D::4363457832882031622::1720557399::1720558429::1::::<><>::
+Insects Lunar Butterfly.png::CompressedTexture2D::7222334346069037271::1720557399::1720558429::1::::<><>::
+Insects Roach.png::CompressedTexture2D::4671362763119186556::1720557399::1720558429::1::::<><>::
+Insects Scarab.png::CompressedTexture2D::4620768348376623938::1720557399::1720558429::1::::<><>::
+Insects Sickle Mantis.png::CompressedTexture2D::6697910491744593364::1720557400::1720558429::1::::<><>::
+Insects Swarm.png::CompressedTexture2D::2829990875904894285::1720557400::1720558429::1::::<><>::
+Insects Tick.png::CompressedTexture2D::4780827070913807712::1720557400::1720558429::1::::<><>::
+Insects Tridentpupa.png::CompressedTexture2D::2252174635046691112::1720557400::1720558429::1::::<><>::
+Insects Waterstrider.png::CompressedTexture2D::3136210605603305123::1720557400::1720558429::1::::<><>::
+Knight Axe Common.png::CompressedTexture2D::4926721098876313320::1720557400::1720558429::1::::<><>::
+Knight Axe Elite.png::CompressedTexture2D::6832946659260234105::1720557400::1720558429::1::::<><>::
+Knight Blunderbuss Common.png::CompressedTexture2D::6672414372256618227::1720557400::1720558429::1::::<><>::
+Knight Blunderbuss Elite.png::CompressedTexture2D::8869013573126522196::1720557400::1720558429::1::::<><>::
+Knight Spear Elite.png::CompressedTexture2D::3421840658693246738::1720557400::1720558429::1::::<><>::
+Knight Sword Elite.png::CompressedTexture2D::5921897681533248463::1720557400::1720558428::1::::<><>::
+Knights Spear Common.png::CompressedTexture2D::80834663052205172::1720557400::1720558429::1::::<><>::
+Knights Sword Common.png::CompressedTexture2D::1531873231417986759::1720557400::1720558428::1::::<><>::
+Kobolds Dagger Kobold.png::CompressedTexture2D::7663059796504240618::1720557400::1720558428::1::::<><>::
+Kobolds Mage Kobold.png::CompressedTexture2D::496737265142139496::1720557400::1720558428::1::::<><>::
+Kobolds Spear Kobold.png::CompressedTexture2D::4656199369612738233::1720557400::1720558428::1::::<><>::
+Lamia.png::CompressedTexture2D::5728582997095780502::1720557400::1720558428::1::::<><>::
+Legendary Knight Ansellus.png::CompressedTexture2D::2323774393315718852::1720557400::1720558428::1::::<><>::
+Legendary Knight Arriete.png::CompressedTexture2D::7826555496320651251::1720557400::1720558428::1::::<><>::
+Legendary Knight Arriette F.png::CompressedTexture2D::7501552051018105997::1720557400::1720558428::1::::<><>::
+Legendary Knight Croix.png::CompressedTexture2D::485418815353451846::1720557400::1720558428::1::::<><>::
+Legendary Knight Dalton.png::CompressedTexture2D::2741793407271588027::1720557400::1720558429::1::::<><>::
+Legendary Knight Dante.png::CompressedTexture2D::7867608756132152919::1720557400::1720558429::1::::<><>::
+Legendary Knight Jeanne.png::CompressedTexture2D::7066177780976870684::1720557400::1720558429::1::::<><>::
+Legendary Knight King Archial.png::CompressedTexture2D::782887095736143523::1720557400::1720558429::1::::<><>::
+Legendary Knight Michael.png::CompressedTexture2D::2221948592466964547::1720557400::1720558429::1::::<><>::
+Legendary Knight Pizarro B.png::CompressedTexture2D::1565996875370021540::1720557400::1720558429::1::::<><>::
+Legendary Knight Pizarro.png::CompressedTexture2D::1804129189924571614::1720557400::1720558429::1::::<><>::
+Legendary Knight Regulus.png::CompressedTexture2D::1665345874922459602::1720557400::1720558429::1::::<><>::
+Legendary Knight Remment.png::CompressedTexture2D::4310181827607390523::1720557400::1720558429::1::::<><>::
+Legendary Knight Sen.png::CompressedTexture2D::7816438315156113486::1720557400::1720558429::1::::<><>::
+Legendary Knight Serat.png::CompressedTexture2D::7205653081937253821::1720557400::1720558429::1::::<><>::
+Legendary Knight Zidh B.png::CompressedTexture2D::2175462795156222650::1720557400::1720558429::1::::<><>::
+Legendary Knight Zidh.png::CompressedTexture2D::3610955731886271664::1720557400::1720558429::1::::<><>::
+Legendary Knights Blacksmith Remment.png::CompressedTexture2D::3915985648786925318::1720557400::1720558429::1::::<><>::
+Legendary Knights Dancer Zidh.png::CompressedTexture2D::8419948473035828520::1720557400::1720558429::1::::<><>::
+Legendary Knights Disciple Chain.png::CompressedTexture2D::2910629348718181949::1720557400::1720558429::1::::<><>::
+Legendary Knights Disciple Moonblade.png::CompressedTexture2D::8387718719709842780::1720557400::1720558429::1::::<><>::
+Legendary Knights Disciple Pike.png::CompressedTexture2D::7553857542639970630::1720557400::1720558429::1::::<><>::
+Legendary Knights Huntress Arriette.png::CompressedTexture2D::4806452836875255006::1720557400::1720558429::1::::<><>::
+Legendary Knights Minion Axe.png::CompressedTexture2D::8874488391242293844::1720557400::1720558429::1::::<><>::
+Legendary Knights Minion Claymore.png::CompressedTexture2D::958400251724305543::1720557400::1720558429::1::::<><>::
+Legendary Knights Minion Spear.png::CompressedTexture2D::9019320725285925276::1720557400::1720558429::1::::<><>::
+Legendary Knights Nobleman Ansellus.png::CompressedTexture2D::5529650777863276055::1720557400::1720558429::1::::<><>::
+Legendary Knights Scholar Jeanne.png::CompressedTexture2D::4451648369980146076::1720557400::1720558429::1::::<><>::
+Legendary Knights Summoner Dante A.png::CompressedTexture2D::3841198379368187617::1720557400::1720558429::1::::<><>::
+Legendary Knights Summoner Dante B.png::CompressedTexture2D::8977320124915591697::1720557400::1720558429::1::::<><>::
+Library Book Golem.png::CompressedTexture2D::4686926462828808397::1720557400::1720558429::1::::<><>::
+Library Book Master.png::CompressedTexture2D::1897889189412764479::1720557400::1720558429::1::::<><>::
+Library Book Swarm B.png::CompressedTexture2D::3657123708061843860::1720557400::1720558429::1::::<><>::
+Library Book Swarm.png::CompressedTexture2D::8813195561467893080::1720557400::1720558430::1::::<><>::
+Light Angel Heavy Knight.png::CompressedTexture2D::9051429263819851260::1720557400::1720558430::1::::<><>::
+Light Angel Knight.png::CompressedTexture2D::3628083891753701181::1720557401::1720558430::1::::<><>::
+Light Angel Maiden.png::CompressedTexture2D::1661633840047705229::1720557401::1720558430::1::::<><>::
+Light Creatures Throne.png::CompressedTexture2D::6332309995445096428::1720557401::1720558430::1::::<><>::
+Light Dragon.png::CompressedTexture2D::570943189298874122::1720557401::1720558430::1::::<><>::
+Light Gemstone A.png::CompressedTexture2D::1451651269145494568::1720557401::1720558430::1::::<><>::
+Light Gemstone B.png::CompressedTexture2D::930774242315846215::1720557401::1720558430::1::::<><>::
+Light Gemstone C.png::CompressedTexture2D::272742249136815478::1720557401::1720558430::1::::<><>::
+Light Holy Orb.png::CompressedTexture2D::8198744722362472399::1720557401::1720558430::1::::<><>::
+Light Scholar Angel.png::CompressedTexture2D::6561253005989912698::1720557401::1720558430::1::::<><>::
+Light Slime.png::CompressedTexture2D::5968917740425021698::1720557401::1720558430::1::::<><>::
+Light Snake.png::CompressedTexture2D::7760882881571068610::1720557401::1720558430::1::::<><>::
+Light Summoned Angel.png::CompressedTexture2D::2104644010760124901::1720557401::1720558430::1::::<><>::
+Light Wisp.png::CompressedTexture2D::7649744353888178496::1720557401::1720558430::1::::<><>::
+Light Wolf.png::CompressedTexture2D::7977407923653419470::1720557401::1720558430::1::::<><>::
+Machines Airship.png::CompressedTexture2D::7694711787586554326::1720557401::1720558430::1::::<><>::
+Machines Cannon.png::CompressedTexture2D::699172118443799616::1720557401::1720558430::1::::<><>::
+Machines Fantasy Tank A.png::CompressedTexture2D::6372814532543451325::1720557401::1720558430::1::::<><>::
+Machines Fantasy Tank B.png::CompressedTexture2D::5270946420717218104::1720557401::1720558430::1::::<><>::
+MAchines Fantasy Tank C.png::CompressedTexture2D::3603280201259131014::1720557401::1720558430::1::::<><>::
+Machines Fantasy Tank D.png::CompressedTexture2D::577514369127770430::1720557401::1720558430::1::::<><>::
+Machines Zeppellin.png::CompressedTexture2D::487791075255757781::1720557401::1720558430::1::::<><>::
+Mage Garrintan.png::CompressedTexture2D::4861343324989011481::1720557401::1720558430::1::::<><>::
+Medieval Bandit Child.png::CompressedTexture2D::1129201152705364213::1720557401::1720558430::1::::<><>::
+Medieval Bandit Dagger Gun.png::CompressedTexture2D::959129931387551449::1720557401::1720558430::1::::<><>::
+Medieval Bandit Great Sword.png::CompressedTexture2D::2209745559064887793::1720557401::1720558430::1::::<><>::
+Megapack II Avian A.png::CompressedTexture2D::6985080952954616429::1720557401::1720558430::1::::<><>::
+Megapack II Avian Elephant.png::CompressedTexture2D::1171519169933904425::1720557401::1720558430::1::::<><>::
+Megapack II Betafish.png::CompressedTexture2D::9055322807108659214::1720557401::1720558430::1::::<><>::
+Megapack II Biofish.png::CompressedTexture2D::1907831214698119808::1720557401::1720558430::1::::<><>::
+Megapack II Black Lance Knight.png::CompressedTexture2D::8199602310339424675::1720557401::1720558430::1::::<><>::
+Megapack II Blue Seeker.png::CompressedTexture2D::1650250476088590653::1720557401::1720558430::1::::<><>::
+Megapack II Bug Originator.png::CompressedTexture2D::3486008088301999510::1720557401::1720558430::1::::<><>::
+Megapack II Colossal Mummy.png::CompressedTexture2D::2279621991614210362::1720557401::1720558430::1::::<><>::
+Megapack II Crocoknight.png::CompressedTexture2D::1948426228940062567::1720557401::1720558430::1::::<><>::
+Megapack II Diamond Dog.png::CompressedTexture2D::5298573657790062141::1720557401::1720558430::1::::<><>::
+Megapack II Dryad Mini.png::CompressedTexture2D::1685517305781150890::1720557401::1720558430::1::::<><>::
+Megapack II Electroctopus.png::CompressedTexture2D::3395668948123555718::1720557401::1720558430::1::::<><>::
+Megapack II Feathered Snake.png::CompressedTexture2D::9133719839583068893::1720557401::1720558430::1::::<><>::
+Megapack II Flame Monkey.png::CompressedTexture2D::205948251184305268::1720557401::1720558430::1::::<><>::
+Megapack II Forest Six-Wing Fairy.png::CompressedTexture2D::6274344494466342866::1720557401::1720558430::1::::<><>::
+Megapack II Frost Gorilla.png::CompressedTexture2D::8852941471674392197::1720557401::1720558430::1::::<><>::
+Megapack II Horn Willow.png::CompressedTexture2D::3544161804690850598::1720557401::1720558430::1::::<><>::
+MEgapack II Hornet Warrior.png::CompressedTexture2D::3630674482278403981::1720557401::1720558430::1::::<><>::
+Megapack II Mountain Razortail Eagle.png::CompressedTexture2D::78969374132483468::1720557401::1720558430::1::::<><>::
+Megapack II Red Shroom A.png::CompressedTexture2D::2680906358587369964::1720557401::1720558430::1::::<><>::
+MEgapack II Red Shroom B.png::CompressedTexture2D::7951875754440101146::1720557401::1720558430::1::::<><>::
+Megapack II Roaming Salamander.png::CompressedTexture2D::7144163578413896932::1720557401::1720558430::1::::<><>::
+Megapack II Rocktail Demolisher.png::CompressedTexture2D::8923033772634490298::1720557401::1720558430::1::::<><>::
+Megapack II Samurai Skeleton.png::CompressedTexture2D::3786593646342095934::1720557401::1720558430::1::::<><>::
+Megapack II Shadow Knight.png::CompressedTexture2D::6909006725948524934::1720557401::1720558430::1::::<><>::
+Megapack II Silver Avian.png::CompressedTexture2D::5286338748186899358::1720557401::1720558430::1::::<><>::
+Megapack II Spike Hopper.png::CompressedTexture2D::7037345988591287327::1720557401::1720558430::1::::<><>::
+Megapack II Spiked Caterpillar.png::CompressedTexture2D::4697615153859097095::1720557401::1720558430::1::::<><>::
+Megapack II Toucan Panther.png::CompressedTexture2D::4445693715866843058::1720557401::1720558430::1::::<><>::
+Megapack II Void Demon B.png::CompressedTexture2D::7064785011688321386::1720557401::1720558430::1::::<><>::
+Megapack II White Minotaur.png::CompressedTexture2D::1587244384666677102::1720557401::1720558430::1::::<><>::
+Megapack II Wingless Dragon.png::CompressedTexture2D::895879922742823185::1720557401::1720558429::1::::<><>::
+Megapack III Axe Warrior Dwarf.png::CompressedTexture2D::1988479035415051978::1720557401::1720558429::1::::<><>::
+Megapack III Behemoth.png::CompressedTexture2D::3246558463493443550::1720557402::1720558430::1::::<><>::
+Megapack III Black Iron Minotaur Beef.png::CompressedTexture2D::7875323507150911404::1720557402::1720558430::1::::<><>::
+Megapack III Cerberus Ptolemaios.png::CompressedTexture2D::671697783854755360::1720557402::1720558430::1::::<><>::
+Megapack III Dragonslayer Dwarf.png::CompressedTexture2D::1717451089625898769::1720557402::1720558429::1::::<><>::
+Megapack III Elemental Lords Fire Lord.png::CompressedTexture2D::6738317305800325708::1720557402::1720558430::1::::<><>::
+Megapack III Elemental Lords Ice Maiden.png::CompressedTexture2D::4516323494078837533::1720557402::1720558429::1::::<><>::
+Megapack III Fallen Kings Arcane King Jeffroy.png::CompressedTexture2D::7417531447153614235::1720557402::1720558429::1::::<><>::
+Megapack III Fallen Kings King Of Dwarves Skor.png::CompressedTexture2D::8400655227126278617::1720557402::1720558429::1::::<><>::
+Megapack III Fallen Kings King Of Elves Dreyel.png::CompressedTexture2D::5277731774751921298::1720557402::1720558429::1::::<><>::
+Megapack III Fallen Kings King Of Giants Goken.png::CompressedTexture2D::8146871426603143966::1720557402::1720558429::1::::<><>::
+Megapack III Hellhound Inferni.png::CompressedTexture2D::9061775561634433255::1720557402::1720558429::1::::<><>::
+Megapack III Red Guard A.png::CompressedTexture2D::5705538848759666535::1720557402::1720558429::1::::<><>::
+Megapack III Red Guard B.png::CompressedTexture2D::5002125137151217526::1720557402::1720558429::1::::<><>::
+Megapack III Red Guard C.png::CompressedTexture2D::4601129778710108615::1720557402::1720558429::1::::<><>::
+Megapack III Undead Warrior Benkei.png::CompressedTexture2D::7446748847624850117::1720557402::1720558429::1::::<><>::
+Megapack III Void Gargoyle.png::CompressedTexture2D::5682624687200294068::1720557402::1720558429::1::::<><>::
+Megapack III Zodiac Aries.png::CompressedTexture2D::1489443466368540623::1720557402::1720558429::1::::<><>::
+Megpack III Drill Dwarf.png::CompressedTexture2D::822897851143074562::1720557402::1720558429::1::::<><>::
+Megpack III Fallen Kings Undead King Berthelot.png::CompressedTexture2D::6890535541773818825::1720557402::1720558429::1::::<><>::
+Mimic Armor.png::CompressedTexture2D::7864480549709234710::1720557402::1720558429::1::::<><>::
+Mimic Barrel.png::CompressedTexture2D::3346151028562447373::1720557402::1720558429::1::::<><>::
+Mimic Book.png::CompressedTexture2D::2808206511222138059::1720557402::1720558429::1::::<><>::
+Mimic Bow.png::CompressedTexture2D::6852885803793226005::1720557402::1720558429::1::::<><>::
+Mimic Bush.png::CompressedTexture2D::8010703557443432475::1720557402::1720558429::1::::<><>::
+Mimic Chest.png::CompressedTexture2D::2279625728804028269::1720557402::1720558429::1::::<><>::
+Mimic Cloak.png::CompressedTexture2D::1762155735522855430::1720557402::1720558429::1::::<><>::
+Mimic Crystal.png::CompressedTexture2D::206381971740271316::1720557402::1720558429::1::::<><>::
+Mimic Door.png::CompressedTexture2D::2871118140034455668::1720557402::1720558430::1::::<><>::
+Mimic Humanoid.png::CompressedTexture2D::7273736107972126844::1720557402::1720558430::1::::<><>::
+Mimic Jar.png::CompressedTexture2D::9025805850624106666::1720557402::1720558430::1::::<><>::
+Mimic Paper Plane.png::CompressedTexture2D::799366555102219713::1720557402::1720558430::1::::<><>::
+Mimic Potion.png::CompressedTexture2D::1603788940909966590::1720557402::1720558430::1::::<><>::
+Mimic Sarcophagus.png::CompressedTexture2D::2997349932636248122::1720557402::1720558430::1::::<><>::
+Mimic Shield.png::CompressedTexture2D::1762859694316960487::1720557402::1720558430::1::::<><>::
+Mimic Slime.png::CompressedTexture2D::3245237178969824225::1720557402::1720558430::1::::<><>::
+Mimic Sword.png::CompressedTexture2D::7531515546156814537::1720557402::1720558430::1::::<><>::
+Mimic.png::CompressedTexture2D::1529887266628106401::1720557402::1720558430::1::::<><>::
+Minotaur Beef.png::CompressedTexture2D::9208564192787368838::1720557402::1720558430::1::::<><>::
+Minotaur BloodshotBeef.png::CompressedTexture2D::6609936283110175683::1720557402::1720558430::1::::<><>::
+Mirror Mimic.png::CompressedTexture2D::5150639782925990233::1720557402::1720558430::1::::<><>::
+Mountain Bat.png::CompressedTexture2D::1158162062965516643::1720557402::1720558430::1::::<><>::
+Mountain Black Wolf.png::CompressedTexture2D::1348311875822564759::1720557402::1720558430::1::::<><>::
+Mountain Bull Dragon.png::CompressedTexture2D::386231080918761094::1720557402::1720558430::1::::<><>::
+Mountain Bunny.png::CompressedTexture2D::4106400350701532580::1720557402::1720558430::1::::<><>::
+Mountain Chimera.png::CompressedTexture2D::6777353326620030083::1720557402::1720558430::1::::<><>::
+Mountain Dodo.png::CompressedTexture2D::8517978485572630992::1720557402::1720558430::1::::<><>::
+Mountain Fetero.png::CompressedTexture2D::849511709256007163::1720557402::1720558430::1::::<><>::
+Mountain Goat.png::CompressedTexture2D::8307391494765935661::1720557402::1720558430::1::::<><>::
+Mountain Greathorn Goat.png::CompressedTexture2D::8697766619753359896::1720557402::1720558430::1::::<><>::
+Mountain Griffon.png::CompressedTexture2D::7382005808916441596::1720557402::1720558430::1::::<><>::
+Mountain Harpy.png::CompressedTexture2D::2211074312937968210::1720557402::1720558430::1::::<><>::
+Mountain Hornette.png::CompressedTexture2D::3471338595792719260::1720557402::1720558430::1::::<><>::
+Mountain Nanjo.png::CompressedTexture2D::7174674340133709964::1720557402::1720558429::1::::<><>::
+Mountain Owl.png::CompressedTexture2D::7216223776717574061::1720557402::1720558429::1::::<><>::
+Mountain Peacock.png::CompressedTexture2D::850975636392232141::1720557402::1720558430::1::::<><>::
+Mountain Rock Mimic.png::CompressedTexture2D::2531160559977670692::1720557402::1720558429::1::::<><>::
+Mountain Scorpion Scopus.png::CompressedTexture2D::4321252249087957159::1720557402::1720558427::1::::<><>::
+Mountain Serpens.png::CompressedTexture2D::516584075493135433::1720557403::1720558427::1::::<><>::
+Mountain Snail.png::CompressedTexture2D::7270510605623158020::1720557403::1720558427::1::::<><>::
+Mountain Warthog.png::CompressedTexture2D::3420882971721324342::1720557403::1720558427::1::::<><>::
+Mountain Werebear Martz.png::CompressedTexture2D::6965424446094242718::1720557403::1720558427::1::::<><>::
+Mountain Winter Wolf.png::CompressedTexture2D::499585797823738072::1720557403::1720558427::1::::<><>::
+Mountain Wolf.png::CompressedTexture2D::6700402443143431516::1720557403::1720558427::1::::<><>::
+MountainScarbear.png::CompressedTexture2D::8628939035451250671::1720557403::1720558427::1::::<><>::
+Moutain Behemoth.png::CompressedTexture2D::3474965725166655071::1720557403::1720558427::1::::<><>::
+Mushroom Don.png::CompressedTexture2D::5559938663410482923::1720557403::1720558427::1::::<><>::
+Mushroom Shroomslinger.png::CompressedTexture2D::6250017519088468028::1720557403::1720558427::1::::<><>::
+Objects Ace Club.png::CompressedTexture2D::4255495582775071023::1720557403::1720558427::1::::<><>::
+Objects Ace Diamond.png::CompressedTexture2D::6694136067286274962::1720557403::1720558427::1::::<><>::
+Objects Ace Heart.png::CompressedTexture2D::4922175782661209748::1720557403::1720558427::1::::<><>::
+Objects Ace Spade.png::CompressedTexture2D::634300722621712541::1720557403::1720558427::1::::<><>::
+Objects Assault Station.png::CompressedTexture2D::3244410025905395971::1720557403::1720558427::1::::<><>::
+Objects bBishop.png::CompressedTexture2D::8140865182756767691::1720557403::1720558427::1::::<><>::
+Objects bHorse.png::CompressedTexture2D::3791091422191357325::1720557403::1720558427::1::::<><>::
+Objects bKing.png::CompressedTexture2D::6259325147348760737::1720557403::1720558427::1::::<><>::
+Objects bPawnA.png::CompressedTexture2D::5890939480749030450::1720557403::1720558427::1::::<><>::
+Objects bPawnB.png::CompressedTexture2D::2215305284425632493::1720557403::1720558427::1::::<><>::
+Objects bQueen.png::CompressedTexture2D::6891144082846461455::1720557403::1720558427::1::::<><>::
+Objects bTower.png::CompressedTexture2D::2437671541316260749::1720557403::1720558427::1::::<><>::
+Objects Dorian.png::CompressedTexture2D::120716535657397875::1720557403::1720558427::1::::<><>::
+Objects Driller.png::CompressedTexture2D::3923641177969853824::1720557403::1720558427::1::::<><>::
+Objects Madpill.png::CompressedTexture2D::7009529669375275105::1720557403::1720558427::1::::<><>::
+Objects Madsule.png::CompressedTexture2D::8192366848540275748::1720557403::1720558427::1::::<><>::
+Objects Mainframe.png::CompressedTexture2D::4869871345903240211::1720557403::1720558427::1::::<><>::
+Objects Medibros.png::CompressedTexture2D::5370254681887767517::1720557403::1720558427::1::::<><>::
+Objects Twin handheld.png::CompressedTexture2D::6686386092325309981::1720557403::1720558428::1::::<><>::
+Objects wBishop.png::CompressedTexture2D::491660865098802773::1720557403::1720558428::1::::<><>::
+Objects wHorse.png::CompressedTexture2D::5837889892791793804::1720557403::1720558428::1::::<><>::
+Objects wKing.png::CompressedTexture2D::4671837096411655868::1720557403::1720558428::1::::<><>::
+Objects wPawnA.png::CompressedTexture2D::4776904375214497256::1720557403::1720558428::1::::<><>::
+Objects wPawnB.png::CompressedTexture2D::3449209515469608148::1720557403::1720558428::1::::<><>::
+Objects wQueen.png::CompressedTexture2D::4393847439812220233::1720557403::1720558428::1::::<><>::
+Objects wTower.png::CompressedTexture2D::5720732742385118963::1720557403::1720558428::1::::<><>::
+Objects YBox.png::CompressedTexture2D::7842295848105374180::1720557403::1720558428::1::::<><>::
+Orc Archer Weak.png::CompressedTexture2D::7878568205348536278::1720557403::1720558428::1::::<><>::
+Orc Archer.png::CompressedTexture2D::1043543804042129220::1720557403::1720558428::1::::<><>::
+Orc Axe Warrior Weak.png::CompressedTexture2D::9021527676719724420::1720557403::1720558428::1::::<><>::
+Orc Axe Warrior.png::CompressedTexture2D::2114201861276693694::1720557403::1720558428::1::::<><>::
+Orc Axe Warrior_W.png::CompressedTexture2D::1905143391845011089::1720557403::1720558428::1::::<><>::
+Orc Sword Warrior Weak.png::CompressedTexture2D::4050387562381465639::1720557403::1720558428::1::::<><>::
+Orc Sword Warrior.png::CompressedTexture2D::3192843765488543087::1720557403::1720558428::1::::<><>::
+Orc War Drummer Weak.png::CompressedTexture2D::554922594727978302::1720557403::1720558428::1::::<><>::
+Orc War Drummer.png::CompressedTexture2D::1291361228994076920::1720557403::1720558428::1::::<><>::
+Orc Warlock Weak.png::CompressedTexture2D::5786455485314319753::1720557403::1720558428::1::::<><>::
+Orc Warlock.png::CompressedTexture2D::3400138184083254193::1720557403::1720558428::1::::<><>::
+Pirate Bandit.png::CompressedTexture2D::4779241012455254185::1720557403::1720558427::1::::<><>::
+Pirate Captain.png::CompressedTexture2D::7858724786638056883::1720557403::1720558427::1::::<><>::
+Pirate Magic Scimitar.png::CompressedTexture2D::4396354816623098114::1720557403::1720558427::1::::<><>::
+Pirate Monkey.png::CompressedTexture2D::8539703040793959471::1720557403::1720558427::1::::<><>::
+Pirate Parrot.png::CompressedTexture2D::23343006370885094::1720557403::1720558427::1::::<><>::
+Pirate Skeleton.png::CompressedTexture2D::8049672334167827585::1720557403::1720558427::1::::<><>::
+Plant Warriors Cape Sundew.png::CompressedTexture2D::4508493627456234283::1720557403::1720558428::1::::<><>::
+Plant Warriors Rose Knight.png::CompressedTexture2D::8749623457273421867::1720557403::1720558427::1::::<><>::
+Plant Warriors Screamer Mandrake.png::CompressedTexture2D::1143857415921879339::1720557403::1720558427::1::::<><>::
+Possessed Knights Axe.png::CompressedTexture2D::5740964395112074::1720557404::1720558427::1::::<><>::
+Possessed Knights Gun.png::CompressedTexture2D::434311366427146432::1720557404::1720558427::1::::<><>::
+Possessed Knights Saber.png::CompressedTexture2D::5113820190770221927::1720557404::1720558427::1::::<><>::
+Post-Modern Machinery Assault.png::CompressedTexture2D::2621802770146034117::1720557404::1720558427::1::::<><>::
+Post-Modern Machinery Heavy.png::CompressedTexture2D::880418788990405954::1720557404::1720558427::1::::<><>::
+Post-Modern Machinery Scout.png::CompressedTexture2D::5636147893914652447::1720557404::1720558427::1::::<><>::
+Post-Modern Soldier A.png::CompressedTexture2D::8285853737744277549::1720557404::1720558427::1::::<><>::
+Post-Modern Soldier B.png::CompressedTexture2D::8098924353358774906::1720557404::1720558427::1::::<><>::
+Post-Modern Soldier C.png::CompressedTexture2D::3399773143155850952::1720557404::1720558427::1::::<><>::
+Pre-Legendary Knights Cursed Swordsman Michael.png::CompressedTexture2D::96005189639232907::1720557404::1720558427::1::::<><>::
+Pre-legendary Knights Inventor Sen.png::CompressedTexture2D::274364933559851192::1720557404::1720558427::1::::<><>::
+Pre-Legendary Knights Onna-bugeisha Croix.png::CompressedTexture2D::1615676449366322692::1720557404::1720558427::1::::<><>::
+Rabbit Warriors Archer.png::CompressedTexture2D::5924490308844395716::1720557404::1720558427::1::::<><>::
+Rabbit Warriors Bandit.png::CompressedTexture2D::3693571162293763876::1720557404::1720558427::1::::<><>::
+Rabbit Warriors Knight.png::CompressedTexture2D::4316865912365640457::1720557404::1720558427::1::::<><>::
+Robot Dracozord.png::CompressedTexture2D::1433786220838922811::1720557404::1720558427::1::::<><>::
+Rock golem.png::CompressedTexture2D::69012653497845371::1720557404::1720558427::1::::<><>::
+Rogue Bastard Sword.png::CompressedTexture2D::5874892074868587990::1720557404::1720558427::1::::<><>::
+Rogue Dagger Monk.png::CompressedTexture2D::5072721152605533897::1720557404::1720558427::1::::<><>::
+Rogue Twin Dagger.png::CompressedTexture2D::653197698464915089::1720557404::1720558427::1::::<><>::
+Sea Abismos.png::CompressedTexture2D::4963947098619989210::1720557404::1720558427::1::::<><>::
+Sea Arman.png::CompressedTexture2D::4093469024760654139::1720557404::1720558427::1::::<><>::
+Sea Armes.png::CompressedTexture2D::2586722727761751181::1720557404::1720558427::1::::<><>::
+Sea Armon.png::CompressedTexture2D::5936059909115193102::1720557404::1720558427::1::::<><>::
+Sea Beach Dark Shell.png::CompressedTexture2D::6488785535551385538::1720557404::1720558427::1::::<><>::
+Sea Beach Dark Star.png::CompressedTexture2D::2376854760050113540::1720557404::1720558427::1::::<><>::
+Sea Beach Emperor Crab A.png::CompressedTexture2D::9035206793491178236::1720557404::1720558427::1::::<><>::
+Sea Beach Emperor Crab B.png::CompressedTexture2D::2194633448203474590::1720557404::1720558427::1::::<><>::
+Sea Beach Hermit Crab.png::CompressedTexture2D::8402572539370403362::1720557404::1720558427::1::::<><>::
+Sea Beach Pelican.png::CompressedTexture2D::7710325646650663416::1720557404::1720558427::1::::<><>::
+Sea Beach Seagull.png::CompressedTexture2D::1813815943173390751::1720557404::1720558427::1::::<><>::
+Sea Beach Shell Claw A.png::CompressedTexture2D::3970394084718297388::1720557404::1720558427::1::::<><>::
+Sea Beach Shell Claw B.png::CompressedTexture2D::830461483655504043::1720557404::1720558427::1::::<><>::
+Sea Beach Spider Crab A.png::CompressedTexture2D::5771519374222662022::1720557404::1720558427::1::::<><>::
+Sea Beach Spider Crab B.png::CompressedTexture2D::8260366351212569212::1720557404::1720558427::1::::<><>::
+Sea Beach Spikestar .png::CompressedTexture2D::2952694648325618187::1720557404::1720558427::1::::<><>::
+Sea Beach Spore.png::CompressedTexture2D::6734189431086546342::1720557404::1720558427::1::::<><>::
+Sea Beach Star Shell.png::CompressedTexture2D::7187946415517893600::1720557404::1720558427::1::::<><>::
+Sea Beach Stars.png::CompressedTexture2D::5111260142853924113::1720557404::1720558427::1::::<><>::
+Sea Beach Turtle Golem.png::CompressedTexture2D::148852866580314379::1720557404::1720558427::1::::<><>::
+Sea Beach Turtle.png::CompressedTexture2D::4920486350397151026::1720557404::1720558427::1::::<><>::
+Sea Beach Urchin.png::CompressedTexture2D::8562989413034535769::1720557404::1720558427::1::::<><>::
+Sea Beach War Lobster A.png::CompressedTexture2D::6404079629339145629::1720557404::1720558427::1::::<><>::
+Sea Beach War Lobster B.png::CompressedTexture2D::3101497240245300435::1720557404::1720558427::1::::<><>::
+Sea Blue Dragon.png::CompressedTexture2D::6268446401479018759::1720557404::1720558427::1::::<><>::
+Sea Crab.png::CompressedTexture2D::6014763216211691830::1720557404::1720558427::1::::<><>::
+Sea Fatoad.png::CompressedTexture2D::871792120324884279::1720557404::1720558427::1::::<><>::
+Sea Fish A.png::CompressedTexture2D::7686513172780264820::1720557404::1720558427::1::::<><>::
+Sea Fish B.png::CompressedTexture2D::8280153936941813033::1720557404::1720558427::1::::<><>::
+Sea Fish C.png::CompressedTexture2D::8436179198211595534::1720557404::1720558427::1::::<><>::
+Sea Horntle.png::CompressedTexture2D::7444018686099474799::1720557404::1720558427::1::::<><>::
+Sea Horse.png::CompressedTexture2D::8309723926581429::1720557404::1720558427::1::::<><>::
+Sea Jellyfish.png::CompressedTexture2D::9004805968064069067::1720557404::1720558427::1::::<><>::
+Sea Lickitoad.png::CompressedTexture2D::2743035180116201933::1720557404::1720558427::1::::<><>::
+Sea Lurker.png::CompressedTexture2D::4742860080635259823::1720557404::1720558427::1::::<><>::
+Sea Mermaid Warrior Arliette.png::CompressedTexture2D::5361833315871188300::1720557404::1720558427::1::::<><>::
+Sea Mermaid Warrior Sasha.png::CompressedTexture2D::7066931939227974795::1720557404::1720558427::1::::<><>::
+Sea Mermaid Warrior Sion.png::CompressedTexture2D::6818184978941439158::1720557404::1720558428::1::::<><>::
+Sea Mermaid.png::CompressedTexture2D::7124623825379710450::1720557405::1720558428::1::::<><>::
+Sea Octi.png::CompressedTexture2D::8677843447246598022::1720557405::1720558428::1::::<><>::
+Sea Octopus.png::CompressedTexture2D::7239989964098238295::1720557405::1720558428::1::::<><>::
+Sea Piranos.png::CompressedTexture2D::4353026816096423714::1720557405::1720558428::1::::<><>::
+Sea Seaweed Cannon.png::CompressedTexture2D::3244468861120461015::1720557405::1720558428::1::::<><>::
+Sea Shark.png::CompressedTexture2D::8870597524881566523::1720557405::1720558428::1::::<><>::
+Sea Shelltacke.png::CompressedTexture2D::1177559547130700689::1720557405::1720558428::1::::<><>::
+Sea Spheria.png::CompressedTexture2D::4679866848143824693::1720557405::1720558428::1::::<><>::
+Sea Tortoad.png::CompressedTexture2D::5230658930735306145::1720557405::1720558428::1::::<><>::
+Sea Turtle.png::CompressedTexture2D::6311982694347611193::1720557405::1720558428::1::::<><>::
+Sea Vamphibian.png::CompressedTexture2D::455999799400272939::1720557405::1720558428::1::::<><>::
+Secondary Elementals Acid Elemental.png::CompressedTexture2D::1244819290538520002::1720557405::1720558428::1::::<><>::
+Secondary Elementals Time Elemental.png::CompressedTexture2D::576329075515011904::1720557405::1720558428::1::::<><>::
+Secondary Elementals War Elemental.png::CompressedTexture2D::8120868748495711659::1720557405::1720558428::1::::<><>::
+Seven Sins Gluttony.png::CompressedTexture2D::4100745067863468491::1720557405::1720558428::1::::<><>::
+Seven Sins Greed.png::CompressedTexture2D::8693956851664949490::1720557405::1720558428::1::::<><>::
+Seven Sins Lust.png::CompressedTexture2D::18893334418881479::1720557405::1720558428::1::::<><>::
+Seven Sins Pride.png::CompressedTexture2D::1863851993605459641::1720557405::1720558428::1::::<><>::
+Seven Sins Sloth.png::CompressedTexture2D::1427203096127053680::1720557405::1720558428::1::::<><>::
+Seven Sins Wrath.png::CompressedTexture2D::7866509900362097888::1720557405::1720558428::1::::<><>::
+Skeleton Archer Sisbon.png::CompressedTexture2D::5276283275478666371::1720557405::1720558428::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::3624168746689999948::1720557405::1720558428::1::::<><>::
+Skeleton Dragon.png::CompressedTexture2D::2919585856808999754::1720557405::1720558428::1::::<><>::
+Skeleton Hare.png::CompressedTexture2D::6854352701999806258::1720557405::1720558428::1::::<><>::
+Skeleton Knight Alstreim.png::CompressedTexture2D::4468188241053949919::1720557405::1720558428::1::::<><>::
+Skeleton Knight Baron.png::CompressedTexture2D::8022521741032111459::1720557405::1720558428::1::::<><>::
+Skeleton Knight Debon.png::CompressedTexture2D::50491253426856748::1720557405::1720558428::1::::<><>::
+Skeleton Knight Debons.png::CompressedTexture2D::4097612193016493924::1720557405::1720558428::1::::<><>::
+Skeleton Mage Mabon.png::CompressedTexture2D::6919851557662242567::1720557405::1720558428::1::::<><>::
+Skeleton Mage.png::CompressedTexture2D::4176028358475899823::1720557405::1720558428::1::::<><>::
+Skull Knight Xoer.png::CompressedTexture2D::6902960055399313240::1720557405::1720558428::1::::<><>::
+Slime Blue.png::CompressedTexture2D::6255121328112088594::1720557405::1720558428::1::::<><>::
+Slime Darki.png::CompressedTexture2D::7500261163803724643::1720557405::1720558428::1::::<><>::
+Slime Darkii.png::CompressedTexture2D::3727342912144302490::1720557405::1720558428::1::::<><>::
+Slime Darkiii.png::CompressedTexture2D::2049191755808841578::1720557405::1720558428::1::::<><>::
+Slime Earthi.png::CompressedTexture2D::3995249289266067054::1720557405::1720558428::1::::<><>::
+Slime Earthii.png::CompressedTexture2D::6821930146947963667::1720557405::1720558428::1::::<><>::
+Slime Earthiii.png::CompressedTexture2D::2821190796861378209::1720557405::1720558428::1::::<><>::
+Slime Firei.png::CompressedTexture2D::1581560039348948965::1720557405::1720558428::1::::<><>::
+Slime Fireii.png::CompressedTexture2D::5791026397041636912::1720557405::1720558428::1::::<><>::
+Slime Fireiii.png::CompressedTexture2D::3088033291398789652::1720557405::1720558428::1::::<><>::
+Slime Holyi.png::CompressedTexture2D::338865882554395309::1720557405::1720558428::1::::<><>::
+Slime Holyii.png::CompressedTexture2D::1220643044516099703::1720557405::1720558428::1::::<><>::
+Slime Holyiii.png::CompressedTexture2D::3967224694020893141::1720557405::1720558428::1::::<><>::
+Slime Icei.png::CompressedTexture2D::3124367769622581629::1720557405::1720558428::1::::<><>::
+Slime Iceii.png::CompressedTexture2D::1415597090018623203::1720557405::1720558428::1::::<><>::
+Slime Iceiii.png::CompressedTexture2D::5656970650161279457::1720557405::1720558428::1::::<><>::
+Slime RPG Attacker.png::CompressedTexture2D::7389068432273060071::1720557405::1720558428::1::::<><>::
+Slime RPG Basic.png::CompressedTexture2D::4622201599256559959::1720557405::1720558428::1::::<><>::
+Slime RPG Buffer.png::CompressedTexture2D::5507912028149380258::1720557405::1720558428::1::::<><>::
+Slime RPG Caster.png::CompressedTexture2D::7789995908407947105::1720557406::1720558428::1::::<><>::
+Slime RPG Debuffer.png::CompressedTexture2D::1740790432060017182::1720557406::1720558428::1::::<><>::
+Slime RPG Defender.png::CompressedTexture2D::5359164681257577702::1720557406::1720558428::1::::<><>::
+Slime RPG Healer.png::CompressedTexture2D::5566042121978633897::1720557406::1720558428::1::::<><>::
+Slime RPG King.png::CompressedTexture2D::5692271916002299603::1720557406::1720558428::1::::<><>::
+Slime Thunderi.png::CompressedTexture2D::2412591877919624973::1720557406::1720558428::1::::<><>::
+Slime Thunderii.png::CompressedTexture2D::1296574767625907636::1720557406::1720558428::1::::<><>::
+Slime Thunderiii.png::CompressedTexture2D::2839707344768323054::1720557406::1720558428::1::::<><>::
+Slime Wateri.png::CompressedTexture2D::221445132390543428::1720557406::1720558428::1::::<><>::
+Slime Waterii.png::CompressedTexture2D::8305539288105700452::1720557406::1720558428::1::::<><>::
+Slime Wateriii.png::CompressedTexture2D::6176347304530135700::1720557406::1720558428::1::::<><>::
+Slime Windi.png::CompressedTexture2D::7980584271268013409::1720557406::1720558428::1::::<><>::
+Slime Windii.png::CompressedTexture2D::7058928901894216791::1720557406::1720558428::1::::<><>::
+Slime Windiii.png::CompressedTexture2D::7665174722791541481::1720557406::1720558428::1::::<><>::
+Slimei.png::CompressedTexture2D::2685446394330263591::1720557406::1720558428::1::::<><>::
+Slimeii.png::CompressedTexture2D::1681827554200666824::1720557406::1720558428::1::::<><>::
+slimeiii.png::CompressedTexture2D::8530507135244706814::1720557406::1720558428::1::::<><>::
+Special Spiders Dragon Spider.png::CompressedTexture2D::6059862513349911566::1720557406::1720558428::1::::<><>::
+Special Spiders Fire Spider.png::CompressedTexture2D::3931400473336848659::1720557406::1720558428::1::::<><>::
+Special Spiders Ghost Spider.png::CompressedTexture2D::8663185610002884247::1720557406::1720558428::1::::<><>::
+Summon Alicorn.png::CompressedTexture2D::1513478996362514521::1720557406::1720558428::1::::<><>::
+Summon Carbuncle.png::CompressedTexture2D::7839971728209995846::1720557406::1720558428::1::::<><>::
+Summon Ifrit.png::CompressedTexture2D::4625816919604833313::1720557406::1720558428::1::::<><>::
+Summon Odin.png::CompressedTexture2D::2581298276784490265::1720557406::1720558428::1::::<><>::
+Summon Shiva.png::CompressedTexture2D::6929127226466381771::1720557406::1720558428::1::::<><>::
+Titan Alfadriel.png::CompressedTexture2D::4010938450121501446::1720557406::1720558428::1::::<><>::
+Titan Aquos.png::CompressedTexture2D::1520549111126375013::1720557406::1720558428::1::::<><>::
+Titan Darkness Ilnoct.png::CompressedTexture2D::8073471106029517331::1720557406::1720558428::1::::<><>::
+Titan Earth Terran.png::CompressedTexture2D::4250330874053069955::1720557406::1720558428::1::::<><>::
+Titan Fire Ignis.png::CompressedTexture2D::3344198202789195338::1720557406::1720558428::1::::<><>::
+Titan Ice Demeres.png::CompressedTexture2D::4578370931286271107::1720557406::1720558428::1::::<><>::
+Titan Wind Ventoss.png::CompressedTexture2D::1279096288742702712::1720557406::1720558428::1::::<><>::
+Titans Thunder Dynamo.png::CompressedTexture2D::2122463515481965034::1720557406::1720558428::1::::<><>::
+Toxic Cactus A.png::CompressedTexture2D::2454460110769981089::1720557406::1720558428::1::::<><>::
+Toxic Cactus B.png::CompressedTexture2D::6162619981188488161::1720557406::1720558428::1::::<><>::
+Toxic Cactus C.png::CompressedTexture2D::6035610498510917831::1720557406::1720558428::1::::<><>::
+Toxic Carnivorous Plant A.png::CompressedTexture2D::7039478733718241368::1720557406::1720558428::1::::<><>::
+Toxic Carnivorous Plant B.png::CompressedTexture2D::507413825485587562::1720557406::1720558428::1::::<><>::
+Toxic Carnivorous Plant C.png::CompressedTexture2D::1284478730643552752::1720557406::1720558428::1::::<><>::
+Toxic FRog A2.png::CompressedTexture2D::8638668480938523320::1720557406::1720558428::1::::<><>::
+Toxic Frog A.png::CompressedTexture2D::8942747767596379641::1720557406::1720558428::1::::<><>::
+Toxic Frog B2.png::CompressedTexture2D::3521315826499675376::1720557406::1720558428::1::::<><>::
+Toxic Frog B.png::CompressedTexture2D::7675037913564855548::1720557406::1720558428::1::::<><>::
+Toxic Frog C2.png::CompressedTexture2D::4560659815385599933::1720557406::1720558428::1::::<><>::
+Toxic Frog C.png::CompressedTexture2D::4885831370893018692::1720557406::1720558428::1::::<><>::
+Toxic Maneater Plan A.png::CompressedTexture2D::7067781706711513695::1720557406::1720558428::1::::<><>::
+Toxic Maneater Plant B.png::CompressedTexture2D::8377170173168222314::1720557406::1720558428::1::::<><>::
+Toxic Maneater Plant C.png::CompressedTexture2D::2902714630257671238::1720557406::1720558428::1::::<><>::
+Toxic Root A.png::CompressedTexture2D::3782653031502943433::1720557406::1720558428::1::::<><>::
+Toxic Root B.png::CompressedTexture2D::7300852560978961615::1720557406::1720558428::1::::<><>::
+Toxic Shroom A.png::CompressedTexture2D::5753443705246627725::1720557406::1720558428::1::::<><>::
+Toxic Shroom B.png::CompressedTexture2D::5235002074894217675::1720557406::1720558428::1::::<><>::
+Toxic Shroom C.png::CompressedTexture2D::4809925070514945049::1720557406::1720558428::1::::<><>::
+Tribal Elves Bastard Sword.png::CompressedTexture2D::5885575612608069109::1720557406::1720558428::1::::<><>::
+Tribal Elves Dagger.png::CompressedTexture2D::7751063423884299726::1720557406::1720558428::1::::<><>::
+Tribal Elves Rapier.png::CompressedTexture2D::8680937604392352253::1720557406::1720558428::1::::<><>::
+Undead Benkei.png::CompressedTexture2D::7411233079569540043::1720557407::1720558428::1::::<><>::
+Undead Claw Knight.png::CompressedTexture2D::3077328477607680001::1720557407::1720558428::1::::<><>::
+Undead Gigaraven.png::CompressedTexture2D::1682525398806895153::1720557407::1720558428::1::::<><>::
+Undead Jiangshi.png::CompressedTexture2D::2947880953169877622::1720557407::1720558428::1::::<><>::
+Undead Skull Slime.png::CompressedTexture2D::8017114813729338106::1720557407::1720558428::1::::<><>::
+Undead Skull Tree.png::CompressedTexture2D::2254146300671873264::1720557407::1720558428::1::::<><>::
+Undead Slime.png::CompressedTexture2D::5287060580547634991::1720557407::1720558428::1::::<><>::
+Undead Walker.png::CompressedTexture2D::4095988438944578192::1720557407::1720558428::1::::<><>::
+Undead Wolf.png::CompressedTexture2D::5916999937137372933::1720557407::1720558407::1::::<><>::
+Vampiric Creature Dragon Lamprey.png::CompressedTexture2D::8316080544437792300::1720557407::1720558407::1::::<><>::
+Vampiric Creatures Flying Leech.png::CompressedTexture2D::5019295936495782925::1720557407::1720558407::1::::<><>::
+Vampiric Creatures Giant Mosquito.png::CompressedTexture2D::699619409013311357::1720557407::1720558407::1::::<><>::
+Voidoll Erabos.png::CompressedTexture2D::4830618171739052798::1720557407::1720558407::1::::<><>::
+Voidoll Erebia.png::CompressedTexture2D::505756976981969353::1720557407::1720558407::1::::<><>::
+Voidoll Erebus.png::CompressedTexture2D::4455927222699768781::1720557407::1720558407::1::::<><>::
+Weretiger Maxima.png::CompressedTexture2D::2664329282783566091::1720557407::1720558407::1::::<><>::
+Werewolf Rigel.png::CompressedTexture2D::1174767411746628920::1720557407::1720558407::1::::<><>::
+Whisp Wispia.png::CompressedTexture2D::7503040560894706474::1720557407::1720558407::1::::<><>::
+Wind Avian.png::CompressedTexture2D::5364303356306123427::1720557407::1720558407::1::::<><>::
+Wind Bunny.png::CompressedTexture2D::3127033749286742504::1720557407::1720558407::1::::<><>::
+Wind Fairy.png::CompressedTexture2D::7002514669199792750::1720557407::1720558407::1::::<><>::
+Wind Feathered Golem.png::CompressedTexture2D::8061772422567917552::1720557407::1720558407::1::::<><>::
+Wind Feathered Razor.png::CompressedTexture2D::8529442442679275285::1720557407::1720558407::1::::<><>::
+Wind Harpy.png::CompressedTexture2D::4051290867496707778::1720557407::1720558407::1::::<><>::
+Wind Lion.png::CompressedTexture2D::6906099222750217173::1720557407::1720558407::1::::<><>::
+Wind Mantis.png::CompressedTexture2D::6479582463056824921::1720557407::1720558407::1::::<><>::
+Wind Snake.png::CompressedTexture2D::6405262787559398479::1720557407::1720558407::1::::<><>::
+Wind Spawn.png::CompressedTexture2D::4931001598407693717::1720557407::1720558407::1::::<><>::
+Wind Wisp.png::CompressedTexture2D::8421405072027973693::1720557407::1720558407::1::::<><>::
+Witch Hunters Healer.png::CompressedTexture2D::3692425473773062768::1720557407::1720558407::1::::<><>::
+Witch Hunters Leader.png::CompressedTexture2D::7090409836237197197::1720557407::1720558407::1::::<><>::
+Witch Hunters Noble.png::CompressedTexture2D::4325707870435091185::1720557407::1720558407::1::::<><>::
+Xmas Bear.png::CompressedTexture2D::4009643485752465812::1720557407::1720558407::1::::<><>::
+Xmas Cookie.png::CompressedTexture2D::6794744518852647385::1720557407::1720558407::1::::<><>::
+Xmas Penguin.png::CompressedTexture2D::792176706746630826::1720557407::1720558407::1::::<><>::
+Xmas Snowman.png::CompressedTexture2D::4644150172384406465::1720557407::1720558407::1::::<><>::
+Xmas Tree.png::CompressedTexture2D::5055358239510744330::1720557407::1720558407::1::::<><>::
+Zodiac Aquarius B.png::CompressedTexture2D::896039542377345426::1720557407::1720558408::1::::<><>::
+Zodiac Aquarius.png::CompressedTexture2D::7498793539758035981::1720557407::1720558408::1::::<><>::
+Zodiac Aries B.png::CompressedTexture2D::3604054561732907965::1720557407::1720558408::1::::<><>::
+Zodiac Aries.png::CompressedTexture2D::598163901081957865::1720557407::1720558408::1::::<><>::
+Zodiac Capricorn.png::CompressedTexture2D::1509771968120696495::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Cancer.png::CompressedTexture2D::7752116033477295884::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Libra.png::CompressedTexture2D::8078796559754078868::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Ophichus.png::CompressedTexture2D::5398575004652010072::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Pisces.png::CompressedTexture2D::1183702218153030630::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Saggitarius.png::CompressedTexture2D::8821538490634314307::1720557407::1720558408::1::::<><>::
+Zodiac Creatures Scorpion.png::CompressedTexture2D::1924185192150571927::1720557407::1720558408::1::::<><>::
+Zodiac Gemini.png::CompressedTexture2D::4992553549521870452::1720557407::1720558408::1::::<><>::
+Zodiac Leo B.png::CompressedTexture2D::6697008160266200521::1720557407::1720558408::1::::<><>::
+Zodiac Leo.png::CompressedTexture2D::283129608340937054::1720557407::1720558408::1::::<><>::
+Zodiac Taurus.png::CompressedTexture2D::5693598067988180236::1720557407::1720558408::1::::<><>::
+Zodiac Virgo B.png::CompressedTexture2D::9049893223559149016::1720557407::1720558408::1::::<><>::
+Zodiac Virgo.png::CompressedTexture2D::9068535179189390131::1720557407::1720558408::1::::<><>::
+::res://Aekashics Librarium Static Battlers/Sideview Batch Battlers/::1720557614
+AncientAutomaton.png::CompressedTexture2D::2610878351129001297::1720557407::1720558408::1::::<><>::
+Arcane Crystal Magic Circle.png::CompressedTexture2D::3639192369577851924::1720557407::1720558407::1::::<><>::
+Arcane Crystal.png::CompressedTexture2D::1585230157657689431::1720557408::1720558407::1::::<><>::
+Arcane Golem.png::CompressedTexture2D::3948562691990789279::1720557408::1720558408::1::::<><>::
+Arcane Orb Fire.png::CompressedTexture2D::6418914298123241971::1720557408::1720558407::1::::<><>::
+Arcane Orb Frost.png::CompressedTexture2D::4801377840113718589::1720557408::1720558407::1::::<><>::
+Arcane Orb Thunder.png::CompressedTexture2D::1773429580055346920::1720557408::1720558407::1::::<><>::
+Arcane Orb Wind.png::CompressedTexture2D::7700992652542178974::1720557408::1720558407::1::::<><>::
+Aspiring Knight Gladius.png::CompressedTexture2D::5777980818764041805::1720557408::1720558407::1::::<><>::
+Aspiring Knight Palazo.png::CompressedTexture2D::293782835419948818::1720557408::1720558407::1::::<><>::
+Aspiring Knight Valterra.png::CompressedTexture2D::4090287745079951425::1720557408::1720558407::1::::<><>::
+Assasin Garland.png::CompressedTexture2D::3799389688176465646::1720557408::1720558407::1::::<><>::
+Assembling Automatons Automaton A.png::CompressedTexture2D::784440242835163474::1720557408::1720558407::1::::<><>::
+Assembling Automatons Automaton B.png::CompressedTexture2D::5059930022259689516::1720557408::1720558407::1::::<><>::
+Assembling Automatons Automaton C.png::CompressedTexture2D::6312935157074913069::1720557408::1720558407::1::::<><>::
+Assembling Automatons Automaton D.png::CompressedTexture2D::4047563373245340282::1720557408::1720558407::1::::<><>::
+Blood Manipulation Feral.png::CompressedTexture2D::5949681999031761776::1720557408::1720558407::1::::<><>::
+Blood Manipulation Mage.png::CompressedTexture2D::3797314029713407146::1720557408::1720558407::1::::<><>::
+Blood Manipulation Slime.png::CompressedTexture2D::6701485813517457212::1720557408::1720558407::1::::<><>::
+Boss Abomination Aqua.png::CompressedTexture2D::3569341444739980514::1720557408::1720558407::1::::<><>::
+Boss Abomination Red.png::CompressedTexture2D::9082600115906246525::1720557408::1720558407::1::::<><>::
+Boss Alfadriel.png::CompressedTexture2D::2620876723305787606::1720557408::1720558407::1::::<><>::
+Boss Ancient Automaton.png::CompressedTexture2D::1852898058384906441::1720557408::1720558407::1::::<><>::
+Boss Ancient Priestess.png::CompressedTexture2D::2211217206276224986::1720557408::1720558407::1::::<><>::
+Boss Astral Lich.png::CompressedTexture2D::6960150773096300330::1720557408::1720558407::1::::<><>::
+Boss Big Fish.png::CompressedTexture2D::3113010326080388174::1720557408::1720558407::1::::<><>::
+Boss Black Ant Queen.png::CompressedTexture2D::2634492077338874430::1720557408::1720558407::1::::<><>::
+Boss Blood Feral.png::CompressedTexture2D::2936933750511996950::1720557408::1720558407::1::::<><>::
+Boss Bonemask Shadow Creature.png::CompressedTexture2D::3766040986612597764::1720557408::1720558407::1::::<><>::
+Boss Continental Turtle Rukkha.png::CompressedTexture2D::1904981836844419327::1720557408::1720558407::1::::<><>::
+Boss Crab King Karkinos.png::CompressedTexture2D::3004969494249695786::1720557408::1720558407::1::::<><>::
+Boss Daidarabotchi.png::CompressedTexture2D::4772994122722004557::1720557408::1720558406::1::::<><>::
+Boss Dark Queen Shaccad Yoggoth.png::CompressedTexture2D::8242628842826778327::1720557408::1720558406::1::::<><>::
+Boss Darklord Excelsios.png::CompressedTexture2D::4249012515892622130::1720557408::1720558406::1::::<><>::
+Boss Darkness Titan Ilnoct.png::CompressedTexture2D::8287874948184737756::1720557408::1720558407::1::::<><>::
+Boss Doppelganger Slime.png::CompressedTexture2D::2205648173305744133::1720557408::1720558406::1::::<><>::
+Boss Dragon Emperor.png::CompressedTexture2D::6203143233450301252::1720557408::1720558407::1::::<><>::
+Boss Dragon Huanglong.png::CompressedTexture2D::7790013852065472485::1720557408::1720558407::1::::<><>::
+Boss Dryad Queen Rafflesia.png::CompressedTexture2D::1724090131236713079::1720557408::1720558406::1::::<><>::
+Boss Dryad Yggdrasil.png::CompressedTexture2D::5298420990274194509::1720557408::1720558406::1::::<><>::
+Boss Earth Dragon.png::CompressedTexture2D::6277628601192560193::1720557408::1720558407::1::::<><>::
+Boss Eldritch God Shaccad'Yoggoth.png::CompressedTexture2D::3534445275791782404::1720557408::1720558407::1::::<><>::
+Boss Eldritch Slime Overmind.png::CompressedTexture2D::4764369725758800202::1720557408::1720558407::1::::<><>::
+Boss Feral Kitsune.png::CompressedTexture2D::3666669266260132262::1720557408::1720558407::1::::<><>::
+Boss Flynn The Original Slime.png::CompressedTexture2D::6739034635825224887::1720557408::1720558407::1::::<><>::
+Boss God Jupiter.png::CompressedTexture2D::2991685623969359872::1720557408::1720558407::1::::<><>::
+Boss God Novus.png::CompressedTexture2D::3650413907480330815::1720557408::1720558407::1::::<><>::
+Boss God Warrior Dagon.png::CompressedTexture2D::4985849012024686766::1720557408::1720558407::1::::<><>::
+Boss God Warrior Isis.png::CompressedTexture2D::6992786285330879385::1720557408::1720558407::1::::<><>::
+Boss God Warrior Osiris.png::CompressedTexture2D::1543169387397511160::1720557408::1720558407::1::::<><>::
+Boss God Warrior Poseidon.png::CompressedTexture2D::5418195964548235644::1720557408::1720558407::1::::<><>::
+Boss God Warrior Skoll.png::CompressedTexture2D::4449851554463794868::1720557408::1720558407::1::::<><>::
+Boss Goddess Aphrodite.png::CompressedTexture2D::7661929508036809891::1720557408::1720558407::1::::<><>::
+Boss Goddess Innova.png::CompressedTexture2D::2113484872929169146::1720557408::1720558407::1::::<><>::
+Boss Grand Sorceress Duessa.png::CompressedTexture2D::7210136719524872599::1720557408::1720558407::1::::<><>::
+Boss Hades.png::CompressedTexture2D::4315494741099368937::1720557408::1720558407::1::::<><>::
+Boss Hellhound Garm.png::CompressedTexture2D::4613126587302671395::1720557409::1720558407::1::::<><>::
+Boss Ice Titan Demeres.png::CompressedTexture2D::1629315235311298422::1720557409::1720558407::1::::<><>::
+Boss Insect Queen.png::CompressedTexture2D::6812439714599587851::1720557409::1720558407::1::::<><>::
+Boss Jubokko.png::CompressedTexture2D::4855488829885688710::1720557409::1720558407::1::::<><>::
+Boss Khronos.png::CompressedTexture2D::2680484142221245018::1720557409::1720558407::1::::<><>::
+Boss Legendary Knight Remment.png::CompressedTexture2D::8299417219232265082::1720557409::1720558407::1::::<><>::
+Boss Lich King.png::CompressedTexture2D::8892106751206545811::1720557409::1720558407::1::::<><>::
+Boss Life Titan Aphylia.png::CompressedTexture2D::428431518872560314::1720557409::1720558407::1::::<><>::
+Boss Light Titan Alfadriel.png::CompressedTexture2D::4035155508586202138::1720557409::1720558407::1::::<><>::
+Boss Living Hoard Midas.png::CompressedTexture2D::1065262643096430669::1720557409::1720558407::1::::<><>::
+Boss Mecha Rattlesnake.png::CompressedTexture2D::5301604790061423528::1720557409::1720558407::1::::<><>::
+Boss Mecha-Dragon Ladon.png::CompressedTexture2D::9132028085953916425::1720557409::1720558407::1::::<><>::
+Boss Mecha-Scorpion.png::CompressedTexture2D::5664721197350045065::1720557409::1720558407::1::::<><>::
+Boss Mythical Knight Goldnharl.png::CompressedTexture2D::3632955497260756265::1720557409::1720558409::1::::<><>::
+Boss Nature Titan Tellia.png::CompressedTexture2D::8059942244041855097::1720557409::1720558409::1::::<><>::
+Boss Nuckelavee.png::CompressedTexture2D::2360114627348402333::1720557409::1720558409::1::::<><>::
+Boss Orc Chief Grunt.png::CompressedTexture2D::6874292787964085281::1720557409::1720558409::1::::<><>::
+Boss Parrot King.png::CompressedTexture2D::1041700136314925977::1720557409::1720558409::1::::<><>::
+Boss Radulac The Voidvod.png::CompressedTexture2D::3913714169219082502::1720557409::1720558409::1::::<><>::
+Boss Reaper Nihilo.png::CompressedTexture2D::9088698911787017329::1720557409::1720558409::1::::<><>::
+Boss Runic Stone Golem Goliath.png::CompressedTexture2D::5259094657061322410::1720557409::1720558409::1::::<><>::
+Boss Sea Calamity Urmica.png::CompressedTexture2D::7463803555076757674::1720557409::1720558409::1::::<><>::
+Boss Sea Dragon Leviathan.png::CompressedTexture2D::7956064988136988295::1720557409::1720558409::1::::<><>::
+Boss Sea Mermaid Warrior Undeen.png::CompressedTexture2D::4595100442276944691::1720557409::1720558409::1::::<><>::
+Boss Skull Knight Xoer.png::CompressedTexture2D::3293188898705148436::1720557409::1720558409::1::::<><>::
+Boss Slime Golem.png::CompressedTexture2D::2539777602225257726::1720557409::1720558409::1::::<><>::
+Boss Son Of Valhalla.png::CompressedTexture2D::1550263403817197806::1720557409::1720558409::1::::<><>::
+Boss Spirit Fighter.png::CompressedTexture2D::6023533469483750572::1720557409::1720558408::1::::<><>::
+Boss Sun Goddess.png::CompressedTexture2D::6433568381923011548::1720557409::1720558408::1::::<><>::
+Boss Tantalus.png::CompressedTexture2D::5165289310558693148::1720557409::1720558409::1::::<><>::
+Boss Thanatos.png::CompressedTexture2D::1879655955557278774::1720557409::1720558409::1::::<><>::
+Boss The Fallen.png::CompressedTexture2D::3601827629282802506::1720557409::1720558408::1::::<><>::
+Boss The Horde.png::CompressedTexture2D::7847438434505202773::1720557409::1720558408::1::::<><>::
+Boss The Originator.png::CompressedTexture2D::6236955618687991938::1720557409::1720558409::1::::<><>::
+Boss Thunder Titan Dynamo.png::CompressedTexture2D::2625108750756303227::1720557409::1720558408::1::::<><>::
+Boss Tiamat Unleashed.png::CompressedTexture2D::7593257118065700318::1720557409::1720558408::1::::<><>::
+Boss Tiamat.png::CompressedTexture2D::2795314977835022436::1720557409::1720558408::1::::<><>::
+Boss Twin Gods.png::CompressedTexture2D::5367044713242707778::1720557409::1720558408::1::::<><>::
+Boss Void Gargoyle Sabre.png::CompressedTexture2D::6715077896940023353::1720557409::1720558408::1::::<><>::
+Boss Wind Titan Ventoss.png::CompressedTexture2D::3376000482971225902::1720557409::1720558408::1::::<><>::
+Boss Zeograth.png::CompressedTexture2D::5917422209693089411::1720557409::1720558408::1::::<><>::
+Boss Zodiac Cancer.png::CompressedTexture2D::6375118564503791089::1720557410::1720558408::1::::<><>::
+Breakfast Nightmares Bacon Beast.png::CompressedTexture2D::6004149530577896662::1720557410::1720558409::1::::<><>::
+Breakfast Nightmares Bread Loaf.png::CompressedTexture2D::5457421748075734036::1720557410::1720558409::1::::<><>::
+Breakfast Nightmares Egg Slime.png::CompressedTexture2D::6095173386276926476::1720557410::1720558409::1::::<><>::
+Cave Dweller Blind Dragon.png::CompressedTexture2D::6888177517289709973::1720557410::1720558409::1::::<><>::
+Cave Dweller Rock Mimic.png::CompressedTexture2D::218397407043198884::1720557410::1720558409::1::::<><>::
+Cave Dweller Worm.png::CompressedTexture2D::1963819131434489208::1720557410::1720558409::1::::<><>::
+Celestial Beatrix.png::CompressedTexture2D::7964760735476106863::1720557410::1720558409::1::::<><>::
+Cerberus Ptolemaios.png::CompressedTexture2D::7460932385016707213::1720557410::1720558409::1::::<><>::
+Clockwork Abomination.png::CompressedTexture2D::6072574395314811932::1720557410::1720558409::1::::<><>::
+Clockwork Aerial.png::CompressedTexture2D::1475332793324462884::1720557410::1720558409::1::::<><>::
+Clockwork Dragon Juggernaut.png::CompressedTexture2D::4802158458791638170::1720557410::1720558409::1::::<><>::
+Clockwork Dragon.png::CompressedTexture2D::310414119679734655::1720557410::1720558409::1::::<><>::
+Clockwork Gigas.png::CompressedTexture2D::3438720472080128508::1720557410::1720558409::1::::<><>::
+Clockwork Iron Maiden.png::CompressedTexture2D::6869837181902240662::1720557410::1720558409::1::::<><>::
+Clockwork Juggernaut.png::CompressedTexture2D::9147014262081630969::1720557410::1720558409::1::::<><>::
+Clockwork King.png::CompressedTexture2D::2862541713950066511::1720557410::1720558409::1::::<><>::
+Clockwork Knight B.png::CompressedTexture2D::8056159666099780088::1720557410::1720558409::1::::<><>::
+Clockwork Knight C.png::CompressedTexture2D::6246715766412105318::1720557410::1720558409::1::::<><>::
+Clockwork Knight D.png::CompressedTexture2D::7252660645199503668::1720557410::1720558409::1::::<><>::
+Clockwork Mini A.png::CompressedTexture2D::7398396089407708792::1720557410::1720558409::1::::<><>::
+Clockwork Mini B.png::CompressedTexture2D::53893609049770449::1720557410::1720558409::1::::<><>::
+Clockwork Mini C.png::CompressedTexture2D::1706011477347226199::1720557410::1720558409::1::::<><>::
+Clockwork Prototype.png::CompressedTexture2D::1100481662592252381::1720557410::1720558409::1::::<><>::
+Clockwork Queen.png::CompressedTexture2D::9064718142157994562::1720557410::1720558409::1::::<><>::
+Clockwork Reaper.png::CompressedTexture2D::258847340895058692::1720557410::1720558409::1::::<><>::
+Clockwork Skull.png::CompressedTexture2D::3423137787276931139::1720557410::1720558409::1::::<><>::
+Clockwork Slime.png::CompressedTexture2D::1050791550093326720::1720557410::1720558409::1::::<><>::
+Clockwork Spider Mini.png::CompressedTexture2D::4993998772179105710::1720557410::1720558409::1::::<><>::
+Clockwork Spider.png::CompressedTexture2D::4246230737972371031::1720557410::1720558409::1::::<><>::
+Colossal Bat.png::CompressedTexture2D::783162933519201444::1720557410::1720558408::1::::<><>::
+Colossal Dark Crow.png::CompressedTexture2D::1816981730382582115::1720557410::1720558408::1::::<><>::
+Colossal Hydra 1.png::CompressedTexture2D::4845795008022488953::1720557410::1720558408::1::::<><>::
+Colossal Hydra 2.png::CompressedTexture2D::5154657727367589916::1720557410::1720558408::1::::<><>::
+Colossal Hydra 3.png::CompressedTexture2D::2034249018270278366::1720557410::1720558408::1::::<><>::
+Colossal Scorpion.png::CompressedTexture2D::8687567527233042191::1720557410::1720558408::1::::<><>::
+Colossal Snake Black.png::CompressedTexture2D::1231355448289108326::1720557410::1720558408::1::::<><>::
+Colossal Snake Red.png::CompressedTexture2D::799671720118648894::1720557410::1720558408::1::::<><>::
+Colossal Snake.png::CompressedTexture2D::7164288697411694468::1720557410::1720558408::1::::<><>::
+Colossal T-Rex Black.png::CompressedTexture2D::7233578561278161678::1720557410::1720558408::1::::<><>::
+Colossal T-Rex Orange.png::CompressedTexture2D::621908579125212238::1720557410::1720558408::1::::<><>::
+Colossal T-Rex Red.png::CompressedTexture2D::4134872657707414100::1720557410::1720558408::1::::<><>::
+Corrupted Fire Wolf.png::CompressedTexture2D::6591389716837497949::1720557410::1720558408::1::::<><>::
+Corrupted Ice Mantis B.png::CompressedTexture2D::4230467033979087316::1720557410::1720558408::1::::<><>::
+Corrupted Ice Mantis.png::CompressedTexture2D::8048970508725112670::1720557410::1720558408::1::::<><>::
+Corrupted Stone Bear.png::CompressedTexture2D::7633086538284715738::1720557410::1720558408::1::::<><>::
+Corrupted Void Fire Wolf.png::CompressedTexture2D::6933394139877897786::1720557410::1720558408::1::::<><>::
+Crocodile Warriors Mage.png::CompressedTexture2D::2289969440401144928::1720557410::1720558408::1::::<><>::
+Crocodile Warriors Paladin.png::CompressedTexture2D::8981531404802386123::1720557410::1720558408::1::::<><>::
+Crocodile Warriors Rogue.png::CompressedTexture2D::2577899771642371770::1720557410::1720558408::1::::<><>::
+Crystal Golem.png::CompressedTexture2D::5430139995226562998::1720557410::1720558408::1::::<><>::
+Cyber Blader.png::CompressedTexture2D::1904645978034856771::1720557411::1720558408::1::::<><>::
+Cyber Hawk.png::CompressedTexture2D::6251413132308812900::1720557411::1720558408::1::::<><>::
+Cyber Ogre.png::CompressedTexture2D::4306588283450574856::1720557411::1720558408::1::::<><>::
+Cyber Pegasus.png::CompressedTexture2D::2489303843357517884::1720557411::1720558408::1::::<><>::
+Cyber Slime.png::CompressedTexture2D::3544487771750016084::1720557411::1720558408::1::::<><>::
+Cybermancer.png::CompressedTexture2D::1650095369615939416::1720557411::1720558408::1::::<><>::
+Dark Elves Axe Warrior.png::CompressedTexture2D::5510231712643733066::1720557411::1720558408::1::::<><>::
+Dark Elves Crystal Mage.png::CompressedTexture2D::2445373085485086658::1720557411::1720558408::1::::<><>::
+Dark Elves Healer Priestess.png::CompressedTexture2D::7898657612418669981::1720557411::1720558408::1::::<><>::
+Darkness Angel Reaper.png::CompressedTexture2D::8994422375926452914::1720557411::1720558408::1::::<><>::
+Darkness Angel.png::CompressedTexture2D::1091417108936695569::1720557411::1720558408::1::::<><>::
+Darkness Banshee.png::CompressedTexture2D::6495163209492608840::1720557411::1720558408::1::::<><>::
+Darkness Behemoth.png::CompressedTexture2D::2797283956247104895::1720557411::1720558408::1::::<><>::
+Darkness Blade Colossus.png::CompressedTexture2D::6944163024503472301::1720557411::1720558408::1::::<><>::
+Darkness Blade Reaper.png::CompressedTexture2D::1769625074945529564::1720557411::1720558408::1::::<><>::
+Darkness Cultist Mage.png::CompressedTexture2D::1421173150070060966::1720557411::1720558408::1::::<><>::
+Darkness Devilimp.png::CompressedTexture2D::7683711241657405600::1720557411::1720558408::1::::<><>::
+Darkness Drakenvamp.png::CompressedTexture2D::1057077623887338336::1720557411::1720558408::1::::<><>::
+Darkness Dullahan.png::CompressedTexture2D::7364368032327482341::1720557411::1720558408::1::::<><>::
+Darkness Flame.png::CompressedTexture2D::1172396248516964493::1720557411::1720558408::1::::<><>::
+Darkness Gargoyle Atrox.png::CompressedTexture2D::3088502964645161769::1720557411::1720558408::1::::<><>::
+Darkness Hound Inferni.png::CompressedTexture2D::6500063723773599504::1720557411::1720558408::1::::<><>::
+Darkness Imp.png::CompressedTexture2D::2650875095753852281::1720557411::1720558408::1::::<><>::
+Darkness Knight Magellan.png::CompressedTexture2D::6916589192239301750::1720557411::1720558408::1::::<><>::
+Darkness Lord Knight.png::CompressedTexture2D::1719172900576837758::1720557411::1720558408::1::::<><>::
+Darkness Oculus.png::CompressedTexture2D::2117808574947806083::1720557411::1720558408::1::::<><>::
+Darkness Ogre.png::CompressedTexture2D::7845633803446337006::1720557411::1720558408::1::::<><>::
+Darkness Reaper.png::CompressedTexture2D::10280534483467024::1720557411::1720558408::1::::<><>::
+Darkness Seeker.png::CompressedTexture2D::495435363438569455::1720557411::1720558408::1::::<><>::
+Darkness Slime GhastMallow.png::CompressedTexture2D::4971923190104458247::1720557411::1720558408::1::::<><>::
+Darkness Slime.png::CompressedTexture2D::4619110764798685368::1720557411::1720558408::1::::<><>::
+Darkness Succubus Lariatt.png::CompressedTexture2D::7457225974561720403::1720557411::1720558408::1::::<><>::
+Darkness Succubus.png::CompressedTexture2D::6476065149107054955::1720557411::1720558408::1::::<><>::
+Darkness Wisp.png::CompressedTexture2D::2407600108195907366::1720557411::1720558408::1::::<><>::
+Desert Cactus Triple.png::CompressedTexture2D::5103261776728496129::1720557411::1720558408::1::::<><>::
+Desert Feral Cactus.png::CompressedTexture2D::2138129505847663543::1720557411::1720558408::1::::<><>::
+Desert Parasand.png::CompressedTexture2D::7310555616488438597::1720557411::1720558405::1::::<><>::
+Desert Rock Bunny.png::CompressedTexture2D::980107451628560095::1720557411::1720558405::1::::<><>::
+Desert Rock Lizard.png::CompressedTexture2D::7183257775020316863::1720557411::1720558405::1::::<><>::
+Desert Sand Snake.png::CompressedTexture2D::4870661253732867879::1720557411::1720558405::1::::<><>::
+Desert Sand Tentacle.png::CompressedTexture2D::8714688541329333932::1720557411::1720558405::1::::<><>::
+Dragon Black.png::CompressedTexture2D::1126908878747234390::1720557411::1720558405::1::::<><>::
+Dragon Dark King.png::CompressedTexture2D::6379079136991731070::1720557411::1720558405::1::::<><>::
+Dragon Egg A.png::CompressedTexture2D::8631317663102366417::1720557411::1720558405::1::::<><>::
+Dragon Egg B.png::CompressedTexture2D::3679753822193206835::1720557411::1720558405::1::::<><>::
+Dragon Egg C.png::CompressedTexture2D::8664578703536585441::1720557411::1720558405::1::::<><>::
+Dragon Egg D.png::CompressedTexture2D::1336769948552312427::1720557411::1720558405::1::::<><>::
+Dragon Egg E.png::CompressedTexture2D::5567131399437124506::1720557411::1720558405::1::::<><>::
+Dragon Emperor Zalaras.png::CompressedTexture2D::1370106837172511359::1720557411::1720558405::1::::<><>::
+Dragon Green.png::CompressedTexture2D::2368486205535023552::1720557411::1720558405::1::::<><>::
+Dragon King Blue.png::CompressedTexture2D::7792910138336875400::1720557411::1720558406::1::::<><>::
+Dragon King Brown.png::CompressedTexture2D::6270127163153026326::1720557411::1720558405::1::::<><>::
+Dragon King Green.png::CompressedTexture2D::6475009927048045111::1720557412::1720558405::1::::<><>::
+Dragon King Red.png::CompressedTexture2D::2038536890950850837::1720557412::1720558405::1::::<><>::
+Dragon Lord A.png::CompressedTexture2D::5556755630523015725::1720557412::1720558405::1::::<><>::
+Dragon Lord B.png::CompressedTexture2D::1024844944871109140::1720557412::1720558405::1::::<><>::
+Dragon Oriental Dragon.png::CompressedTexture2D::5726920126393459375::1720557412::1720558405::1::::<><>::
+Dragon Red.png::CompressedTexture2D::1987075865629083735::1720557412::1720558405::1::::<><>::
+Dragon Triple Head Darkness.png::CompressedTexture2D::3953084270648264491::1720557412::1720558405::1::::<><>::
+Dragon Triple Head Venom.png::CompressedTexture2D::1555139456668625869::1720557412::1720558405::1::::<><>::
+Dragon White King.png::CompressedTexture2D::6993936350731343755::1720557412::1720558405::1::::<><>::
+Dragon Wyrm.png::CompressedTexture2D::7793209335615027955::1720557412::1720558405::1::::<><>::
+Dragon Wyvern Blue.png::CompressedTexture2D::2614216495499192335::1720557412::1720558405::1::::<><>::
+Dragon Wyvern Brown.png::CompressedTexture2D::2600932142601869677::1720557412::1720558405::1::::<><>::
+Dragon Wyvern Green.png::CompressedTexture2D::6549638450574999742::1720557412::1720558405::1::::<><>::
+Dragon Wyvern Red.png::CompressedTexture2D::1366307494945057095::1720557412::1720558406::1::::<><>::
+Dragons Hydra.png::CompressedTexture2D::6265903036929306571::1720557412::1720558406::1::::<><>::
+Dragons Scarlet Wyrm.png::CompressedTexture2D::6751943618511212457::1720557412::1720558406::1::::<><>::
+Dragons Sea Dragon.png::CompressedTexture2D::187609840987623265::1720557412::1720558406::1::::<><>::
+Dryads Archer.png::CompressedTexture2D::7282840537837658830::1720557412::1720558406::1::::<><>::
+Dryads Mage.png::CompressedTexture2D::2045979038879439651::1720557412::1720558406::1::::<><>::
+Dryads Warrior.png::CompressedTexture2D::977582639563591834::1720557412::1720558406::1::::<><>::
+Dwarf Axe Warrior.png::CompressedTexture2D::6022509288915522145::1720557412::1720558406::1::::<><>::
+Dwarf Dragon Slayer.png::CompressedTexture2D::628372644977598629::1720557412::1720558406::1::::<><>::
+Dwarf Drill Knight.png::CompressedTexture2D::7445798178146658496::1720557412::1720558406::1::::<><>::
+Earth Bull.png::CompressedTexture2D::6304531105460107206::1720557412::1720558406::1::::<><>::
+Earth Bush Wisp.png::CompressedTexture2D::6275749211199191764::1720557412::1720558406::1::::<><>::
+Earth Gemstone Golem.png::CompressedTexture2D::1912243148099077777::1720557412::1720558406::1::::<><>::
+Earth Leaf Imp.png::CompressedTexture2D::3964693257306306644::1720557412::1720558406::1::::<><>::
+Earth Lion.png::CompressedTexture2D::8355368067825802636::1720557412::1720558406::1::::<><>::
+Earth Mandrake.png::CompressedTexture2D::2836624817917290883::1720557412::1720558406::1::::<><>::
+Earth Rock Golem.png::CompressedTexture2D::6013144195903851288::1720557412::1720558406::1::::<><>::
+Earth Snake.png::CompressedTexture2D::1822654473971679753::1720557412::1720558406::1::::<><>::
+Earth Spawn.png::CompressedTexture2D::3861598190454450679::1720557412::1720558406::1::::<><>::
+Earth Turtle.png::CompressedTexture2D::5275950634657992665::1720557412::1720558406::1::::<><>::
+Earth Wisp.png::CompressedTexture2D::2222036615314932111::1720557412::1720558406::1::::<><>::
+Egypt Archer.png::CompressedTexture2D::74523720805824931::1720557412::1720558406::1::::<><>::
+Egypt Axe.png::CompressedTexture2D::8626228111728348901::1720557412::1720558406::1::::<><>::
+Egypt Chariot.png::CompressedTexture2D::3246946492222787042::1720557412::1720558406::1::::<><>::
+Egypt Cobra.png::CompressedTexture2D::7816188538470296777::1720557412::1720558406::1::::<><>::
+Egypt Crocodile.png::CompressedTexture2D::6519640292739860131::1720557412::1720558406::1::::<><>::
+Egypt Hieracosphinx.png::CompressedTexture2D::7503111512741253376::1720557412::1720558406::1::::<><>::
+Egypt Knight.png::CompressedTexture2D::3482338808466107262::1720557412::1720558405::1::::<><>::
+Egypt Mage.png::CompressedTexture2D::6295371519996902819::1720557412::1720558405::1::::<><>::
+Egypt Mummy A.png::CompressedTexture2D::5674541086237187546::1720557412::1720558405::1::::<><>::
+Egypt Mummy B.png::CompressedTexture2D::2073469736662406838::1720557412::1720558405::1::::<><>::
+Egypt Mummy C.png::CompressedTexture2D::4815134895505176579::1720557412::1720558405::1::::<><>::
+Egypt Sphinx Big.png::CompressedTexture2D::5122324012886596964::1720557412::1720558405::1::::<><>::
+Egypt Sphinx Small.png::CompressedTexture2D::922061595270601790::1720557412::1720558405::1::::<><>::
+Eldritch Abomination Gazer.png::CompressedTexture2D::1266587665748785213::1720557412::1720558405::1::::<><>::
+Eldritch Abomination Hound.png::CompressedTexture2D::1197684196322593701::1720557412::1720558405::1::::<><>::
+Eldritch Abomination Tyrant.png::CompressedTexture2D::7200222832578656575::1720557412::1720558405::1::::<><>::
+Eldritch Abominations Abyss Denizen.png::CompressedTexture2D::2650047701905436686::1720557412::1720558405::1::::<><>::
+Eldritch Abominations Scout.png::CompressedTexture2D::6430195524417349264::1720557412::1720558405::1::::<><>::
+Eldritch Abominations Ultimate.png::CompressedTexture2D::9105828965166046660::1720557412::1720558405::1::::<><>::
+Eldritch Fire Slimei.png::CompressedTexture2D::5215803864496320735::1720557412::1720558405::1::::<><>::
+Eldritch Fire Slimeii.png::CompressedTexture2D::6662053411652353268::1720557413::1720558405::1::::<><>::
+Eldritch Fire Slimeiii.png::CompressedTexture2D::6711823957324568290::1720557413::1720558405::1::::<><>::
+Eldritch Gazer Merem.png::CompressedTexture2D::1422008138816419378::1720557413::1720558405::1::::<><>::
+Eldritch Gazer Velz.png::CompressedTexture2D::2982072090839745987::1720557413::1720558405::1::::<><>::
+Eldritch God ShacadYoggoth.png::CompressedTexture2D::7430848664982601845::1720557413::1720558405::1::::<><>::
+Eldritch Ice Slimei.png::CompressedTexture2D::6146422489475690808::1720557413::1720558405::1::::<><>::
+Eldritch Ice Slimeii.png::CompressedTexture2D::8069924732623145738::1720557413::1720558405::1::::<><>::
+Eldritch Ice Slimeiii.png::CompressedTexture2D::1993226630909418392::1720557413::1720558405::1::::<><>::
+Eldritch Slime A.png::CompressedTexture2D::4014658621691563527::1720557413::1720558405::1::::<><>::
+Eldritch Slime B.png::CompressedTexture2D::5353856445078781473::1720557413::1720558405::1::::<><>::
+Eldritch Slime Cerulean.png::CompressedTexture2D::5134115490101656125::1720557413::1720558405::1::::<><>::
+Eldritch Slime Spawn A.png::CompressedTexture2D::4580217367933436266::1720557413::1720558405::1::::<><>::
+Eldritch Slime Spawn B.png::CompressedTexture2D::5215765470728826213::1720557413::1720558405::1::::<><>::
+Eldritch Slime Spawn C.png::CompressedTexture2D::2315725358619130980::1720557413::1720558405::1::::<><>::
+Eldritch Slime Spawn D.png::CompressedTexture2D::7885933422501761928::1720557413::1720558405::1::::<><>::
+Eldritch Slime Spawn E.png::CompressedTexture2D::1412759649855119499::1720557413::1720558405::1::::<><>::
+Eldritch Slime Vermillion.png::CompressedTexture2D::5489904635197233484::1720557413::1720558405::1::::<><>::
+Eldritch Slime Viridian.png::CompressedTexture2D::4434768781864601249::1720557413::1720558405::1::::<><>::
+Elemental Earth Spirit Tellia.png::CompressedTexture2D::2129683539605613179::1720557413::1720558405::1::::<><>::
+Elemental Gemstone Earth.png::CompressedTexture2D::6206251511929784983::1720557413::1720558405::1::::<><>::
+Elemental Gemstone Fire.png::CompressedTexture2D::6066412553901028998::1720557413::1720558405::1::::<><>::
+Elemental Gemstone Thunder.png::CompressedTexture2D::8219852705993197004::1720557413::1720558405::1::::<><>::
+Elemental Gemstone Water.png::CompressedTexture2D::7984586897698470593::1720557413::1720558405::1::::<><>::
+Elemental Gemstone Wind.png::CompressedTexture2D::1413003616628156770::1720557413::1720558405::1::::<><>::
+Elemental Goddess Forest Flora.png::CompressedTexture2D::6599273796554439902::1720557413::1720558405::1::::<><>::
+Elemental Goddess Ice Yukia.png::CompressedTexture2D::7396816469629849689::1720557413::1720558405::1::::<><>::
+Elemental Goddess Wind Airi.png::CompressedTexture2D::6858226942096767646::1720557413::1720558405::1::::<><>::
+Elemental Ice Spirit Helida.png::CompressedTexture2D::8279719508871974721::1720557413::1720558405::1::::<><>::
+Elemental Spirit Fire Blazia.png::CompressedTexture2D::826973417211520518::1720557413::1720558405::1::::<><>::
+Elemental Titan Aphylia.png::CompressedTexture2D::3516414750875185461::1720557413::1720558405::1::::<><>::
+Elemental Titan Aquos.png::CompressedTexture2D::7111050086530783729::1720557413::1720558405::1::::<><>::
+Elemental Titan Ignis.png::CompressedTexture2D::7661933972733588673::1720557413::1720558405::1::::<><>::
+Elemental Titan Tellia.png::CompressedTexture2D::314670562637399277::1720557413::1720558405::1::::<><>::
+Elemental Titan Terran.png::CompressedTexture2D::7892577498494528147::1720557413::1720558405::1::::<><>::
+Elemental Titan Ventoss.png::CompressedTexture2D::5129920159107296926::1720557413::1720558405::1::::<><>::
+Elemental Wind Spirit Tempestia.png::CompressedTexture2D::7054330194454776311::1720557413::1720558405::1::::<><>::
+Elf_Archer.png::CompressedTexture2D::7602220761182622831::1720557413::1720558405::1::::<><>::
+Elf_Assasin.png::CompressedTexture2D::2336185282956521984::1720557413::1720558405::1::::<><>::
+Elf_Knight_Crossbow.png::CompressedTexture2D::709614055835028925::1720557413::1720558405::1::::<><>::
+Elf_Knight_Dual.png::CompressedTexture2D::7104258892586451833::1720557413::1720558405::1::::<><>::
+Elf_Knight_Mage.png::CompressedTexture2D::8979463470375462446::1720557413::1720558405::1::::<><>::
+Elf_Knight_Spear.png::CompressedTexture2D::66677154168637575::1720557413::1720558405::1::::<><>::
+Elf_Knight_Sword.png::CompressedTexture2D::370671330602855299::1720557413::1720558405::1::::<><>::
+Elves Nature Linker.png::CompressedTexture2D::1280595334630878584::1720557413::1720558405::1::::<><>::
+Elves Rogue Elf.png::CompressedTexture2D::8345107217944798289::1720557413::1720558405::1::::<><>::
+Elves Spellcaster.png::CompressedTexture2D::8622873779480520918::1720557413::1720558406::1::::<><>::
+Fallen Dragon Knight.png::CompressedTexture2D::232252693423520343::1720557413::1720558406::1::::<><>::
+Fallen Great Sword.png::CompressedTexture2D::8036543894475873474::1720557413::1720558406::1::::<><>::
+Fallen Winged Sword.png::CompressedTexture2D::8179861637711595194::1720557413::1720558406::1::::<><>::
+Fire Bull.png::CompressedTexture2D::5035673303496560864::1720557413::1720558406::1::::<><>::
+Fire Dragonspawn.png::CompressedTexture2D::5763459745837028320::1720557413::1720558406::1::::<><>::
+Fire Elemental  Imp.png::CompressedTexture2D::2929914178966981665::1720557413::1720558406::1::::<><>::
+Fire Elemental Angel.png::CompressedTexture2D::4905500629823823025::1720557413::1720558406::1::::<><>::
+Fire Elemental Bat.png::CompressedTexture2D::7459557465677538156::1720557413::1720558406::1::::<><>::
+Fire Kindred Flame.png::CompressedTexture2D::5513329681641441162::1720557413::1720558406::1::::<><>::
+Fire Lava Spawn.png::CompressedTexture2D::3406741361001382376::1720557413::1720558406::1::::<><>::
+Fire Lava Worm.png::CompressedTexture2D::7745139503361207859::1720557414::1720558406::1::::<><>::
+Fire Lion.png::CompressedTexture2D::5259001639075841255::1720557414::1720558406::1::::<><>::
+Fire Minivolcano.png::CompressedTexture2D::3132713594360205225::1720557414::1720558406::1::::<><>::
+Fire Ogre.png::CompressedTexture2D::9105315712388032704::1720557414::1720558406::1::::<><>::
+Fire Pumice Rock.png::CompressedTexture2D::7685413100889122536::1720557414::1720558406::1::::<><>::
+Fire Pumice Sheep.png::CompressedTexture2D::3329530573236692362::1720557414::1720558406::1::::<><>::
+Fire Sabretooth.png::CompressedTexture2D::4264836250556752176::1720557414::1720558406::1::::<><>::
+Fire Salamander.png::CompressedTexture2D::3393565175428671119::1720557414::1720558406::1::::<><>::
+Fire Snake.png::CompressedTexture2D::8438659210702717753::1720557414::1720558406::1::::<><>::
+FIre Toad.png::CompressedTexture2D::7904439634335664667::1720557414::1720558406::1::::<><>::
+Fire Turtle.png::CompressedTexture2D::5274194167130787618::1720557414::1720558406::1::::<><>::
+Fire Volcanic Golem.png::CompressedTexture2D::5745961832624871743::1720557414::1720558406::1::::<><>::
+Fire Volcanic Maiden.png::CompressedTexture2D::8333193744854363787::1720557414::1720558406::1::::<><>::
+Fire Vulture.png::CompressedTexture2D::1262359933156690512::1720557414::1720558406::1::::<><>::
+Fire Wisp.png::CompressedTexture2D::2186969971830517997::1720557414::1720558406::1::::<><>::
+Flame Knight.png::CompressedTexture2D::6744763866839199794::1720557414::1720558406::1::::<><>::
+Forest Blue Flower.png::CompressedTexture2D::2404681686195127982::1720557414::1720558406::1::::<><>::
+Forest Catermoth.png::CompressedTexture2D::8467834902841878203::1720557414::1720558406::1::::<><>::
+Forest Darkluff.png::CompressedTexture2D::4244051459852763142::1720557414::1720558406::1::::<><>::
+Forest Deer.png::CompressedTexture2D::2683963627099438406::1720557414::1720558406::1::::<><>::
+Forest Fairy Dragon Xinbal.png::CompressedTexture2D::83747900127939564::1720557414::1720558406::1::::<><>::
+Forest Fairy Filia.png::CompressedTexture2D::5982445465416134352::1720557414::1720558406::1::::<><>::
+Forest Fangrot.png::CompressedTexture2D::1900139034954933273::1720557414::1720558406::1::::<><>::
+Forest Golem.png::CompressedTexture2D::4154638380688340014::1720557414::1720558406::1::::<><>::
+Forest Grasshopper.png::CompressedTexture2D::7531541063531744969::1720557414::1720558406::1::::<><>::
+Forest Green Spider.png::CompressedTexture2D::3928747572868182082::1720557414::1720558406::1::::<><>::
+Forest Imperial Widow.png::CompressedTexture2D::2546369638396711958::1720557414::1720558406::1::::<><>::
+Forest Kawabun.png::CompressedTexture2D::4523988922865845941::1720557414::1720558406::1::::<><>::
+Forest Mobun.png::CompressedTexture2D::6696882989153300585::1720557414::1720558406::1::::<><>::
+Forest Mothy.png::CompressedTexture2D::1111818491744535486::1720557414::1720558406::1::::<><>::
+Forest Noxluff.png::CompressedTexture2D::8082220843650412073::1720557414::1720558406::1::::<><>::
+Forest Ogre Orkgre.png::CompressedTexture2D::1533775932970715156::1720557414::1720558406::1::::<><>::
+Forest Panda.png::CompressedTexture2D::5786042269291253030::1720557414::1720558406::1::::<><>::
+Forest Pink Flower.png::CompressedTexture2D::6691850952130843070::1720557414::1720558406::1::::<><>::
+Forest Red Flower.png::CompressedTexture2D::7766949355927497239::1720557414::1720558406::1::::<><>::
+Forest Red Spider.png::CompressedTexture2D::8789216201590363871::1720557414::1720558406::1::::<><>::
+Forest Shroom.png::CompressedTexture2D::5045711063350940338::1720557414::1720558406::1::::<><>::
+Forest Shroomy.png::CompressedTexture2D::8115251636886199387::1720557414::1720558406::1::::<><>::
+Forest Spider.png::CompressedTexture2D::91657082142740346::1720557414::1720558406::1::::<><>::
+Forest Spora.png::CompressedTexture2D::1715484037109007058::1720557414::1720558406::1::::<><>::
+Forest Sprout.png::CompressedTexture2D::5310412954475273873::1720557414::1720558406::1::::<><>::
+Forest Tree.png::CompressedTexture2D::3018273470885751263::1720557414::1720558406::1::::<><>::
+Forest Uzu.png::CompressedTexture2D::4725069763686763671::1720557414::1720558406::1::::<><>::
+Forest White Flower.png::CompressedTexture2D::8373660233934658716::1720557414::1720558406::1::::<><>::
+Gargoyle Grifos.png::CompressedTexture2D::8995814777302178121::1720557414::1720558406::1::::<><>::
+Garuda Garunix.png::CompressedTexture2D::2598911160133762546::1720557414::1720558406::1::::<><>::
+Gazers Eyewing.png::CompressedTexture2D::7764144928276002928::1720557414::1720558406::1::::<><>::
+Gazers Skull.png::CompressedTexture2D::413712528632824269::1720557414::1720558406::1::::<><>::
+Gazers Tenteye.png::CompressedTexture2D::2720451613885890517::1720557414::1720558406::1::::<><>::
+Ghost Ghostus.png::CompressedTexture2D::995867161664040788::1720557414::1720558406::1::::<><>::
+Ghost Knight Destrand.png::CompressedTexture2D::5381521110166271259::1720557414::1720558406::1::::<><>::
+Ghost Knight Galpha.png::CompressedTexture2D::1065915677077482569::1720557415::1720558406::1::::<><>::
+Ghost Knight Goliath.png::CompressedTexture2D::5353793346273788890::1720557415::1720558406::1::::<><>::
+Ghost Puppet Pailo.png::CompressedTexture2D::10965593880925611::1720557415::1720558406::1::::<><>::
+Ghost Revelator.png::CompressedTexture2D::5402153835806253890::1720557415::1720558406::1::::<><>::
+Goblin Archer.png::CompressedTexture2D::5487503947689604789::1720557415::1720558406::1::::<><>::
+Goblin Elite.png::CompressedTexture2D::3260384245962172739::1720557415::1720558406::1::::<><>::
+Goblin Grunt.png::CompressedTexture2D::696962648066170737::1720557415::1720558406::1::::<><>::
+Goblin Mage.png::CompressedTexture2D::3845273173298284124::1720557415::1720558406::1::::<><>::
+Goblin Raider.png::CompressedTexture2D::6204567871821491167::1720557415::1720558406::1::::<><>::
+God Novus.png::CompressedTexture2D::6585883345397309642::1720557415::1720558406::1::::<><>::
+Goddess Innova.png::CompressedTexture2D::8282641631421830659::1720557415::1720558406::1::::<><>::
+Gunblin Gibson.png::CompressedTexture2D::815073249568685649::1720557415::1720558406::1::::<><>::
+Gunblin Jackson.png::CompressedTexture2D::6010906684387228014::1720557415::1720558406::1::::<><>::
+Gunblin Schecter.png::CompressedTexture2D::2837953947927982820::1720557415::1720558406::1::::<><>::
+Halloween Bat.png::CompressedTexture2D::8585899621705304642::1720557415::1720558406::1::::<><>::
+Halloween Black Cat.png::CompressedTexture2D::1099944216706317728::1720557415::1720558406::1::::<><>::
+Halloween Dagger skeleton.png::CompressedTexture2D::8009261367046234601::1720557415::1720558406::1::::<><>::
+Halloween Lick O Wisp.png::CompressedTexture2D::5094427745203943342::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin Chariot Minion A.png::CompressedTexture2D::819183059535007818::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin Chariot Minion B.png::CompressedTexture2D::852313297709392799::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin Chariot No Minion.png::CompressedTexture2D::9121976629960209405::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin Chariot.png::CompressedTexture2D::7137828458204578241::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin Gentleman.png::CompressedTexture2D::1665188465276338327::1720557415::1720558406::1::::<><>::
+Halloween Pumpkin.png::CompressedTexture2D::7666289003596544283::1720557415::1720558406::1::::<><>::
+Halloween Skeleton.png::CompressedTexture2D::6208898857764064200::1720557415::1720558406::1::::<><>::
+Halloween Spirit Mumpkin.png::CompressedTexture2D::6871128816889418530::1720557415::1720558406::1::::<><>::
+Halloween Stein Monster.png::CompressedTexture2D::4846267076185875900::1720557415::1720558406::1::::<><>::
+Halloween Stein's Monster MK2.png::CompressedTexture2D::3115845469759893110::1720557415::1720558406::1::::<><>::
+Halloween Vampire.png::CompressedTexture2D::3030281156118934069::1720557415::1720558406::1::::<><>::
+Halloween Witch Baba.png::CompressedTexture2D::4067511713040360614::1720557415::1720558406::1::::<><>::
+Halloween Witch.png::CompressedTexture2D::3598791347263567424::1720557415::1720558406::1::::<><>::
+Ice Avian.png::CompressedTexture2D::6105955078919741834::1720557415::1720558406::1::::<><>::
+Ice Bull.png::CompressedTexture2D::6726276778359678707::1720557415::1720558406::1::::<><>::
+Ice Cave Bat.png::CompressedTexture2D::939204163122608082::1720557415::1720558406::1::::<><>::
+Ice Glacier SPawn.png::CompressedTexture2D::7286595260117805993::1720557415::1720558406::1::::<><>::
+Ice Golem.png::CompressedTexture2D::7907676174804947804::1720557415::1720558406::1::::<><>::
+Ice Kindred Glacier.png::CompressedTexture2D::9116924910185350152::1720557415::1720558406::1::::<><>::
+Ice Lion.png::CompressedTexture2D::2607929725237552996::1720557415::1720558406::1::::<><>::
+Ice Ogre.png::CompressedTexture2D::5449184251732559528::1720557415::1720558406::1::::<><>::
+Ice Snake.png::CompressedTexture2D::5836216486579697863::1720557415::1720558406::1::::<><>::
+Ice Snobros.png::CompressedTexture2D::819013857811078763::1720557415::1720558406::1::::<><>::
+Ice Snowball.png::CompressedTexture2D::8032339121541877633::1720557415::1720558406::1::::<><>::
+Ice Snowman.png::CompressedTexture2D::3570465253914265012::1720557415::1720558406::1::::<><>::
+Ice Spike.png::CompressedTexture2D::1240391387838729514::1720557415::1720558406::1::::<><>::
+Ice Turtle.png::CompressedTexture2D::2673742471822594938::1720557415::1720558406::1::::<><>::
+Ice Whisp.png::CompressedTexture2D::6665453866167354976::1720557415::1720558406::1::::<><>::
+Ice Yeti Whisp.png::CompressedTexture2D::6866247078949195348::1720557415::1720558406::1::::<><>::
+Ice Yeti.png::CompressedTexture2D::2167755678387924770::1720557415::1720558406::1::::<><>::
+Insect Red Ant Knight.png::CompressedTexture2D::6536340087368591027::1720557415::1720558406::1::::<><>::
+Insects Ant Lion.png::CompressedTexture2D::2350508529015575605::1720557415::1720558406::1::::<><>::
+Insects Bee.png::CompressedTexture2D::2200526018022516491::1720557415::1720558406::1::::<><>::
+Insects Black Ant Archer.png::CompressedTexture2D::8401625306791928118::1720557415::1720558406::1::::<><>::
+Insects Black Ant Berserker.png::CompressedTexture2D::6505030717877801816::1720557415::1720558406::1::::<><>::
+Insects Black Ant Knight.png::CompressedTexture2D::6494679106320787791::1720557415::1720558411::1::::<><>::
+Insects Black Ant Mage.png::CompressedTexture2D::3902612191544967523::1720557415::1720558411::1::::<><>::
+Insects Black Ant Protector.png::CompressedTexture2D::4668470059222987909::1720557416::1720558411::1::::<><>::
+Insects Caterpillar A.png::CompressedTexture2D::8348888312128291365::1720557416::1720558411::1::::<><>::
+Insects Caterpillar B.png::CompressedTexture2D::6763578553858641633::1720557416::1720558411::1::::<><>::
+Insects Dragon.png::CompressedTexture2D::6521573236310305076::1720557416::1720558411::1::::<><>::
+Insects Dragonfly B.png::CompressedTexture2D::5887253518268749604::1720557416::1720558411::1::::<><>::
+Insects Dragonfly.png::CompressedTexture2D::2840052523740085235::1720557416::1720558411::1::::<><>::
+Insects eyehopper.png::CompressedTexture2D::9096039408759776848::1720557416::1720558411::1::::<><>::
+Insects Fire Ant.png::CompressedTexture2D::2681496981822091046::1720557416::1720558411::1::::<><>::
+Insects Giant Bug Centipede.png::CompressedTexture2D::2913092775378859221::1720557416::1720558411::1::::<><>::
+Insects Giant Bug Death Worm A.png::CompressedTexture2D::7141762278582678281::1720557416::1720558411::1::::<><>::
+Insects Giant Bug Death Worm B.png::CompressedTexture2D::5779933440875561581::1720557416::1720558411::1::::<><>::
+Insects Giant Bug Hercules.png::CompressedTexture2D::5286414804470564368::1720557416::1720558411::1::::<><>::
+Insects Hell Mantis.png::CompressedTexture2D::4645662588780110676::1720557416::1720558411::1::::<><>::
+Insects Lunar Butterfly.png::CompressedTexture2D::7544029462179848256::1720557416::1720558411::1::::<><>::
+Insects Roach.png::CompressedTexture2D::836743707081361400::1720557416::1720558411::1::::<><>::
+Insects Scarab.png::CompressedTexture2D::2171101576088630924::1720557416::1720558411::1::::<><>::
+Insects Sickle Mantis.png::CompressedTexture2D::81142973662637709::1720557416::1720558411::1::::<><>::
+Insects Swarm.png::CompressedTexture2D::5462739893316717012::1720557416::1720558411::1::::<><>::
+Insects Tick.png::CompressedTexture2D::8306363509556352881::1720557416::1720558411::1::::<><>::
+Insects Tridentpupa.png::CompressedTexture2D::9175379066420476193::1720557416::1720558411::1::::<><>::
+Insects Waterstrider.png::CompressedTexture2D::1535771709919149768::1720557416::1720558411::1::::<><>::
+Knight Axe Common.png::CompressedTexture2D::6901085221168013186::1720557416::1720558411::1::::<><>::
+Knight Axe Elite.png::CompressedTexture2D::3377137940856691093::1720557416::1720558411::1::::<><>::
+Knight Blunderbuss Common.png::CompressedTexture2D::8424806223056043870::1720557416::1720558411::1::::<><>::
+Knight Blunderbuss Elite.png::CompressedTexture2D::5964708023253477661::1720557416::1720558411::1::::<><>::
+Knight Spear Elite.png::CompressedTexture2D::136365615914944954::1720557416::1720558411::1::::<><>::
+Knight Sword Elite.png::CompressedTexture2D::4165042495657467207::1720557416::1720558411::1::::<><>::
+Knights Spear Common.png::CompressedTexture2D::4736766052364124383::1720557416::1720558412::1::::<><>::
+Knights Sword Common.png::CompressedTexture2D::4684950458579115199::1720557416::1720558412::1::::<><>::
+Kobolds Dagger Kobold.png::CompressedTexture2D::217420644803439502::1720557416::1720558412::1::::<><>::
+Kobolds Mage Kobold.png::CompressedTexture2D::2009979395211584387::1720557416::1720558412::1::::<><>::
+Kobolds Spear Kobold.png::CompressedTexture2D::6919589495823548716::1720557416::1720558411::1::::<><>::
+Lamia.png::CompressedTexture2D::5086633091358737808::1720557416::1720558411::1::::<><>::
+Legendary Knight Ansellus.png::CompressedTexture2D::1896599120743748080::1720557416::1720558412::1::::<><>::
+Legendary Knight Arriete.png::CompressedTexture2D::1490861999419780548::1720557416::1720558411::1::::<><>::
+Legendary Knight Arriette F.png::CompressedTexture2D::7164051384570952284::1720557416::1720558411::1::::<><>::
+Legendary Knight Croix.png::CompressedTexture2D::261011733419091507::1720557416::1720558411::1::::<><>::
+Legendary Knight Dalton.png::CompressedTexture2D::8400692988397283725::1720557416::1720558411::1::::<><>::
+Legendary Knight Dante.png::CompressedTexture2D::722905358522106563::1720557416::1720558411::1::::<><>::
+Legendary Knight Jeanne.png::CompressedTexture2D::2416749731953851921::1720557416::1720558411::1::::<><>::
+Legendary Knight King Archial.png::CompressedTexture2D::2233790896279247645::1720557416::1720558412::1::::<><>::
+Legendary Knight Michael.png::CompressedTexture2D::8709799755520493892::1720557416::1720558411::1::::<><>::
+Legendary Knight Pizarro B.png::CompressedTexture2D::4240798025076520316::1720557416::1720558411::1::::<><>::
+Legendary Knight Pizarro.png::CompressedTexture2D::33197860286370131::1720557416::1720558411::1::::<><>::
+Legendary Knight Regulus.png::CompressedTexture2D::6548040858558614879::1720557416::1720558411::1::::<><>::
+Legendary Knight Remment.png::CompressedTexture2D::2340331892685261494::1720557416::1720558411::1::::<><>::
+Legendary Knight Sen.png::CompressedTexture2D::3381633411717722696::1720557416::1720558411::1::::<><>::
+Legendary Knight Serat.png::CompressedTexture2D::8687221746699799422::1720557416::1720558411::1::::<><>::
+Legendary Knight Zidh B.png::CompressedTexture2D::3810996418444399200::1720557416::1720558411::1::::<><>::
+Legendary Knight Zidh.png::CompressedTexture2D::5775196123773642966::1720557416::1720558411::1::::<><>::
+Legendary Knights Blacksmith Remment.png::CompressedTexture2D::6286479044136305339::1720557416::1720558411::1::::<><>::
+Legendary Knights Dancer Zidh.png::CompressedTexture2D::497354570097651623::1720557416::1720558411::1::::<><>::
+Legendary Knights Disciple Chain.png::CompressedTexture2D::6592213290186855571::1720557416::1720558411::1::::<><>::
+Legendary Knights Disciple Moonblade.png::CompressedTexture2D::5137069471277073606::1720557416::1720558411::1::::<><>::
+Legendary Knights Disciple Pike.png::CompressedTexture2D::6045103811268001456::1720557416::1720558411::1::::<><>::
+Legendary Knights Huntress Arriette.png::CompressedTexture2D::4651989987186627338::1720557416::1720558411::1::::<><>::
+Legendary Knights Minion Axe.png::CompressedTexture2D::8095347054676204996::1720557416::1720558411::1::::<><>::
+Legendary Knights Minion Claymore.png::CompressedTexture2D::2421421273048856674::1720557417::1720558411::1::::<><>::
+Legendary Knights Minion Spear.png::CompressedTexture2D::7016447841178409076::1720557417::1720558411::1::::<><>::
+Legendary Knights Nobleman Ansellus.png::CompressedTexture2D::9143461511288188679::1720557417::1720558411::1::::<><>::
+Legendary Knights Scholar Jeanne.png::CompressedTexture2D::5137312888801575502::1720557417::1720558411::1::::<><>::
+Legendary Knights Summoner Dante A.png::CompressedTexture2D::7915391757049030493::1720557417::1720558411::1::::<><>::
+Legendary Knights Summoner Dante B.png::CompressedTexture2D::4439791071494103709::1720557417::1720558411::1::::<><>::
+Library Book Golem.png::CompressedTexture2D::4187772781238148564::1720557417::1720558411::1::::<><>::
+Library Book Master.png::CompressedTexture2D::7322987518217783164::1720557417::1720558411::1::::<><>::
+Library Book Swarm B.png::CompressedTexture2D::4153394579144289230::1720557417::1720558411::1::::<><>::
+Library Book Swarm.png::CompressedTexture2D::246826553375613817::1720557417::1720558411::1::::<><>::
+Light Angel Heavy Knight.png::CompressedTexture2D::5061836916006183171::1720557417::1720558411::1::::<><>::
+Light Angel Knight.png::CompressedTexture2D::5719523154760851352::1720557417::1720558411::1::::<><>::
+Light Angel Maiden.png::CompressedTexture2D::6607146076378780647::1720557417::1720558411::1::::<><>::
+Light Creatures Throne.png::CompressedTexture2D::2742145160896711744::1720557417::1720558411::1::::<><>::
+Light Dragon.png::CompressedTexture2D::4981478800363760313::1720557417::1720558411::1::::<><>::
+Light Gemstone A.png::CompressedTexture2D::6495518325789542177::1720557417::1720558411::1::::<><>::
+Light Gemstone B.png::CompressedTexture2D::7874135133577833422::1720557417::1720558411::1::::<><>::
+Light Gemstone C.png::CompressedTexture2D::8464553445813245994::1720557417::1720558411::1::::<><>::
+Light Holy Orb.png::CompressedTexture2D::1597370929536362472::1720557417::1720558411::1::::<><>::
+Light Scholar Angel.png::CompressedTexture2D::1894285684643493795::1720557417::1720558411::1::::<><>::
+Light Slime.png::CompressedTexture2D::5543697496684631313::1720557417::1720558411::1::::<><>::
+Light Snake.png::CompressedTexture2D::8736544077042413664::1720557417::1720558411::1::::<><>::
+Light Summoned Angel.png::CompressedTexture2D::7428711844971426251::1720557417::1720558411::1::::<><>::
+Light Wisp.png::CompressedTexture2D::3216715301393979315::1720557417::1720558411::1::::<><>::
+Light Wolf.png::CompressedTexture2D::494191933684561292::1720557417::1720558411::1::::<><>::
+Machines Airship.png::CompressedTexture2D::8541037773813391438::1720557417::1720558411::1::::<><>::
+Machines Cannon.png::CompressedTexture2D::8276571930690472319::1720557417::1720558411::1::::<><>::
+Machines Fantasy Tank A.png::CompressedTexture2D::2734739824522301841::1720557417::1720558411::1::::<><>::
+Machines Fantasy Tank B.png::CompressedTexture2D::7991280772897768970::1720557417::1720558411::1::::<><>::
+MAchines Fantasy Tank C.png::CompressedTexture2D::3098543598980522799::1720557417::1720558411::1::::<><>::
+Machines Fantasy Tank D.png::CompressedTexture2D::1869838979900021489::1720557417::1720558411::1::::<><>::
+Machines Zeppellin.png::CompressedTexture2D::7535511622830822277::1720557417::1720558411::1::::<><>::
+Mage Garrintan.png::CompressedTexture2D::4390649312220190980::1720557417::1720558411::1::::<><>::
+Medieval Bandit Child.png::CompressedTexture2D::7986235295813537356::1720557417::1720558411::1::::<><>::
+Medieval Bandit Dagger Gun.png::CompressedTexture2D::805851304739636540::1720557417::1720558411::1::::<><>::
+Medieval Bandit Great Sword.png::CompressedTexture2D::8567195052827301909::1720557417::1720558411::1::::<><>::
+Megapack II Avian A.png::CompressedTexture2D::4267479607043727701::1720557417::1720558411::1::::<><>::
+Megapack II Avian Elephant.png::CompressedTexture2D::7753023468348134171::1720557417::1720558411::1::::<><>::
+Megapack II Betafish.png::CompressedTexture2D::4145640127831479679::1720557417::1720558411::1::::<><>::
+Megapack II Biofish.png::CompressedTexture2D::6874844929266867118::1720557417::1720558411::1::::<><>::
+Megapack II Black Lance Knight.png::CompressedTexture2D::1501023771717099326::1720557417::1720558411::1::::<><>::
+Megapack II Blue Seeker.png::CompressedTexture2D::3950845987869468206::1720557417::1720558411::1::::<><>::
+Megapack II Bug Originator.png::CompressedTexture2D::7179826286941918358::1720557417::1720558411::1::::<><>::
+Megapack II Colossal Mummy.png::CompressedTexture2D::752159938785269114::1720557417::1720558411::1::::<><>::
+Megapack II Crocoknight.png::CompressedTexture2D::5834287471999431641::1720557417::1720558411::1::::<><>::
+Megapack II Diamond Dog.png::CompressedTexture2D::8124290777127175630::1720557417::1720558411::1::::<><>::
+Megapack II Dryad Mini.png::CompressedTexture2D::1437033121540667816::1720557417::1720558411::1::::<><>::
+Megapack II Electroctopus.png::CompressedTexture2D::4387420162650446::1720557417::1720558411::1::::<><>::
+Megapack II Feathered Snake.png::CompressedTexture2D::557052920154659947::1720557417::1720558411::1::::<><>::
+Megapack II Flame Monkey.png::CompressedTexture2D::1898450565430193768::1720557417::1720558411::1::::<><>::
+Megapack II Forest Six-Wing Fairy.png::CompressedTexture2D::899424748267193684::1720557417::1720558411::1::::<><>::
+Megapack II Frost Gorilla.png::CompressedTexture2D::5864207873666518556::1720557417::1720558411::1::::<><>::
+Megapack II Horn Willow.png::CompressedTexture2D::4303868902206298336::1720557417::1720558411::1::::<><>::
+MEgapack II Hornet Warrior.png::CompressedTexture2D::6788631230296937807::1720557417::1720558411::1::::<><>::
+Megapack II Mountain Razortail Eagle.png::CompressedTexture2D::5967345403207179468::1720557417::1720558411::1::::<><>::
+Megapack II Red Shroom A.png::CompressedTexture2D::4516925074611616395::1720557417::1720558411::1::::<><>::
+MEgapack II Red Shroom B.png::CompressedTexture2D::1284181772988546735::1720557418::1720558412::1::::<><>::
+Megapack II Roaming Salamander.png::CompressedTexture2D::8577778628106379180::1720557418::1720558412::1::::<><>::
+Megapack II Rocktail Demolisher.png::CompressedTexture2D::7804676530446313663::1720557418::1720558412::1::::<><>::
+Megapack II Samurai Skeleton.png::CompressedTexture2D::4095721263388552882::1720557418::1720558412::1::::<><>::
+Megapack II Shadow Knight.png::CompressedTexture2D::6098689045124008273::1720557418::1720558412::1::::<><>::
+Megapack II Silver Avian.png::CompressedTexture2D::4226524353846412869::1720557418::1720558412::1::::<><>::
+Megapack II Spike Hopper.png::CompressedTexture2D::7819684268843160495::1720557418::1720558412::1::::<><>::
+Megapack II Spiked Caterpillar.png::CompressedTexture2D::844056830475337671::1720557418::1720558412::1::::<><>::
+Megapack II Toucan Panther.png::CompressedTexture2D::3387009377348913987::1720557418::1720558412::1::::<><>::
+Megapack II Void Demon B.png::CompressedTexture2D::6571123973526067127::1720557418::1720558412::1::::<><>::
+Megapack II White Minotaur.png::CompressedTexture2D::4906850611791629284::1720557418::1720558412::1::::<><>::
+Megapack II Wingless Dragon.png::CompressedTexture2D::28130836523383443::1720557418::1720558412::1::::<><>::
+Megapack III Axe Warrior Dwarf.png::CompressedTexture2D::8936176839277206073::1720557418::1720558412::1::::<><>::
+Megapack III Behemoth.png::CompressedTexture2D::3922153568294226211::1720557418::1720558412::1::::<><>::
+Megapack III Black Iron Minotaur Beef.png::CompressedTexture2D::7074864691334732328::1720557418::1720558412::1::::<><>::
+Megapack III Cerberus Ptolemaios.png::CompressedTexture2D::305740669675950335::1720557418::1720558412::1::::<><>::
+Megapack III Dragonslayer Dwarf.png::CompressedTexture2D::1127602804515531570::1720557418::1720558412::1::::<><>::
+Megapack III Elemental Lords Fire Lord.png::CompressedTexture2D::4193794676029756793::1720557418::1720558412::1::::<><>::
+Megapack III Elemental Lords Ice Maiden.png::CompressedTexture2D::8865691361103672501::1720557418::1720558412::1::::<><>::
+Megapack III Fallen Kings Arcane King Jeffroy.png::CompressedTexture2D::7345450111895434051::1720557418::1720558412::1::::<><>::
+Megapack III Fallen Kings King Of Dwarves Skor.png::CompressedTexture2D::7701711424147436430::1720557418::1720558412::1::::<><>::
+Megapack III Fallen Kings King Of Elves Dreyel.png::CompressedTexture2D::6917616964813870838::1720557418::1720558412::1::::<><>::
+Megapack III Fallen Kings King Of Giants Goken.png::CompressedTexture2D::1409704043582974949::1720557418::1720558412::1::::<><>::
+Megapack III Hellhound Inferni.png::CompressedTexture2D::7401059398073565894::1720557418::1720558412::1::::<><>::
+Megapack III Red Guard A.png::CompressedTexture2D::6514141069660692028::1720557418::1720558412::1::::<><>::
+Megapack III Red Guard B.png::CompressedTexture2D::6259300335155340904::1720557418::1720558412::1::::<><>::
+Megapack III Red Guard C.png::CompressedTexture2D::7868626192951971176::1720557418::1720558412::1::::<><>::
+Megapack III Undead Warrior Benkei.png::CompressedTexture2D::5539596465231261570::1720557418::1720558412::1::::<><>::
+Megapack III Void Gargoyle.png::CompressedTexture2D::7924228338739727461::1720557418::1720558412::1::::<><>::
+Megapack III Zodiac Aries.png::CompressedTexture2D::3428940880323036179::1720557418::1720558413::1::::<><>::
+Megpack III Drill Dwarf.png::CompressedTexture2D::7590150706394182399::1720557418::1720558412::1::::<><>::
+Megpack III Fallen Kings Undead King Berthelot.png::CompressedTexture2D::100880777792729619::1720557418::1720558412::1::::<><>::
+Mimic Armor.png::CompressedTexture2D::8591012703869183878::1720557418::1720558413::1::::<><>::
+Mimic Barrel.png::CompressedTexture2D::4990298495662379234::1720557418::1720558412::1::::<><>::
+Mimic Book.png::CompressedTexture2D::4881889696799766879::1720557418::1720558412::1::::<><>::
+Mimic Bow.png::CompressedTexture2D::1251944953652772416::1720557418::1720558412::1::::<><>::
+Mimic Bush.png::CompressedTexture2D::172186640360678258::1720557418::1720558412::1::::<><>::
+Mimic Chest.png::CompressedTexture2D::8704761991552454590::1720557418::1720558412::1::::<><>::
+Mimic Cloak.png::CompressedTexture2D::2813469869931193753::1720557418::1720558412::1::::<><>::
+Mimic Crystal.png::CompressedTexture2D::4680414007619524706::1720557418::1720558412::1::::<><>::
+Mimic Door.png::CompressedTexture2D::4732119836549634615::1720557418::1720558412::1::::<><>::
+Mimic Humanoid.png::CompressedTexture2D::1077256365007222363::1720557418::1720558412::1::::<><>::
+Mimic Jar.png::CompressedTexture2D::1235340047272102714::1720557418::1720558412::1::::<><>::
+Mimic Paper Plane.png::CompressedTexture2D::3173533003133183715::1720557418::1720558412::1::::<><>::
+Mimic Potion.png::CompressedTexture2D::4817681573809107691::1720557418::1720558412::1::::<><>::
+Mimic Sarcophagus.png::CompressedTexture2D::3105725070546771126::1720557418::1720558412::1::::<><>::
+Mimic Shield.png::CompressedTexture2D::9004825988393265659::1720557418::1720558412::1::::<><>::
+Mimic Slime.png::CompressedTexture2D::195332467292151774::1720557418::1720558412::1::::<><>::
+Mimic Sword.png::CompressedTexture2D::8897542635253622854::1720557418::1720558412::1::::<><>::
+Mimic.png::CompressedTexture2D::2341242463842784540::1720557418::1720558412::1::::<><>::
+Minotaur Beef.png::CompressedTexture2D::1195385865666375791::1720557419::1720558412::1::::<><>::
+Minotaur BloodshotBeef.png::CompressedTexture2D::5976882275618114307::1720557419::1720558412::1::::<><>::
+Mirror Mimic.png::CompressedTexture2D::5936802980166988073::1720557419::1720558412::1::::<><>::
+Mountain Bat.png::CompressedTexture2D::7846921305078950606::1720557419::1720558412::1::::<><>::
+Mountain Black Wolf.png::CompressedTexture2D::7853220252509827395::1720557419::1720558412::1::::<><>::
+Mountain Bull Dragon.png::CompressedTexture2D::2965273370810795504::1720557419::1720558412::1::::<><>::
+Mountain Bunny.png::CompressedTexture2D::7748032338141703130::1720557419::1720558412::1::::<><>::
+Mountain Chimera.png::CompressedTexture2D::5206596679544119132::1720557419::1720558412::1::::<><>::
+Mountain Dodo.png::CompressedTexture2D::3729161847210648468::1720557419::1720558412::1::::<><>::
+Mountain Fetero.png::CompressedTexture2D::4669921571835226452::1720557419::1720558412::1::::<><>::
+Mountain Goat.png::CompressedTexture2D::3308361238479754406::1720557419::1720558412::1::::<><>::
+Mountain Greathorn Goat.png::CompressedTexture2D::2537657065086948672::1720557419::1720558412::1::::<><>::
+Mountain Griffon.png::CompressedTexture2D::945522226901623624::1720557419::1720558412::1::::<><>::
+Mountain Harpy.png::CompressedTexture2D::616145228188906838::1720557419::1720558412::1::::<><>::
+Mountain Hornette.png::CompressedTexture2D::5660931307948472195::1720557419::1720558412::1::::<><>::
+Mountain Nanjo.png::CompressedTexture2D::8979460420579155604::1720557419::1720558412::1::::<><>::
+Mountain Owl.png::CompressedTexture2D::5978381207148719221::1720557419::1720558412::1::::<><>::
+Mountain Peacock.png::CompressedTexture2D::408806970357155224::1720557419::1720558412::1::::<><>::
+Mountain Rock Mimic.png::CompressedTexture2D::1515170076980175788::1720557419::1720558412::1::::<><>::
+Mountain Scorpion Scopus.png::CompressedTexture2D::311505569065264909::1720557419::1720558412::1::::<><>::
+Mountain Serpens.png::CompressedTexture2D::125536725594386091::1720557419::1720558412::1::::<><>::
+Mountain Snail.png::CompressedTexture2D::4571036126922383770::1720557419::1720558412::1::::<><>::
+Mountain Warthog.png::CompressedTexture2D::4427598277311516873::1720557419::1720558412::1::::<><>::
+Mountain Werebear Martz.png::CompressedTexture2D::1193426518184726215::1720557419::1720558412::1::::<><>::
+Mountain Winter Wolf.png::CompressedTexture2D::2741768803740354684::1720557419::1720558412::1::::<><>::
+Mountain Wolf.png::CompressedTexture2D::6711973753324535334::1720557419::1720558412::1::::<><>::
+MountainScarbear.png::CompressedTexture2D::56598388388648657::1720557419::1720558412::1::::<><>::
+Moutain Behemoth.png::CompressedTexture2D::239045042255612977::1720557419::1720558412::1::::<><>::
+Mushroom Don.png::CompressedTexture2D::1151185968701260387::1720557419::1720558412::1::::<><>::
+Mushroom Shroomslinger.png::CompressedTexture2D::9074170041914833504::1720557419::1720558412::1::::<><>::
+Objects Ace Club.png::CompressedTexture2D::8444115336830786170::1720557419::1720558412::1::::<><>::
+Objects Ace Diamond.png::CompressedTexture2D::4172737467057062225::1720557419::1720558412::1::::<><>::
+Objects Ace Heart.png::CompressedTexture2D::8639102382918504677::1720557419::1720558412::1::::<><>::
+Objects Ace Spade.png::CompressedTexture2D::7930225063794516832::1720557419::1720558412::1::::<><>::
+Objects Assault Station.png::CompressedTexture2D::1000785168136838684::1720557419::1720558412::1::::<><>::
+Objects bBishop.png::CompressedTexture2D::6979811782320928353::1720557419::1720558412::1::::<><>::
+Objects bHorse.png::CompressedTexture2D::9083731920131819630::1720557419::1720558412::1::::<><>::
+Objects bKing.png::CompressedTexture2D::1624223562158223047::1720557419::1720558412::1::::<><>::
+Objects bPawnA.png::CompressedTexture2D::4724108756839694343::1720557419::1720558412::1::::<><>::
+Objects bPawnB.png::CompressedTexture2D::1666462100763054103::1720557419::1720558412::1::::<><>::
+Objects bQueen.png::CompressedTexture2D::4642944163662987597::1720557419::1720558412::1::::<><>::
+Objects bTower.png::CompressedTexture2D::1455266851130913981::1720557419::1720558412::1::::<><>::
+Objects Dorian.png::CompressedTexture2D::6754716422400426022::1720557419::1720558412::1::::<><>::
+Objects Driller.png::CompressedTexture2D::5429757226297382857::1720557419::1720558412::1::::<><>::
+Objects Madpill.png::CompressedTexture2D::589671184092626285::1720557419::1720558412::1::::<><>::
+Objects Madsule.png::CompressedTexture2D::9158833937667494456::1720557419::1720558412::1::::<><>::
+Objects Mainframe.png::CompressedTexture2D::1219348532723588222::1720557419::1720558412::1::::<><>::
+Objects Medibros.png::CompressedTexture2D::2942559758751498163::1720557419::1720558412::1::::<><>::
+Objects Twin handheld.png::CompressedTexture2D::6223264756296235036::1720557419::1720558412::1::::<><>::
+Objects wBishop.png::CompressedTexture2D::4456200055433470449::1720557419::1720558412::1::::<><>::
+Objects wHorse.png::CompressedTexture2D::4603762897285958744::1720557419::1720558412::1::::<><>::
+Objects wKing.png::CompressedTexture2D::4978367104375456470::1720557419::1720558412::1::::<><>::
+Objects wPawnA.png::CompressedTexture2D::3481966078645990851::1720557419::1720558412::1::::<><>::
+Objects wPawnB.png::CompressedTexture2D::2707972272986050339::1720557419::1720558412::1::::<><>::
+Objects wQueen.png::CompressedTexture2D::4753473718442917255::1720557419::1720558412::1::::<><>::
+Objects wTower.png::CompressedTexture2D::8323708770766453703::1720557419::1720558412::1::::<><>::
+Objects YBox.png::CompressedTexture2D::7896519653353228844::1720557419::1720558412::1::::<><>::
+Orc Archer Weak.png::CompressedTexture2D::5660441763303486291::1720557420::1720558412::1::::<><>::
+Orc Archer.png::CompressedTexture2D::2818396356807690745::1720557420::1720558412::1::::<><>::
+Orc Axe Warrior Weak.png::CompressedTexture2D::203717412060087746::1720557420::1720558412::1::::<><>::
+Orc Axe Warrior.png::CompressedTexture2D::9164404250139800429::1720557420::1720558412::1::::<><>::
+Orc Axe Warrior_W.png::CompressedTexture2D::6676912789563590913::1720557420::1720558412::1::::<><>::
+Orc Sword Warrior Weak.png::CompressedTexture2D::7180986777352489419::1720557420::1720558412::1::::<><>::
+Orc Sword Warrior.png::CompressedTexture2D::7615551350520096046::1720557420::1720558412::1::::<><>::
+Orc War Drummer Weak.png::CompressedTexture2D::2782872151308733474::1720557420::1720558412::1::::<><>::
+Orc War Drummer.png::CompressedTexture2D::1010085129421495121::1720557420::1720558410::1::::<><>::
+Orc Warlock Weak.png::CompressedTexture2D::4182841670313356287::1720557420::1720558410::1::::<><>::
+Orc Warlock.png::CompressedTexture2D::1328620309658588960::1720557420::1720558410::1::::<><>::
+Pirate Bandit.png::CompressedTexture2D::6325517116147560432::1720557420::1720558410::1::::<><>::
+Pirate Captain.png::CompressedTexture2D::2701430161112471105::1720557420::1720558410::1::::<><>::
+Pirate Magic Scimitar.png::CompressedTexture2D::6062997634186855290::1720557420::1720558410::1::::<><>::
+Pirate Monkey.png::CompressedTexture2D::620675375078105513::1720557420::1720558410::1::::<><>::
+Pirate Parrot.png::CompressedTexture2D::371354554502328465::1720557420::1720558410::1::::<><>::
+Pirate Skeleton.png::CompressedTexture2D::4967662913682039549::1720557420::1720558409::1::::<><>::
+Plant Warriors Cape Sundew.png::CompressedTexture2D::6955615600663703429::1720557420::1720558410::1::::<><>::
+Plant Warriors Rose Knight.png::CompressedTexture2D::3697594611140897464::1720557420::1720558410::1::::<><>::
+Plant Warriors Screamer Mandrake.png::CompressedTexture2D::7550392289091767138::1720557420::1720558409::1::::<><>::
+Possessed Knights Axe.png::CompressedTexture2D::4272930727088741822::1720557420::1720558410::1::::<><>::
+Possessed Knights Gun.png::CompressedTexture2D::2462454009819015444::1720557420::1720558410::1::::<><>::
+Possessed Knights Saber.png::CompressedTexture2D::7046951030716884978::1720557420::1720558410::1::::<><>::
+Post-Modern Machinery Assault.png::CompressedTexture2D::28559399613340917::1720557420::1720558409::1::::<><>::
+Post-Modern Machinery Heavy.png::CompressedTexture2D::7358866466192619577::1720557420::1720558409::1::::<><>::
+Post-Modern Machinery Scout.png::CompressedTexture2D::1131169570895050099::1720557420::1720558410::1::::<><>::
+Post-Modern Soldier A.png::CompressedTexture2D::2080935664003875613::1720557420::1720558409::1::::<><>::
+Post-Modern Soldier B.png::CompressedTexture2D::6338630122669240902::1720557420::1720558409::1::::<><>::
+Post-Modern Soldier C.png::CompressedTexture2D::3116499245656951006::1720557420::1720558409::1::::<><>::
+Pre-Legendary Knights Cursed Swordsman Michael.png::CompressedTexture2D::2289788483872956742::1720557420::1720558410::1::::<><>::
+Pre-legendary Knights Inventor Sen.png::CompressedTexture2D::1096987848479129743::1720557420::1720558409::1::::<><>::
+Pre-Legendary Knights Onna-bugeisha Croix.png::CompressedTexture2D::5085890283810590301::1720557420::1720558409::1::::<><>::
+Rabbit Warriors Archer.png::CompressedTexture2D::8835082224240078662::1720557420::1720558409::1::::<><>::
+Rabbit Warriors Bandit.png::CompressedTexture2D::5343221218198245530::1720557420::1720558409::1::::<><>::
+Rabbit Warriors Knight.png::CompressedTexture2D::4382221867276413101::1720557420::1720558409::1::::<><>::
+Robot Dracozord.png::CompressedTexture2D::1630928976479704372::1720557420::1720558409::1::::<><>::
+Rock golem.png::CompressedTexture2D::4605210885244032152::1720557420::1720558409::1::::<><>::
+Rogue Bastard Sword.png::CompressedTexture2D::1880119147867673415::1720557420::1720558410::1::::<><>::
+Rogue Dagger Monk.png::CompressedTexture2D::6098742503628941469::1720557420::1720558410::1::::<><>::
+Rogue Twin Dagger.png::CompressedTexture2D::3524639838739465342::1720557420::1720558410::1::::<><>::
+Sea Abismos.png::CompressedTexture2D::4303075111163616762::1720557420::1720558410::1::::<><>::
+Sea Arman.png::CompressedTexture2D::4363118873980141491::1720557420::1720558410::1::::<><>::
+Sea Armes.png::CompressedTexture2D::3000861055533204404::1720557420::1720558410::1::::<><>::
+Sea Armon.png::CompressedTexture2D::2953048487567957828::1720557420::1720558410::1::::<><>::
+Sea Beach Dark Shell.png::CompressedTexture2D::6471577853999259860::1720557420::1720558410::1::::<><>::
+Sea Beach Dark Star.png::CompressedTexture2D::6398686039882294231::1720557420::1720558410::1::::<><>::
+Sea Beach Emperor Crab A.png::CompressedTexture2D::813186161796327006::1720557420::1720558410::1::::<><>::
+Sea Beach Emperor Crab B.png::CompressedTexture2D::9054648508152177908::1720557420::1720558410::1::::<><>::
+Sea Beach Hermit Crab.png::CompressedTexture2D::2310901475088957819::1720557420::1720558410::1::::<><>::
+Sea Beach Pelican.png::CompressedTexture2D::7564031531105224791::1720557420::1720558410::1::::<><>::
+Sea Beach Seagull.png::CompressedTexture2D::8702552706247873713::1720557420::1720558410::1::::<><>::
+Sea Beach Shell Claw A.png::CompressedTexture2D::300191973786669159::1720557420::1720558410::1::::<><>::
+Sea Beach Shell Claw B.png::CompressedTexture2D::3420927195869378566::1720557420::1720558410::1::::<><>::
+Sea Beach Spider Crab A.png::CompressedTexture2D::5875269028902831450::1720557420::1720558410::1::::<><>::
+Sea Beach Spider Crab B.png::CompressedTexture2D::4143191298989022625::1720557420::1720558410::1::::<><>::
+Sea Beach Spikestar .png::CompressedTexture2D::7890910072223458720::1720557420::1720558410::1::::<><>::
+Sea Beach Spore.png::CompressedTexture2D::2372063335612715717::1720557420::1720558410::1::::<><>::
+Sea Beach Star Shell.png::CompressedTexture2D::2637955870938769420::1720557421::1720558410::1::::<><>::
+Sea Beach Stars.png::CompressedTexture2D::204538013743932992::1720557421::1720558410::1::::<><>::
+Sea Beach Turtle Golem.png::CompressedTexture2D::4129947148216398725::1720557421::1720558410::1::::<><>::
+Sea Beach Turtle.png::CompressedTexture2D::1511905175051729734::1720557421::1720558410::1::::<><>::
+Sea Beach Urchin.png::CompressedTexture2D::3884539846136813741::1720557421::1720558410::1::::<><>::
+Sea Beach War Lobster A.png::CompressedTexture2D::1272787618959936527::1720557421::1720558410::1::::<><>::
+Sea Beach War Lobster B.png::CompressedTexture2D::8439738988314956305::1720557421::1720558410::1::::<><>::
+Sea Blue Dragon.png::CompressedTexture2D::8319093730024601374::1720557421::1720558410::1::::<><>::
+Sea Crab.png::CompressedTexture2D::6444350616101018077::1720557421::1720558410::1::::<><>::
+Sea Fatoad.png::CompressedTexture2D::3296724690923099795::1720557421::1720558409::1::::<><>::
+Sea Fish A.png::CompressedTexture2D::8193905726407556720::1720557421::1720558409::1::::<><>::
+Sea Fish B.png::CompressedTexture2D::7851618370319462201::1720557421::1720558409::1::::<><>::
+Sea Fish C.png::CompressedTexture2D::2801859732959189550::1720557421::1720558409::1::::<><>::
+Sea Horntle.png::CompressedTexture2D::6589079769189900851::1720557421::1720558409::1::::<><>::
+Sea Horse.png::CompressedTexture2D::633275369187822449::1720557421::1720558409::1::::<><>::
+Sea Jellyfish.png::CompressedTexture2D::8756245416510245331::1720557421::1720558409::1::::<><>::
+Sea Lickitoad.png::CompressedTexture2D::2972894929716811359::1720557421::1720558409::1::::<><>::
+Sea Lurker.png::CompressedTexture2D::3011701604508990441::1720557421::1720558409::1::::<><>::
+Sea Mermaid Warrior Arliette.png::CompressedTexture2D::7347107598581181613::1720557421::1720558409::1::::<><>::
+Sea Mermaid Warrior Sasha.png::CompressedTexture2D::451718554165004004::1720557421::1720558409::1::::<><>::
+Sea Mermaid Warrior Sion.png::CompressedTexture2D::1121397670240814718::1720557421::1720558409::1::::<><>::
+Sea Mermaid.png::CompressedTexture2D::3579340223767938177::1720557421::1720558409::1::::<><>::
+Sea Octi.png::CompressedTexture2D::4380530259812273936::1720557421::1720558409::1::::<><>::
+Sea Octopus.png::CompressedTexture2D::3516111753816549154::1720557421::1720558409::1::::<><>::
+Sea Piranos.png::CompressedTexture2D::5743509533832305257::1720557421::1720558409::1::::<><>::
+Sea Seaweed Cannon.png::CompressedTexture2D::4154665931639346113::1720557421::1720558409::1::::<><>::
+Sea Shark.png::CompressedTexture2D::201406551765254140::1720557421::1720558409::1::::<><>::
+Sea Shelltacke.png::CompressedTexture2D::5060764936217594242::1720557421::1720558409::1::::<><>::
+Sea Spheria.png::CompressedTexture2D::1905433564743344851::1720557421::1720558409::1::::<><>::
+Sea Tortoad.png::CompressedTexture2D::7570649603367267048::1720557421::1720558409::1::::<><>::
+Sea Turtle.png::CompressedTexture2D::7856717553237063343::1720557421::1720558409::1::::<><>::
+Sea Vamphibian.png::CompressedTexture2D::3085122863112207155::1720557421::1720558409::1::::<><>::
+Secondary Elementals Acid Elemental.png::CompressedTexture2D::6789914595150451789::1720557421::1720558409::1::::<><>::
+Secondary Elementals Time Elemental.png::CompressedTexture2D::7763343630560927953::1720557421::1720558409::1::::<><>::
+Secondary Elementals War Elemental.png::CompressedTexture2D::3573619611378685035::1720557421::1720558409::1::::<><>::
+Seven Sins Gluttony.png::CompressedTexture2D::5727713344623265898::1720557421::1720558409::1::::<><>::
+Seven Sins Greed.png::CompressedTexture2D::8655311238802001808::1720557421::1720558409::1::::<><>::
+Seven Sins Lust.png::CompressedTexture2D::7788085231225989184::1720557421::1720558409::1::::<><>::
+Seven Sins Pride.png::CompressedTexture2D::741319290424904282::1720557421::1720558409::1::::<><>::
+Seven Sins Sloth.png::CompressedTexture2D::8397716417801199825::1720557421::1720558409::1::::<><>::
+Seven Sins Wrath.png::CompressedTexture2D::3592189549474888355::1720557421::1720558409::1::::<><>::
+Skeleton Archer Sisbon.png::CompressedTexture2D::7260253199017380064::1720557421::1720558409::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::5147320889511941029::1720557421::1720558409::1::::<><>::
+Skeleton Dragon.png::CompressedTexture2D::5373637567898222470::1720557421::1720558409::1::::<><>::
+Skeleton Hare.png::CompressedTexture2D::981428171529220046::1720557421::1720558409::1::::<><>::
+Skeleton Knight Alstreim.png::CompressedTexture2D::1984122164447697474::1720557421::1720558409::1::::<><>::
+Skeleton Knight Baron.png::CompressedTexture2D::3464389266808649729::1720557421::1720558409::1::::<><>::
+Skeleton Knight Debon.png::CompressedTexture2D::7593458970735328572::1720557421::1720558409::1::::<><>::
+Skeleton Knight Debons.png::CompressedTexture2D::6504187911251324227::1720557421::1720558409::1::::<><>::
+Skeleton Mage Mabon.png::CompressedTexture2D::6748568668125777655::1720557421::1720558409::1::::<><>::
+Skeleton Mage.png::CompressedTexture2D::8410785517621182615::1720557421::1720558409::1::::<><>::
+Skull Knight Xoer.png::CompressedTexture2D::7335862877193211787::1720557421::1720558409::1::::<><>::
+Slime Blue.png::CompressedTexture2D::6946861270717655866::1720557421::1720558409::1::::<><>::
+Slime Darki.png::CompressedTexture2D::7973317573517301218::1720557421::1720558409::1::::<><>::
+Slime Darkii.png::CompressedTexture2D::5949683959836083024::1720557421::1720558409::1::::<><>::
+Slime Darkiii.png::CompressedTexture2D::5041076352059336790::1720557421::1720558409::1::::<><>::
+Slime Earthi.png::CompressedTexture2D::6539307004224026162::1720557422::1720558409::1::::<><>::
+Slime Earthii.png::CompressedTexture2D::4157146197522615955::1720557422::1720558409::1::::<><>::
+Slime Earthiii.png::CompressedTexture2D::9016636926394025910::1720557422::1720558409::1::::<><>::
+Slime Firei.png::CompressedTexture2D::1094622790086475725::1720557422::1720558409::1::::<><>::
+Slime Fireii.png::CompressedTexture2D::4443416647873019893::1720557422::1720558409::1::::<><>::
+Slime Fireiii.png::CompressedTexture2D::7857097618557757365::1720557422::1720558409::1::::<><>::
+Slime Holyi.png::CompressedTexture2D::3417321031971755134::1720557422::1720558409::1::::<><>::
+Slime Holyii.png::CompressedTexture2D::3438510524181435017::1720557422::1720558409::1::::<><>::
+Slime Holyiii.png::CompressedTexture2D::7375067485640410456::1720557422::1720558409::1::::<><>::
+Slime Icei.png::CompressedTexture2D::3742216314917834976::1720557422::1720558409::1::::<><>::
+Slime Iceii.png::CompressedTexture2D::1615535866129846692::1720557422::1720558411::1::::<><>::
+Slime Iceiii.png::CompressedTexture2D::5158641769455616716::1720557422::1720558411::1::::<><>::
+Slime RPG Attacker.png::CompressedTexture2D::3213430260577042982::1720557422::1720558411::1::::<><>::
+Slime RPG Basic.png::CompressedTexture2D::2133879340998351538::1720557422::1720558410::1::::<><>::
+Slime RPG Buffer.png::CompressedTexture2D::1685041149300419073::1720557422::1720558410::1::::<><>::
+Slime RPG Caster.png::CompressedTexture2D::7009303942704955331::1720557422::1720558410::1::::<><>::
+Slime RPG Debuffer.png::CompressedTexture2D::6964026778750697970::1720557422::1720558410::1::::<><>::
+Slime RPG Defender.png::CompressedTexture2D::6001161283512743362::1720557422::1720558410::1::::<><>::
+Slime RPG Healer.png::CompressedTexture2D::7980640573935606053::1720557422::1720558410::1::::<><>::
+Slime RPG King.png::CompressedTexture2D::4032622397640030696::1720557422::1720558410::1::::<><>::
+Slime Thunderi.png::CompressedTexture2D::2513169579770254564::1720557422::1720558410::1::::<><>::
+Slime Thunderii.png::CompressedTexture2D::144131991365923124::1720557422::1720558410::1::::<><>::
+Slime Thunderiii.png::CompressedTexture2D::5729879540339771840::1720557422::1720558410::1::::<><>::
+Slime Wateri.png::CompressedTexture2D::4563355253177869154::1720557422::1720558410::1::::<><>::
+Slime Waterii.png::CompressedTexture2D::8138520749456615183::1720557422::1720558410::1::::<><>::
+Slime Wateriii.png::CompressedTexture2D::1580574744969907362::1720557422::1720558410::1::::<><>::
+Slime Windi.png::CompressedTexture2D::5153139288458509307::1720557422::1720558410::1::::<><>::
+Slime Windii.png::CompressedTexture2D::3489117020254371449::1720557422::1720558410::1::::<><>::
+Slime Windiii.png::CompressedTexture2D::3567361812466368425::1720557422::1720558410::1::::<><>::
+Slimei.png::CompressedTexture2D::3959445333886309587::1720557422::1720558410::1::::<><>::
+Slimeii.png::CompressedTexture2D::3486535234114836368::1720557422::1720558410::1::::<><>::
+slimeiii.png::CompressedTexture2D::46834820795959245::1720557422::1720558410::1::::<><>::
+Special Spiders Dragon Spider.png::CompressedTexture2D::7321872967268943734::1720557422::1720558411::1::::<><>::
+Special Spiders Fire Spider.png::CompressedTexture2D::798053481528223911::1720557422::1720558410::1::::<><>::
+Special Spiders Ghost Spider.png::CompressedTexture2D::2788179131672444995::1720557422::1720558410::1::::<><>::
+Summon Alicorn.png::CompressedTexture2D::9018269437315045675::1720557422::1720558410::1::::<><>::
+Summon Carbuncle.png::CompressedTexture2D::2742496866658308673::1720557422::1720558410::1::::<><>::
+Summon Ifrit.png::CompressedTexture2D::5185573767830415142::1720557422::1720558410::1::::<><>::
+Summon Odin.png::CompressedTexture2D::6348733021297701433::1720557422::1720558410::1::::<><>::
+Summon Shiva.png::CompressedTexture2D::7352209034023004387::1720557422::1720558411::1::::<><>::
+Titan Alfadriel.png::CompressedTexture2D::2035734971107641736::1720557422::1720558411::1::::<><>::
+Titan Aquos.png::CompressedTexture2D::2350904562263021458::1720557422::1720558411::1::::<><>::
+Titan Darkness Ilnoct.png::CompressedTexture2D::8707822598953645170::1720557422::1720558411::1::::<><>::
+Titan Earth Terran.png::CompressedTexture2D::7640168303517348455::1720557422::1720558411::1::::<><>::
+Titan Fire Ignis.png::CompressedTexture2D::4819805865192916943::1720557422::1720558411::1::::<><>::
+Titan Ice Demeres.png::CompressedTexture2D::1289029145026085797::1720557422::1720558411::1::::<><>::
+Titan Wind Ventoss.png::CompressedTexture2D::4086104154555242671::1720557423::1720558411::1::::<><>::
+Titans Thunder Dynamo.png::CompressedTexture2D::6144185979026999982::1720557423::1720558411::1::::<><>::
+Toxic Cactus A.png::CompressedTexture2D::8839527170013567235::1720557423::1720558411::1::::<><>::
+Toxic Cactus B.png::CompressedTexture2D::770854486488940750::1720557423::1720558411::1::::<><>::
+Toxic Cactus C.png::CompressedTexture2D::584119975842833117::1720557423::1720558411::1::::<><>::
+Toxic Carnivorous Plant A.png::CompressedTexture2D::8853544265049268728::1720557423::1720558411::1::::<><>::
+Toxic Carnivorous Plant B.png::CompressedTexture2D::2877721854651255916::1720557423::1720558411::1::::<><>::
+Toxic Carnivorous Plant C.png::CompressedTexture2D::2770202093858371517::1720557423::1720558411::1::::<><>::
+Toxic FRog A2.png::CompressedTexture2D::5731012780213269701::1720557423::1720558411::1::::<><>::
+Toxic Frog A.png::CompressedTexture2D::4945834682571131138::1720557423::1720558411::1::::<><>::
+Toxic Frog B2.png::CompressedTexture2D::7172682711018906566::1720557423::1720558411::1::::<><>::
+Toxic Frog B.png::CompressedTexture2D::786361155091004130::1720557423::1720558411::1::::<><>::
+Toxic Frog C2.png::CompressedTexture2D::2341325787099596951::1720557423::1720558411::1::::<><>::
+Toxic Frog C.png::CompressedTexture2D::7594519373238136562::1720557423::1720558411::1::::<><>::
+Toxic Maneater Plan A.png::CompressedTexture2D::8466385892158107832::1720557423::1720558411::1::::<><>::
+Toxic Maneater Plant B.png::CompressedTexture2D::7661018042571565506::1720557423::1720558411::1::::<><>::
+Toxic Maneater Plant C.png::CompressedTexture2D::186914127136552275::1720557423::1720558411::1::::<><>::
+Toxic Root A.png::CompressedTexture2D::8279982656793882375::1720557423::1720558411::1::::<><>::
+Toxic Root B.png::CompressedTexture2D::3913482016304876021::1720557423::1720558411::1::::<><>::
+Toxic Shroom A.png::CompressedTexture2D::5932864721155473880::1720557423::1720558411::1::::<><>::
+Toxic Shroom B.png::CompressedTexture2D::5532007751035942019::1720557423::1720558411::1::::<><>::
+Toxic Shroom C.png::CompressedTexture2D::1073644199715602123::1720557423::1720558411::1::::<><>::
+Tribal Elves Bastard Sword.png::CompressedTexture2D::7075983841309444723::1720557423::1720558410::1::::<><>::
+Tribal Elves Dagger.png::CompressedTexture2D::6453262882962337988::1720557423::1720558410::1::::<><>::
+Tribal Elves Rapier.png::CompressedTexture2D::4436746493045413623::1720557423::1720558410::1::::<><>::
+Undead Benkei.png::CompressedTexture2D::5412513406492801624::1720557423::1720558410::1::::<><>::
+Undead Claw Knight.png::CompressedTexture2D::1565153507959509786::1720557423::1720558410::1::::<><>::
+Undead Gigaraven.png::CompressedTexture2D::6023984333532667497::1720557423::1720558410::1::::<><>::
+Undead Jiangshi.png::CompressedTexture2D::7298817565881621610::1720557423::1720558410::1::::<><>::
+Undead Skull Slime.png::CompressedTexture2D::3722528552917158874::1720557423::1720558410::1::::<><>::
+Undead Skull Tree.png::CompressedTexture2D::3700518112399740567::1720557423::1720558410::1::::<><>::
+Undead Slime.png::CompressedTexture2D::3081713630683021421::1720557423::1720558410::1::::<><>::
+Undead Walker.png::CompressedTexture2D::1799874214111518126::1720557423::1720558410::1::::<><>::
+Undead Wolf.png::CompressedTexture2D::8766209277240492584::1720557423::1720558410::1::::<><>::
+Vampiric Creature Dragon Lamprey.png::CompressedTexture2D::260686917400102479::1720557423::1720558410::1::::<><>::
+Vampiric Creatures Flying Leech.png::CompressedTexture2D::4192512369345722610::1720557423::1720558410::1::::<><>::
+Vampiric Creatures Giant Mosquito.png::CompressedTexture2D::4640904453451622962::1720557423::1720558410::1::::<><>::
+Voidoll Erabos.png::CompressedTexture2D::7721482532275341438::1720557423::1720558410::1::::<><>::
+Voidoll Erebia.png::CompressedTexture2D::8199653485667843924::1720557423::1720558410::1::::<><>::
+Voidoll Erebus.png::CompressedTexture2D::7336564100929802053::1720557423::1720558410::1::::<><>::
+Weretiger Maxima.png::CompressedTexture2D::7569561000460344369::1720557423::1720558410::1::::<><>::
+Werewolf Rigel.png::CompressedTexture2D::1690609063669012026::1720557423::1720558410::1::::<><>::
+Whisp Wispia.png::CompressedTexture2D::7660160368360562511::1720557423::1720558410::1::::<><>::
+Wind Avian.png::CompressedTexture2D::5457170878338596989::1720557423::1720558410::1::::<><>::
+Wind Bunny.png::CompressedTexture2D::423232793082320603::1720557423::1720558410::1::::<><>::
+Wind Fairy.png::CompressedTexture2D::4716851389153924022::1720557423::1720558410::1::::<><>::
+Wind Feathered Golem.png::CompressedTexture2D::4470383796215545557::1720557423::1720558410::1::::<><>::
+Wind Feathered Razor.png::CompressedTexture2D::5596906367972071302::1720557423::1720558410::1::::<><>::
+Wind Harpy.png::CompressedTexture2D::2336033630304853782::1720557423::1720558410::1::::<><>::
+Wind Lion.png::CompressedTexture2D::4921310808424752912::1720557423::1720558410::1::::<><>::
+Wind Mantis.png::CompressedTexture2D::4699900725030234514::1720557423::1720558410::1::::<><>::
+Wind Snake.png::CompressedTexture2D::5322358778761556112::1720557423::1720558410::1::::<><>::
+Wind Spawn.png::CompressedTexture2D::4981715513061610932::1720557423::1720558410::1::::<><>::
+Wind Wisp.png::CompressedTexture2D::8702505675834023290::1720557423::1720558410::1::::<><>::
+Witch Hunters Healer.png::CompressedTexture2D::3191270741000913080::1720557423::1720558410::1::::<><>::
+Witch Hunters Leader.png::CompressedTexture2D::4693673109615700261::1720557423::1720558410::1::::<><>::
+Witch Hunters Noble.png::CompressedTexture2D::7712341947290117572::1720557424::1720558410::1::::<><>::
+Xmas Bear.png::CompressedTexture2D::6024842048804323278::1720557424::1720558410::1::::<><>::
+Xmas Cookie.png::CompressedTexture2D::6766625561205538891::1720557424::1720558410::1::::<><>::
+Xmas Penguin.png::CompressedTexture2D::8797873259744564247::1720557424::1720558410::1::::<><>::
+Xmas Snowman.png::CompressedTexture2D::679844236771824842::1720557424::1720558410::1::::<><>::
+Xmas Tree.png::CompressedTexture2D::4610175006537198556::1720557424::1720558410::1::::<><>::
+Zodiac Aquarius B.png::CompressedTexture2D::7001225193707194664::1720557424::1720558410::1::::<><>::
+Zodiac Aquarius.png::CompressedTexture2D::6505885104351461481::1720557424::1720558410::1::::<><>::
+Zodiac Aries B.png::CompressedTexture2D::6595290030960796487::1720557424::1720558410::1::::<><>::
+Zodiac Aries.png::CompressedTexture2D::6849468082293398728::1720557424::1720558410::1::::<><>::
+Zodiac Capricorn.png::CompressedTexture2D::3331530559725132772::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Cancer.png::CompressedTexture2D::8795327035665606657::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Libra.png::CompressedTexture2D::7006049932724197703::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Ophichus.png::CompressedTexture2D::6289045712476507929::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Pisces.png::CompressedTexture2D::6961155774620126829::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Saggitarius.png::CompressedTexture2D::1176528976398764023::1720557424::1720558410::1::::<><>::
+Zodiac Creatures Scorpion.png::CompressedTexture2D::4511027731473048613::1720557424::1720558410::1::::<><>::
+Zodiac Gemini.png::CompressedTexture2D::8362931477181458434::1720557424::1720558410::1::::<><>::
+Zodiac Leo B.png::CompressedTexture2D::1624640758989191766::1720557424::1720558410::1::::<><>::
+Zodiac Leo.png::CompressedTexture2D::6653847320158400938::1720557424::1720558410::1::::<><>::
+Zodiac Taurus.png::CompressedTexture2D::2635964344159800702::1720557424::1720558410::1::::<><>::
+Zodiac Virgo B.png::CompressedTexture2D::7972495541916784394::1720557424::1720558410::1::::<><>::
+Zodiac Virgo.png::CompressedTexture2D::80378933125556561::1720557424::1720558410::1::::<><>::
+::res://Assets/::1720558267
